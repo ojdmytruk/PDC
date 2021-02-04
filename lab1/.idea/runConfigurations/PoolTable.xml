@@ -1,6 +1,6 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="PoolTable" type="Application" factoryName="Application">
-    <option name="MAIN_CLASS_NAME" value="Bounce" />
+    <option name="MAIN_CLASS_NAME" value="Pool.Bounce" />
     <module name="lab1" />
     <method v="2">
       <option name="Make" enabled="true" />

@@ -1,6 +1,7 @@
+package Pool;
+
 import java.awt.*;
 import java.awt.geom.Ellipse2D;
-import java.util.Random;
 
 class Ball {
     private Component canvas;
@@ -10,21 +11,15 @@ class Ball {
     private int x = 0;
     private int y= 0;
     private int dx = 2;
-    private int dy = 5;
+    private int dy = 2;
 
 
-    public Ball(Component c, Color color){
+    public Ball(Component c, Color color, int xCoordinate, int yCoordinate){
         this.canvas = c;
         this.ballColor = color;
+        this.x = xCoordinate;
+        this.y = yCoordinate;
 
-
-        if(Math.random()<0.5){
-            x = new Random().nextInt(this.canvas.getWidth());
-            y = 0;
-        }else{
-            x = 0;
-            y = new Random().nextInt(this.canvas.getHeight());
-        }
     }
 
     public void draw (Graphics2D g2){
@@ -53,5 +48,21 @@ class Ball {
             dy = -dy;
         }
         this.canvas.repaint();
+    }
+
+    public int getX(){
+        return this.x;
+    }
+
+    public int getY(){
+        return this.y;
+    }
+
+    public void setColor(){
+        this.ballColor = Color.BLACK;
+    }
+
+    public Color getColor(){
+        return this.ballColor;
     }
 }
