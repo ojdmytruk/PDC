@@ -10,6 +10,9 @@ public class BounceFrame extends JFrame {
     private BallCanvas canvas;
     public static final int WIDTH = 860;
     public static final int HEIGHT = 350;
+    //pockets coordinates
+    int[] xPocketsArray = new int[] {2, WIDTH/2, WIDTH-44, 2, WIDTH/2, WIDTH-44};
+    int[] yPocketsArray = new int[] {2, 2, 2, HEIGHT-104, HEIGHT-104, HEIGHT-104};
 
 
     public BounceFrame() {
@@ -30,9 +33,7 @@ public class BounceFrame extends JFrame {
         JPanel buttonPanel = new JPanel();
         buttonPanel.setBackground(Color.GRAY);
 
-        //pockets coordinates
-        int[] xPocketsArray = new int[] {2, WIDTH/2, WIDTH-44, 2, WIDTH/2, WIDTH-44};
-        int[] yPocketsArray = new int[] {2, 2, 2, HEIGHT-104, HEIGHT-104, HEIGHT-104};
+
         Pockets p = new Pockets(canvas, Color.BLACK, xPocketsArray, yPocketsArray);
         canvas.addPockets(p);
         this.canvas.repaint();
@@ -118,7 +119,7 @@ public class BounceFrame extends JFrame {
             }
         });
 
-        // creates red balls with high thread priority (5) or
+        // creates red balls with high thread priority (10) or
         // blue balls with low thread priority (1)
         buttonRedVSBlue.addActionListener(new ActionListener() {
 
@@ -126,17 +127,13 @@ public class BounceFrame extends JFrame {
             public void actionPerformed(ActionEvent e) {
 
 
-                Ball redBall = new Ball(canvas, Color.red, canvas.getWidth() / 2, canvas.getHeight() / 2);
-                canvas.add(redBall);
-                BallThread threadRed = new BallThread(redBall, xPocketsArray, yPocketsArray);
-                threadRed.setPriority(10);
-                threadRed.start();
-                if ((textFieldBlueBallsNum.getText() != null) && (Integer.valueOf(textFieldBlueBallsNum.getText()) > 0)) {
+
+                if ((textFieldBlueBallsNum.getText() != "") && (Integer.valueOf(textFieldBlueBallsNum.getText()) > 0)) {
                     for (int i = 0; i < Integer.valueOf(textFieldBlueBallsNum.getText()); i++) {
                         Ball blueBall = new Ball(canvas, Color.blue, canvas.getWidth() / 2, canvas.getHeight() / 2);
                         canvas.add(blueBall);
                         BallThread threadBlue = new BallThread(blueBall, xPocketsArray, yPocketsArray);
-                        threadBlue.setPriority(1);
+                        threadBlue.setPriority(Thread.MIN_PRIORITY);
                         threadBlue.start();
                         System.out.println("Thread (blue) name = " +
                                 threadBlue.getName());
@@ -146,36 +143,31 @@ public class BounceFrame extends JFrame {
                         Ball blueBall = new Ball(canvas, Color.blue, canvas.getWidth() / 2, canvas.getHeight() / 2);
                         canvas.add(blueBall);
                         BallThread threadBlue = new BallThread(blueBall, xPocketsArray, yPocketsArray);
-                        threadBlue.setPriority(1);
+                        threadBlue.setPriority(Thread.MIN_PRIORITY);
                         threadBlue.start();
                         System.out.println("Thread (blue) name = " +
                                 threadBlue.getName());
                     }
 
 
-                    System.out.println("Thread (red) name = " +
-                            threadRed.getName());
 
                 }
+                Ball redBall = new Ball(canvas, Color.red, canvas.getWidth() / 2, canvas.getHeight() / 2);
+                canvas.add(redBall);
+                BallThread threadRed = new BallThread(redBall, xPocketsArray, yPocketsArray);
+                threadRed.setPriority(10);
+                threadRed.start();
+
+
+                System.out.println("Thread (red) name = " +
+                        threadRed.getName());
             }
         });
 
         buttonJoin.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                Ball bGreen = new Ball(canvas, Color.green, WIDTH / 2 - 100, HEIGHT / 2);
-                Ball bYellow = new Ball(canvas, Color.yellow, WIDTH / 2 + 100, HEIGHT / 2);
-                canvas.add(bGreen);
-                canvas.add(bYellow);
-                BallThread threadGreen = new BallThread(bGreen, xPocketsArray, yPocketsArray, 100);
-                BallThread threadYellow = new BallThread(bYellow, xPocketsArray, yPocketsArray, 100);
-                threadGreen.start();
-                try {
-                    threadGreen.join(5000);
-                } catch (InterruptedException exception) {
-
-                }
-                threadYellow.start();
+                joinVisualization();
             }
         });
 
@@ -202,6 +194,21 @@ public class BounceFrame extends JFrame {
 
 
         content.add(buttonPanel, BorderLayout.SOUTH);
+    }
+
+    public void joinVisualization(){
+        Ball bGreen = new Ball(canvas, Color.green, WIDTH / 2 - 100, HEIGHT / 2);
+        Ball bYellow = new Ball(canvas, Color.yellow, WIDTH / 2 + 100, HEIGHT / 2);
+        canvas.add(bGreen);
+        canvas.add(bYellow);
+        BallThread threadGreen = new BallThread(bGreen, xPocketsArray, yPocketsArray, 500);
+        BallThread threadYellow = new BallThread(bYellow, xPocketsArray, yPocketsArray, 500);
+        threadGreen.start();
+        try{
+            threadGreen.join();
+        }catch(InterruptedException exception){}
+
+        threadYellow.start();
     }
 
 }

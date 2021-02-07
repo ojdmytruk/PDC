@@ -1,10 +1,10 @@
 package Counter;
 
-public class IncrementThread implements Runnable{
+public class DecrementThread implements Runnable{
     private Counter counter;
     private String method;
 
-    public IncrementThread(Counter counter, String method){
+    public DecrementThread(Counter counter, String method){
         this.counter = counter;
         this.method = method;
     }
@@ -14,23 +14,24 @@ public class IncrementThread implements Runnable{
         switch (method){
             case ("asynchronous"):
                 for (int i=0; i<100000; i++){
-                    counter.asyncIncrement();
+                    counter.asyncDecrement();
                 }
                 break;
             case ("synchronized method"):
                 for (int i=0; i<100000; i++){
-                    counter.syncIncrementMethod();
+                    counter.syncDecrementMethod();
                 }
                 break;
             case ("synchronized block"):
                 for (int i=0; i<100000; i++){
-                    counter.syncIncrementBlock();
+                    counter.syncDecrementBlock();
                 }
             case ("locker"):
                 for (int i=0; i<100000; i++){
-                    counter.lockIncrement();
+                    counter.lockDecrement();
                 }
 
         }
+
     }
 }

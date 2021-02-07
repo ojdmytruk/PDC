@@ -12,5 +12,7 @@ public class Bounce {
 
         System.out.println("Thread name = " +
                 Thread.currentThread().getName());
+
+        frame.joinVisualization(); //for task 4
     }
 }

@@ -8,8 +8,8 @@ class Ball {
     private Color ballColor;
     private static final int XSIZE = 20;
     private static final int YSIZE = 20;
-    private int x = 0;
-    private int y= 0;
+    private int x;
+    private int y;
     private int dx = 2;
     private int dy = 2;
 

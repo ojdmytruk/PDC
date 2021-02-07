@@ -28,10 +28,9 @@ public class BallThread extends Thread {
                 System.out.println("Thread name = " + Thread.currentThread().getName());
                 for (int k=0; k<xCoordinates.length; k++){
                     if (b.getX()==xCoordinates[k] && b.getY()==yCoordinates[k]){
-                        System.out.println("Thread STOPS = " + Thread.currentThread().getName());
                         b.setColor();
-                        this.currentThread().stop();
-                        continue;
+                        //this.currentThread().interrupt();
+                        return;
                     }
                 }
                 Thread.sleep(5);
@@ -39,6 +38,8 @@ public class BallThread extends Thread {
 
         } catch(InterruptedException ex){
 
+            System.out.println("Thread STOPS = " + Thread.currentThread().getName());
+            return;
         }
     }
 }

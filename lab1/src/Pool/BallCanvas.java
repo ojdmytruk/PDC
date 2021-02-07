@@ -31,6 +31,11 @@ public class BallCanvas extends JPanel {
         }
         int ballsInPocket = balls.stream().filter(x -> x.getColor() == Color.BLACK).toArray().length;
         jLabelInPockets.setText(Integer.toString(ballsInPocket));
+        for (int i=0; i<balls.size(); i++){
+            if (balls.get(i).getColor()==Color.BLACK){
+                balls.remove(balls.get(i));
+            }
+        }
     }
 
 }
