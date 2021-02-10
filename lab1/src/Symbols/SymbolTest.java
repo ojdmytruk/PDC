@@ -3,9 +3,9 @@ package Symbols;
 public class SymbolTest {
     public static void main(String[] args) throws InterruptedException {
         //test simple
-        //testSimple();
+        testSimple();
 
-        testInTurn();
+        //testInTurn();
     }
 
     static void testSimple(){

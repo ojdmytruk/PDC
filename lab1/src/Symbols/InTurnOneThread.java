@@ -10,8 +10,9 @@ public class InTurnOneThread implements Runnable{
 
     @Override
     public void run() {
-        for (int i=0; i<50; i++){
+        for (int i=0; i<1000; i++){
             symbol.setAndPrintOne();
+            if (i!=0 && i%50==0) System.out.println();
         }
     }
 }

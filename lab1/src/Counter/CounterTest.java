@@ -11,9 +11,8 @@ public class CounterTest {
             Thread decrement = new Thread(new DecrementThread(counter, methods[i]));
             increment.start();
             decrement.start();
-//            increment.join();
-//            decrement.join();
-            while (increment.isAlive() || decrement.isAlive()){}
+            increment.join();
+            decrement.join();
             System.out.println(counter.getCounter());
             counter.setCounter(0);
         }
@@ -29,8 +28,10 @@ public class CounterTest {
             decrement1.start();
             increment2.start();
             decrement2.start();
-//            increment.join();
-//            decrement.join();
+            increment1.join();
+            decrement1.join();
+            increment2.join();
+            decrement2.join();
             while (increment1.isAlive() || decrement1.isAlive() || increment2.isAlive() || decrement2.isAlive()){}
             System.out.println(counter.getCounter());
             counter.setCounter(0);
