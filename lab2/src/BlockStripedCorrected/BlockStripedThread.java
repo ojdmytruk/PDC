@@ -16,12 +16,20 @@ public class BlockStripedThread extends Thread{
 
     @Override
     public void run() {
+//        while (this.column==null) {
+//            try {
+//                sleep(1);
+//            } catch (InterruptedException exception) {
+//                exception.printStackTrace();
+//            }
+//        }
         synchronized (column){
             int result = 0;
             for (int i = 0; i < row.length; i++) {
                 result += row[i] * column[i];
             }
             resultMatrix[i][j] = result;
+            //this.column = null;
         }
     }
 

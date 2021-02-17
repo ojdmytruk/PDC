@@ -4,10 +4,10 @@ public class BankTest {
     public static final int NACCOUNTS = 10;
     public static final int INITIAL_BALANCE = 10000;
     public static void main(String[] args) {
-        unsynchBankTest();
+        BankTest();
     }
 
-    public static void unsynchBankTest(){
+    public static void BankTest(){
         Bank b = new Bank(NACCOUNTS, INITIAL_BALANCE);
         int i;
         for (i = 0; i < NACCOUNTS; i++){

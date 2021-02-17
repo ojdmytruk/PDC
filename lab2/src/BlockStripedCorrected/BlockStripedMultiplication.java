@@ -47,6 +47,7 @@ public class BlockStripedMultiplication {
         ArrayList<BlockStripedThread> threads = new ArrayList<>();
         for (int i = 0; i < rowsCount; i++) {
             BlockStripedThread thread = new BlockStripedThread(i, matrixA[i], result.matrix);
+            //thread.start();
             threads.add(thread);
         }
 
@@ -82,6 +83,7 @@ public class BlockStripedMultiplication {
             }
             double[][] rows = severalRows(matrixA, firstRowForThread, lastRowForThread);
             BlockStripedNThread thread = new BlockStripedNThread(rows, result.matrix, firstRowForThread);
+            //thread.start();
             threads.add(thread);
             firstRowForThread = lastRowForThread;
         }
@@ -106,7 +108,7 @@ public class BlockStripedMultiplication {
     private double[][] transposeMatrix(double[][] matrix){
         double[][] result = new double[matrix.length][matrix.length];
         for (int i = 0; i < matrix.length; i++) {
-            for (int j = i+1; j < matrix.length; j++) {
+            for (int j = i; j < matrix.length; j++) {
                 result[i][j] = matrix[j][i];
                 result[j][i] = matrix[i][j];
             }

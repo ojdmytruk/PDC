@@ -21,6 +21,9 @@ public class TransferThread extends Thread{
                     int amount =
                             (int)(maxAmount * Math.random()/REPS);
                     bank.transfer(fromAccount, toAccount, amount);
+//                    bank.transferLocker(fromAccount, toAccount, amount);
+//                    bank.transferSync(fromAccount, toAccount, amount);
+//                    bank.transferWaitNotify(fromAccount, toAccount, amount);
                     Thread.sleep(1);
                 }
             }

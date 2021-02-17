@@ -3,15 +3,15 @@ package BlockStripedCorrected;
 public class BlockStripedMain {
 
     public static void main(String[] args){
-//        MatrixGenerator mg = new MatrixGenerator();
-//        double[][] matrixA = mg.identityMatrixGenerator(1000);
-//        double[][] matrixB = mg.lineElementMatrixGenerator(1000);
-//        Result r1 = new Result(1000);
-//        BlockStripedMultiplication bsm1 = new BlockStripedMultiplication(matrixA, matrixB, r1, 100);
-//        bsm1.multiplyMatrixNParallel();
-//        r1.printMatrix();
-        experimentNSize();
-        experimentNThreads();
+        MatrixGenerator mg = new MatrixGenerator();
+        double[][] matrixA = mg.identityMatrixGenerator(1000);
+        double[][] matrixB = mg.lineElementMatrixGenerator(1000);
+        Result r1 = new Result(1000);
+        BlockStripedMultiplication bsm1 = new BlockStripedMultiplication(matrixA, matrixB, r1, 20);
+        bsm1.multiplyMatrixParallel();
+        r1.printMatrix();
+//        experimentNSize();
+//        experimentNThreads();
 
     }
 

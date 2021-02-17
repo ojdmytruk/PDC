@@ -15,11 +15,20 @@ public class BlockStripedNThread extends Thread{
 
     @Override
     public void run() {
+//        while (this.column==null) {
+//            try {
+//                sleep(1);
+//            } catch (InterruptedException exception) {
+//                exception.printStackTrace();
+//            }
+//        }
         synchronized (resultMatrix){
             for (int i=0; i<rows.length; i++){
                 calculateRowElement(rows[i], i+firstRowIndex);
             }
+            //this.column = null;
         }
+
 
     }
 

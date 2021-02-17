@@ -1,7 +1,9 @@
-package FoxAlgo;
+package FoxThread;
 
 
-import BlockStripedCorrected.BlockStripedMultiplication;
+import FoxAlgo.FoxMultiplication;
+import FoxAlgo.MatrixGenerator;
+import FoxAlgo.Result;
 
 public class FoxMain {
 
