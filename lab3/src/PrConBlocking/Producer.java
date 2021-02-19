@@ -1,13 +1,15 @@
-package ProducerConsumer;
+package PrConBlocking;
 
 import java.util.Random;
+import java.util.concurrent.BlockingQueue;
 
 public class Producer implements Runnable {
-    private Drop drop;
+    private BlockingQueue<Integer> drop;
 
-    public Producer(Drop drop) {
+    public Producer(BlockingQueue<Integer> drop) {
         this.drop = drop;
     }
+
 
     public void run() {
 //        String importantInfo[] = {
@@ -16,7 +18,7 @@ public class Producer implements Runnable {
 //                "Little lambs eat ivy",
 //                "A kid will eat ivy too"
 //        };
-        int importantInfo[] = importantInfoArray(100);
+        Integer importantInfo[] = importantInfoArray(100);
 //        String importantInfo[] = importantInfoArray(1000);
 //        String importantInfo[] = importantInfoArray(5000);
         Random random = new Random();
@@ -24,16 +26,20 @@ public class Producer implements Runnable {
         for (int i = 0;
              i < importantInfo.length;
              i++) {
-            drop.put(importantInfo[i]);
             try {
-                Thread.sleep(random.nextInt(5000));
-            } catch (InterruptedException e) {}
+                drop.put(importantInfo[i]);
+            } catch (InterruptedException exception) {
+                exception.printStackTrace();
+            }
+//            try {
+//                Thread.sleep(random.nextInt(5000));
+//            } catch (InterruptedException e) {}
         }
-        drop.put(1111111);
+        //drop.put("DONE");
     }
 
-    public int[] importantInfoArray(int n){
-        int[] importantInfo = new int[n];
+    public Integer[] importantInfoArray(int n){
+        Integer[] importantInfo = new Integer[n];
         for (int i=0; i<n; i++){
             importantInfo[i] = i+1;
         }

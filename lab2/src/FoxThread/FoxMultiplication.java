@@ -1,7 +1,5 @@
 package FoxThread;
 
-import FoxAlgo.FoxThread;
-import FoxAlgo.Result;
 
 public class FoxMultiplication {
 
@@ -52,32 +50,37 @@ public class FoxMultiplication {
             for (int j=0; j<blocksNum; j++){
                 matrixOfMatricesA[i][j] = copyBlock(matrixA, iBound, jBound, blockSize);
                 matrixOfMatricesB[i][j] = copyBlock(matrixB, iBound, jBound, blockSize);
-                threads[i][j] = new FoxThread(result.matrix, iBound, jBound);
+                threads[i][j] = new FoxThread(result.matrix, iBound, jBound, blocksNum);
                 jBound += blockSize;
             }
             iBound += blockSize;
         }
-
+        for (int i=0; i<blocksNum; i++) {
+            for (int j = 0; j < blocksNum; j++) {
+                threads[i][j].setMatrixOfMatricesA(matrixOfMatricesA);
+                threads[i][j].setMatrixOfMatricesB(matrixOfMatricesB);
+            }
+        }
         long startTime = System.nanoTime();
-        for (int l=0; l<blocksNum; l++){
-            for (int i=0; i<blocksNum; i++){
-                for (int j=0; j<blocksNum; j++){
-                    threads[i][j].setBlockOfMatrixA(matrixOfMatricesA[i][(i+l) % blocksNum]);
-                    threads[i][j].setBlockOfMatrixB(matrixOfMatricesB[(i+l) % blocksNum][j]);
-                }
+//        for (int l=0; l<blocksNum; l++){
+//            for (int i=0; i<blocksNum; i++){
+//                for (int j=0; j<blocksNum; j++){
+//                    threads[i][j].setBlockOfMatrixA(matrixOfMatricesA[i][(i+l) % blocksNum]);
+//                    threads[i][j].setBlockOfMatrixB(matrixOfMatricesB[(i+l) % blocksNum][j]);
+//                }
+//            }
+//        }
+        for (int i=0; i<blocksNum; i++){
+            for (int j=0; j<blocksNum; j++){
+                threads[i][j].start();
             }
-            for (int i=0; i<blocksNum; i++) {
-                for (int j = 0; j < blocksNum; j++) {
-                    threads[i][j].run();
-                }
-            }
-            for (int i=0; i<blocksNum; i++) {
-                for (int j = 0; j < blocksNum; j++) {
-                    try {
-                        threads[i][j].join();
-                    } catch (InterruptedException e) {
-                        e.printStackTrace();
-                    }
+        }
+        for (int i=0; i<blocksNum; i++) {
+            for (int j = 0; j < blocksNum; j++) {
+                try {
+                    threads[i][j].join();
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
                 }
             }
         }

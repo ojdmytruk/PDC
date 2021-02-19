@@ -5,10 +5,10 @@ import java.util.ArrayList;
 public class BlockStripedMain {
 
     public static void main(String[] args){
-        MatrixGenerator mg = new MatrixGenerator();
-        double[][] matrixA = mg.identityMatrixGenerator(1000);
-        double[][] matrixB = mg.lineElementMatrixGenerator(1000);
-        BlockStripedMultiplication bsm = new BlockStripedMultiplication(matrixA, matrixB, 1000);
+//        MatrixGenerator mg = new MatrixGenerator();
+//        double[][] matrixA = mg.identityMatrixGenerator(1000);
+//        double[][] matrixB = mg.lineElementMatrixGenerator(1000);
+//        BlockStripedMultiplication bsm = new BlockStripedMultiplication(matrixA, matrixB, 1000);
 
 //        System.out.println();
 //        Result result1 = bsm.multiplyMatrixParallelNThreads();
@@ -16,10 +16,10 @@ public class BlockStripedMain {
 //        System.out.println();
 //        Result result2 = bsm.multiplyMatrixSerial();
 //        result2.printMatrix();
-        System.out.println();
-        Result result3 = bsm.multiplyMatrixParallel();
-        result3.printMatrix();
-        //experimentNSize();
+//        System.out.println();
+//        Result result3 = bsm.multiplyMatrixParallel();
+//        result3.printMatrix();
+        experimentNSize();
         //experimentNThreads();
     }
 
@@ -35,7 +35,7 @@ public class BlockStripedMain {
             double[][] matrixA = mg.randomMatrixGenerator(steps[i]);
             double[][] matrixB = mg.randomMatrixGenerator(steps[i]);
             for (int j=0; j<4; j++){
-                BlockStripedMultiplication bsm = new BlockStripedMultiplication(matrixA, matrixB);
+                BlockStripedMultiplication bsm = new BlockStripedMultiplication(matrixA, matrixB, 400);
                 Result r1 = bsm.multiplyMatrixParallel();
                 Result r2 = bsm.multiplyMatrixSerial();
                 timeSumParallel += bsm.getParallelExecutionTime();
@@ -44,10 +44,10 @@ public class BlockStripedMain {
             timesParallel[i] = timeSumParallel/4;
             timesSerial[i] = timeSumSerial/4;
         }
-        System.out.format("%32s%32s%32s%32s", "Size", "Serial", "Parallel", "SpeedUp");
+        System.out.format("%32s%32s%32s%32s%32s", "Threads", "Size", "Serial", "Parallel", "SpeedUp");
         for (int i=0; i<5; i++){
             System.out.println();
-            System.out.format("%32f%32f%32f%32f", (double) steps[i], (double) timesSerial[i], (double) timesParallel[i], (double) timesSerial[i]/timesParallel[i]);
+            System.out.format("%32s%32f%32f%32f%32f", "400", (double) steps[i], (double) timesSerial[i], (double) timesParallel[i], (double) timesSerial[i]/timesParallel[i]);
         }
         System.out.println();
     }

@@ -34,7 +34,7 @@ public class Bank {
             if (ntransacts % NTEST == 0)
                 test();
         }finally {
-            lock.lock();
+            lock.unlock();
         }
 
     }

@@ -1,17 +1,12 @@
 package FoxThread;
 
-
-import FoxAlgo.FoxMultiplication;
-import FoxAlgo.MatrixGenerator;
-import FoxAlgo.Result;
-
 public class FoxMain {
 
     public static void main(String[] args){
         MatrixGenerator mg = new MatrixGenerator();
-        double[][] matrixA = mg.identityMatrixGenerator(20);
-        double[][] matrixB = mg.lineElementMatrixGenerator(20);
-        Result r1 = new Result(20);
+        double[][] matrixA = mg.identityMatrixGenerator(1000);
+        double[][] matrixB = mg.lineElementMatrixGenerator(1000);
+        Result r1 = new Result(1000);
         FoxMultiplication fm1 = new FoxMultiplication(matrixA, matrixB, r1, 100);
         fm1.multiplyMatrixNParallel();
         r1.printMatrix();
@@ -32,7 +27,7 @@ public class FoxMain {
             double[][] matrixB = mg.randomMatrixGenerator(steps[i]);
             for (int j=0; j<4; j++){
                 Result r = new Result(steps[i]);
-                FoxMultiplication fm = new FoxMultiplication(matrixA, matrixB, r, 100);
+                FoxMultiplication fm = new FoxMultiplication(matrixA, matrixB, r, 400);
                 fm.multiplyMatrixNParallel();
                 fm.multiplyMatrixSerial();
                 timeSumParallel += fm.getParallelNExecutionTime();
@@ -41,10 +36,10 @@ public class FoxMain {
             timesParallel[i] = timeSumParallel/4;
             timesSerial[i] = timeSumSerial/4;
         }
-        System.out.format("%32s%32s%32s%32s", "Size", "Serial", "Parallel", "SpeedUp");
+        System.out.format("%32s%32s%32s%32s%32s", "Threads", "Size", "Serial", "Parallel", "SpeedUp");
         for (int i=0; i<5; i++){
             System.out.println();
-            System.out.format("%32f%32f%32f%32f", (double) steps[i], (double) timesSerial[i], (double) timesParallel[i], (double) timesSerial[i]/timesParallel[i]);
+            System.out.format("%32s%32f%32f%32f%32f", "400", (double) steps[i], (double) timesSerial[i], (double) timesParallel[i], (double) timesSerial[i]/timesParallel[i]);
         }
         System.out.println();
     }
@@ -52,10 +47,10 @@ public class FoxMain {
     public static void experimentNThreads(){
         long[] timesSerial = new long[5];
         long[] timesParallel = new long[5];
-        int[] threads = new int[]{100,400,625,2500,10000};
+        int[] threads = new int[]{100,400,625,2500};
         long timeSumSerial = 0;
 
-        for (int i=0; i<5; i++){
+        for (int i=0; i<4; i++){
             long timeSumParallel = 0;
             MatrixGenerator mg = new MatrixGenerator();
             double[][] matrixA = mg.randomMatrixGenerator(1000);

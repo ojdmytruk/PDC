@@ -11,8 +11,7 @@ public class BankTest {
         Bank b = new Bank(NACCOUNTS, INITIAL_BALANCE);
         int i;
         for (i = 0; i < NACCOUNTS; i++){
-            TransferThread t = new TransferThread(b, i,
-                    INITIAL_BALANCE);
+            TransferThread t = new TransferThread(b, i, INITIAL_BALANCE);
             t.setPriority(Thread.NORM_PRIORITY + i % 2);
             t.start () ;
         }
