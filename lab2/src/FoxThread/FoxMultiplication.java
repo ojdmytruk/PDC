@@ -45,6 +45,8 @@ public class FoxMultiplication {
         double[][][][] matrixOfMatricesB = new double[blocksNum][blocksNum][blockSize][blockSize];
         int iBound = 0;
 
+        long startTime = System.nanoTime();
+
         for (int i=0; i<blocksNum; i++){
             int jBound = 0;
             for (int j=0; j<blocksNum; j++){
@@ -55,21 +57,14 @@ public class FoxMultiplication {
             }
             iBound += blockSize;
         }
+
         for (int i=0; i<blocksNum; i++) {
             for (int j = 0; j < blocksNum; j++) {
                 threads[i][j].setMatrixOfMatricesA(matrixOfMatricesA);
                 threads[i][j].setMatrixOfMatricesB(matrixOfMatricesB);
             }
         }
-        long startTime = System.nanoTime();
-//        for (int l=0; l<blocksNum; l++){
-//            for (int i=0; i<blocksNum; i++){
-//                for (int j=0; j<blocksNum; j++){
-//                    threads[i][j].setBlockOfMatrixA(matrixOfMatricesA[i][(i+l) % blocksNum]);
-//                    threads[i][j].setBlockOfMatrixB(matrixOfMatricesB[(i+l) % blocksNum][j]);
-//                }
-//            }
-//        }
+
         for (int i=0; i<blocksNum; i++){
             for (int j=0; j<blocksNum; j++){
                 threads[i][j].start();

@@ -5,11 +5,10 @@ import java.util.Random;
 
 public class RateThread implements Runnable{
 
-    private Journal journal;
-    private String tutorName;
+    private final Journal journal;
+    private final String tutorName;
     private Random random = new Random();
-    private int semesterLength = 18;
-    private int studentsCounter = 0;
+
 
     public RateThread(Journal journal, String tutorName){
         this.journal = journal;
@@ -18,26 +17,30 @@ public class RateThread implements Runnable{
 
     @Override
     public void run() {
-        for (Group group: journal.getGroups()){
-            for (Student student: group.getStudents()){
-                studentsCounter++;
-            }
-        }
-        for (int i=0; i<semesterLength; i++){
-            for (int j=0; j<studentsCounter; j++){
-                Group group = journal.getGroups().get((int) (journal.getGroups().size()*Math.random()));
-                Student student = group.getStudents().get((int) (group.getStudents().size()*Math.random()));
-                if (student.getWeekCounter() <= i){
-                    double mark = (double) random.nextInt(100);
-                    //double mark=5;
-                    student.rate(mark);
+        for (int i=0; i<18; i++){
+            for (Group group: journal.getGroups()){
+                for (Student student: group.getStudents()){
+                    double mark=5;
+                    student.rateSync(mark);
                     System.out.println("Thread: "+ Thread.currentThread().getName()+
                             " Group " + group.getName() + " Tutor " + this.tutorName + " rates "
-                            + student.getName() + " by " + mark + " points");
+                            + student.getName() + " by " + mark + " points; Total: " + student.getTotalMarkSync() );
                 }
-
             }
         }
-
+//        for (int i=0; i<18; i++) {
+//            for (Group group: journal.getGroups()){
+//                for (Student student: group.getStudents()){
+//                    double mark=5;
+//                    student.rateAsync(mark);
+//                    System.out.println("Thread: "+ Thread.currentThread().getName()+
+//                            " Group " + group.getName() + " Tutor " + this.tutorName + " rates "
+//                            + student.getName() + " by " + mark + " points; Total: " + student.getTotalMarkAsync() );
+//                }
+//            }
+//        }
     }
+
+
 }
+

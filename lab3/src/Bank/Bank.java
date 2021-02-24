@@ -5,7 +5,7 @@ import java.util.concurrent.locks.ReentrantLock;
 public class Bank {
 
     private  final ReentrantLock lock = new ReentrantLock();
-    public static final int NTEST = 10000;
+    public static final int NTEST = 2000;
     private final int[] accounts;
     private long ntransacts = 0;
 
@@ -56,9 +56,10 @@ public class Bank {
         accounts[from] -= amount;
         accounts[to] += amount;
         ntransacts++;
-        notifyAll() ;
         if (ntransacts % NTEST == 0)
             test();
+        notifyAll() ;
+
     }
 
 

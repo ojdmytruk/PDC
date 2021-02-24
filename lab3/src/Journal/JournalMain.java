@@ -4,7 +4,6 @@ import java.util.ArrayList;
 
 public class JournalMain {
     public static void main(String[] args) throws InterruptedException {
-        Week week = new Week();
 
         ArrayList<Student> studentsIS71 = is71();
         ArrayList<Student> studentsIS72 = is72();
@@ -30,15 +29,6 @@ public class JournalMain {
         as1.start();
         as2.start();
         as3.start();
-        lecturer.join();
-        as1.join();
-        as2.join();
-        as3.join();
-        for (Group group: groups){
-            for(Student student: group.getStudents()){
-                System.out.println(student.getName() + ": " + student.getTotalMark());
-            }
-        }
 
     }
 

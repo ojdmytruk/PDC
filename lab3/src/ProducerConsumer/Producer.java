@@ -16,7 +16,7 @@ public class Producer implements Runnable {
 //                "Little lambs eat ivy",
 //                "A kid will eat ivy too"
 //        };
-        int importantInfo[] = importantInfoArray(100);
+        int importantInfo[] = importantInfoArray(5000);
 //        String importantInfo[] = importantInfoArray(1000);
 //        String importantInfo[] = importantInfoArray(5000);
         Random random = new Random();
@@ -25,9 +25,9 @@ public class Producer implements Runnable {
              i < importantInfo.length;
              i++) {
             drop.put(importantInfo[i]);
-            try {
-                Thread.sleep(random.nextInt(5000));
-            } catch (InterruptedException e) {}
+//            try {
+//                Thread.sleep(random.nextInt(5000));
+//            } catch (InterruptedException e) {}
         }
         drop.put(1111111);
     }

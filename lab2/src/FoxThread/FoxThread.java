@@ -35,26 +35,9 @@ public class FoxThread extends Thread{
         }
     }
 
-    private double[][] multiplyBlocks(){
-        double[][] blockResult = new double[blockOfMatrixA.length][blockOfMatrixA.length];
-        for (int i=0; i<blockOfMatrixA.length; i++){
-            for (int j = 0; j<blockOfMatrixA.length; j++){
-                double resultElement = 0;
-                for (int k = 0; k < blockOfMatrixB.length; k++)
-                    resultElement += blockOfMatrixA[i][k] * blockOfMatrixB[k][j];
-                blockResult[i][j] = resultElement;
-            }
-        }
-        return blockResult;
-    }
 
-    public void setBlockOfMatrixA(double[][] blockOfMatrixA){
-        this.blockOfMatrixA = blockOfMatrixA;
-    }
 
-    public void setBlockOfMatrixB(double[][] blockOfMatrixB){
-        this.blockOfMatrixB = blockOfMatrixB;
-    }
+
     public void setMatrixOfMatricesA(double[][][][] matrixOfMatricesA){
         this.matrixOfMatricesA = matrixOfMatricesA;
     }
