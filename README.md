@@ -4,7 +4,7 @@
   + [Symbols](https://github.com/ojdmytruk/PDC/tree/master/lab1/src/Symbols) - почергове виведення символів на консоль (через wait notify)
   + [Counter](https://github.com/ojdmytruk/PDC/tree/master/lab1/src/Counter) - синхронізоване зменшення та збільшення лічильника: синхронізований метод, блок, локер
 ### 2. lab2 - Розробка паралельних алгоритмів множення матриць та дослідження їх ефективності
-  + [BlockStripedAlgo](https://github.com/ojdmytruk/PDC/tree/master/lab2/src/BlockStripedAlgo) - Стрічковий алгоритм: в потоки передається повна копія матриці В, дає кращий SpeedUp, погано з точки зору пам'яті
+  + [BlockStripedAlgo](https://github.com/ojdmytruk/PDC/tree/master/lab2/src/BlockStripedAlgo) - Стрічковий алгоритм: в потоки передається повна копія матриці В, дає кращий SpeedUp
   + [BlockStripedCorrected](https://github.com/ojdmytruk/PDC/tree/master/lab2/src/BlockStripedCorrected) - Стрічковий алгоритм: потік викликається через run() замість start(), в потік циклічно передається стовпчик матриці B. Меньший SpeedUp, через run() все розраховується в main (некоректна робота з потоками)
   + [FoxAlgo](https://github.com/ojdmytruk/PDC/tree/master/lab2/src/FoxAlgo) - Алгоритм Фокса: реалізація через 4вимірний масив, через run() все розраховується в main (некоректна робота з потоками)
   + [FoxThread](https://github.com/ojdmytruk/PDC/tree/master/lab2/src/FoxThread) - Алгоритм Фокса: реалізація через 4вимірний масив
