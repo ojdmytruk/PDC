@@ -1,0 +1,762 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/337569797
+
+
+
+Information Technology and Computer Science
+
+Article in International Journal of Information Technology and Computer Science · November 2019
+DOI: 10.5815/ijitcs.2019.11.04
+
+
+
+
+CITATIONS                                                                                              READS
+
+2                                                                                                      19,580
+
+
+4 authors:
+
+             Irene Beebwa                                                                                         Mussa Dida
+             The Nelson Mandela African Institute of Science and Technology                                       The Nelson Mandela African Institute of Science and Technology
+             2 PUBLICATIONS 2 CITATIONS                                                                           43 PUBLICATIONS 54 CITATIONS
+
+                 SEE PROFILE                                                                                         SEE PROFILE
+
+
+
+             Musa Chacha                                                                                          Janeth Marwa
+             The Nelson Mandela African Institute of Science and Technology                                       The Nelson Mandela African Institute of Science and Technology
+             51 PUBLICATIONS 316 CITATIONS                                                                        7 PUBLICATIONS 32 CITATIONS
+
+                 SEE PROFILE                                                                                         SEE PROFILE
+
+
+
+
+Some of the authors of this publication are also working on these related projects:
+
+
+               Antimicrobial activity of medicinal plants in Northen Tanzania View project
+
+
+
+               Educational MS View project
+
+
+
+
+ All content following this page was uploaded by Irene Beebwa on 27 November 2019.
+
+ The user has requested enhancement of the downloaded file.
+I.J. Information Technology and Computer Science, 2019, 11, 34-43
+Published Online November 2019 in MECS (http://www.mecs-press.org/)
+DOI: 10.5815/ijitcs.2019.11.04
+
+
+
+   Stakeholders’ Attitude on the Use of ICT Tools
+      for Sustainable Propagation of Indigenous
+   Knowledge in Tanzania: A Case of Traditional
+       Medical Knowledge of Medicinal Plants
+                                                 Irene Evarist Beebwa
+          Nelson Mandela – African Institution of Science and Technology, P. O. Box 447, Arusha, Tanzania
+                           E-mail: beebwai@nm-aist.ac.tz or irenebeebwa@gmail.com
+
+                                 Janeth Marwa, Musa Chacha, Mussa Ally Dida
+          Nelson Mandela – African Institution of Science and Technology, P. O. Box 447, Arusha, Tanzania
+                         E-mail: {janeth.marwa, musa.chacha, mussa.ally}@nm- aist.ac.tz
+
+                 Received: 06 August 2019; Accepted: 25 August 2019; Published: 08 November 2019
+
+
+Abstract—Most local communities in Tanzania depend
+on herbal remedies as the primary source of health care                            I. INTRODUCTION
+and such knowledge have been stored in the minds of the
+elderly who pass it on orally to young generations.               Indigenous people are uniquely identified by the
+However, the method is not reliable, as there is a             practices of their cultural heritage in different aspects of
+                                                               social life that encompass food preparation and
+likelihood of gradual loss of such knowledge as the
+                                                               preservation, arts, crafts, clothing, housing, agricultural
+elderly become older and incapacitated. It is at the
+                                                               methods, use traditional medicine (TRM). [1,2]. The
+backdrop of such a scenario that this study investigated
+                                                               skills and practices of TRM methods of healing,
+the stakeholder’s attitude towards the use of information
+and communication technology tools in preserving               formulation process, dosage and local beliefs used in
+traditional medical knowledge in Tanzania. The study           maintaining health, are collectively referred to as
+                                                               traditional medical knowledge (TMK).
+also investigated the existing approaches for managing
+                                                                  Since antiquity, TRM has been used by many people to
+both traditional medical practitioners, herbaria activities
+                                                               treat and prevent both human and animal diseases [3].
+and the difficulties. Both quantitative and qualitative data
+were employed and the study covered Arusha, Kagera             Indeed traditional medical practices have been an
+and Dar es Salaam regions where 60 ethnobotanical              important component in the healthcare system in
+                                                               Tanzania [4]. Previous studies reports that the practice of
+researchers and 156 traditional medical practitioners were
+                                                               TRM is largely attributed to cultural, accessibility and
+involved. The collected data was analyzed using R and
+                                                               affordability preferences [5,6] and has gained its
+Tableau software. The study indicated that 75% of
+                                                               preeminence in the provision of primary healthcare for
+traditional medical practitioners use story-telling for
+preserving traditional medical knowledge; 86.53% of            local communities around the world thus reports from
+practitioners indicated that much of the knowledge has         World Health Organization (WHO) indicate that 80% of
+                                                               the population in Latin America, Asia and Africa directly
+disappeared over generations. More than half (69.87%) of
+                                                               or indirectly depend on herbal remedies [7–9].
+practitioners were aware of the existence of technological
+                                                               Furthermore, twenty five to thirty percent (25- 30%) of
+devices for accessing the internet and 80.5% of
+                                                               the current modern drugs are directly or indirectly
+researchers and practitioners believed that Information
+and Communication Technology tools have benefits in            derived from the traditionally known and used medicines
+the practice of traditional medicine. From the findings,       that include Phytomedicine or medicinal plants [10–12].
+                                                               Moreover, TRM can be exploited for possible
+the study came up with the ICT model solution that can
+                                                               commercialization by local communities [13].
+help in documenting, preserving and disseminating
+                                                                  Traditionally, TMK has been preserved orally by
+traditional medical knowledge and integrate the
+management of stakeholders in Tanzania.                        elderly senior members of the community [1,14].
+                                                               However, such preservation approach does not guarantee
+                                                               sustainable, successful and perpetual management of such
+Index     Terms—Traditional       medical    knowledge,
+                                                               a knowledge. This is because such knowledge can easily
+Traditional medicine, Extinction, Indigenous knowledge,
+                                                               be lost completely in case the individual with it gets
+ICT, Web-mobile, Digital systems.
+
+
+
+Copyright © 2019 MECS                                I.J. Information Technology and Computer Science, 2019, 11, 34-43
+             Stakeholders’ Attitude on the Use of ICT Tools for Sustainable Propagation of Indigenous Knowledge in       35
+                            Tanzania: A Case of Traditional Medical Knowledge of Medicinal Plants
+
+
+
+incapacitated or dies. Indeed, existing literature show that,    done by some countries towards protecting TMK from
+there has been a gradual extinction of TMK in local              either loss or bio-piracy. A study was conducted to
+communities as a result of death and aging of knowledge          develop a tool for managing the biodiversity in Tanzania
+holders and lack of interest to learn by the younger             i.e. biodiversity information management tool (BIMT).
+generation [15].                                                 However, the tool captures the available flora while
+   The government of Tanzania recognizes the use of              excluding TK [28]. The established bodies in Tanzania
+TRM and practitioners under the Traditional and                  for managing indigenous knowledge such as ITM, NHT,
+Alternative Medicines Act of 2002 and it established the         and TAHPC, rely on the use of papers and electronic text
+Traditional and Alternative Health Practice Council              documents to manage TMPs and their knowledge.
+(TAHPC) with the           mandate and responsibility of            In India, traditional knowledge (TK) digital library
+regulating the use of TRM and traditional medical                (TKDL) is used to protect the bio-piracy of TMK which
+practitioners (TMPs) [17]. Additionally, the government          is linked to patent examiner globally [29]. However,
+established the Institute of traditional medicine (ITM)          TKDL does not provide integration of traditional
+under Muhimbili University College to collaborate with           practitioner management within the system.
+traditional healers for improving TRM and possible                  The study was conducted by Hidaya et al [2] which
+innovation of modern drugs [18].                                 showed that TMK is disappearing in Indonesia. To
+   Furthermore, The National Herbarium of Tanzania was           address the issue, a model for mobile application to
+also established to work on collecting the flora of              document TK in Indonesia was developed. Though, the
+Tanzania including medicinal plants species [19].                study was based on the situational requirement of TK in
+However, these initiatives have not been implemented             Indonesia.
+with the use of Information and Communication                       Traditional Chinese Medicine Integrated Database
+Technology (ICT) tools. For instance the registration of         (TCMID) was developed in China to integrate the
+stakeholders such as TMPs and the process of capturing           relationship between phytomedicine and the relevant
+and preserving TMK about medicinal plants in the                 diseases they treat but TCMID is based           on the
+herbaria are done by the use of papers or spreadsheets           association between herb and disease rather TMK sources
+where management and handling of such data is still              and its preservation [30].
+challenging.                                                        Nakata et al [14] conducted a study in Australia, and
+   Various studies have demonstrated that the use of             the findings indicated that a software tool can simplify
+tools for managing TMK is vital in the process of                the process of capturing and disseminating indigenous
+capturing, preserving and disseminating of indigenous            knowledge to the communities and the general public.
+knowledge [20–23]. Additionally, ICT tools can be                However, the study was specifically on astronomical
+deployed to manage TMPs and practices of medicinal               indigenous knowledge rather than medicinal plants.
+plants [24].                                                        Indeed proposed solutions are essential in preserving
+   In this study, qualitative and quantitative methods were      indigenous knowledge. Nevertheless, more of these
+used to identify and asses the existing approaches used to       proposed solutions are more localized in which are
+preserve TMK, the attitude, perception and readiness of          developed depending on the requirement of each
+stakeholders toward the use of ICT tools in managing             particular country or community. [2,31].
+TMK, stakeholders and the herbaria in Tanzania. The
+study also proposes a solution for managing TMK in
+relation to its stakeholders.                                                   III. MATERIALS AND METHODS
+   This paper is organized into eight parts. From section
+two to six are related works, material and methods,              A. Study area
+results, discussion and the designed solution. These
+sections describe how previous studies intended to                  The study was carried out in Arusha, Kagera and Dar
+document TMK with the use of ICT and their drawbacks,            es Salaam regions in Tanzania in the period of February
+how the study was undertaken, visualization of the               to April 2019. Arusha and Kagera have been well known
+findings, the interpretation and the modelled solution           among the regions where its local communities make the
+respectively. The last two sections describe the drawn           use of TRM in their health care [5,32,33]. Also, the
+conclusion and the constraints of the study.                     existence of herbaria and institutions affiliated to TRM in
+                                                                 Arusha and Dar es Salaam necessitated the inclusion of
+                                                                 these regions in the study. For instance, there are two
+                                                                 herbaria in Dar es Salaam, one at the Institute of TRM
+                   II. RELATED WORKS
+                                                                 and the other at University of Dar es salaam (UDSM).
+   The overgrowth and advancement of technology has              The national herbarium of Tanzania (NHT) is located in
+led to need and urgency of digitization of various               Arusha at the Tropical Pesticide Research Institute
+contexts of social life including traditional practices.         (TPRI).
+Digitization is vital in the process of documenting and
+                                                                 B. Data collection Methods
+preserving TMK. It can optimize and reduce the risk of
+vanishing of such knowledge while improving its                    Both qualitative and quantitative approaches were
+accessibility to stakeholders [25].                              employed to collect data from TMPs, researchers,
+   Global studies have reported that there are initiatives       curators and TAHPC officers to determine and assess the
+
+Copyright © 2019 MECS                                 I.J. Information Technology and Computer Science, 2019, 11, 34-43
+36           Stakeholders’ Attitude on the Use of ICT Tools for Sustainable Propagation of Indigenous Knowledge in
+                            Tanzania: A Case of Traditional Medical Knowledge of Medicinal Plants
+
+
+
+current methods for maintaining TMK and the attitude                Difficult to retrieve information: The use of
+and perception of ICT in the practice of TRM by the              spreadsheet and manual forms for managing TMPs poses
+stakeholders were also assessed. In addition, the study          a challenge on efficient and fast data retrieval. Manually
+was carried out to investigate the existing systems for          sought data lead to inaccuracy of information and makes
+managing TMPs, herbaria and their drawbacks.                     it harder to offer and track licenses after expiration.
+   Qualitative data: A face to face interview using
+                                                                 B. A Summary of the present approaches for managing
+interview guide was conducted among 8 participants
+                                                                 herbaria in Tanzania
+involving 2 curators from each of ITM, NHT and UDSM
+herbaria and 2 officers from Traditional and Alternative            Collecting and curating botanical species including
+Health Practice Council (TAHPC).                                 those with medicinal purposes is among the activities
+   Quantitative data: A survey was administered to two           carried out by the herbaria. The study found out that both
+categories of respondents’ that included traditional             herbaria at NHT, IMT and UDSM have almost similar
+medical practitioners (TMPs) and researchers or                  methods of collecting and preserving medicinal plant
+surveyors in the field of TRM Simple random sampling             species. Traditionally, after plant species have been
+techniques were used to obtain the number of respondents         collected, they are dried and preserved on the papers.
+where 60 of them were researchers or surveyors and 156           Both NHT and ITM are trying to digitize information on
+were traditional medical practitioners making a total of         plant species from the papers. The following are the
+216 respondents.                                                 summary of how each herbarium works and the
+   TMPs from Meru and Arusha rural districts and those           challenges encountered;
+from Kyerwa and Karagwe of Kagera region were                       NHT: The national herbarium of Tanzania make use of
+interviewed     through     structured    questionnaires.        papers, MS excel, botanical research and herbarium
+Researchers who were involved in the study were from             management system (BRAHMS) for keeping medicinal
+ITM, UDSM and TPRI. Google form and open data kit                species records.
+(ODK) were used to capture the data from respondents.               ITM: The herbarium at the Institute of Traditional
+                                                                 Medicine uses papers and MS Excel. ITM possesses over
+C. Data analysis
+                                                                 10,000 plant species and less than 50 of them are
+   Data preprocessing was conducted prior to the analysis        documented on both papers and MS excel.
+to make it consistent where Open Refine and Google                  UDSM: The herbarium of the University of Dar es
+sheet tools were used. OpenRefine is a powerful and easy         salaam is largely using papers. Although in 1996, MS
+tool that processes data cleaning, reshapes and                  access database was deployed to document collected
+intelligently batch edits both unstructured and messy            plant species. However, the database has never been
+data [34]. Data analysis for quantitative data were              updated with new species since its launch.
+performed using R and Tableau software. Both data                   The study observed that most of the data in the
+visualization and descriptive statistics methods for R           herbarium is stored mostly on papers and therefore
+were used to visualize the data. R is known for its              remain inaccessible to many people, Curators also face
+effectiveness in data handling and it has a collection of        difficulties in organizing and retrieving specific plant
+intermediate tools used for data analysis [35]. The use of       species information when required and some files holding
+tableau was also influenced by its interactive features and      certain information about medicinal plant species
+ability to provide dynamic results [36].                         unreadable with time.
+                                                                    Furthermore, the study revealed that the NHT system
+                                                                 has difficulties with BRAHMS software where most of
+                       IV. RESULTS                               the requirements are not relevant to the country’s
+                                                                 demands. For instance, the system can’t be updated on
+A. Overview of the current approaches for managing               changes in the location name of a certain plant species
+TMPs in Tanzania                                                 and is only accessible to staffs at the hosting institution.
+                                                                 BRAHMS was specifically developed for keeping
+   In Tanzania, the current approaches for managing              records of botanical species that are scientifically
+TMPs is centralized at the Ministry of Health,                   identified and not for indigenous knowledge preservation.
+Community Development, Gender, Elderly and Children              Quantitative results.
+(MoHCDEC) through TAHPC. The council is currently
+having 22,102 registered TPMs and the registration is            C. Socio-demographic characteristics of respondents
+done through the use of forms that are filled manually by           Out of 216 respondents, 156 were traditional medical
+the applicants and submitted to the council for official
+                                                                 practitioners (TMPs) and 60 were researchers. Table 1
+approval. Upon approval, the council fills all the data into
+                                                                 and 2 shows the socio-demographic details of each
+MS. Excel for storing such information from applicants.
+                                                                 respondent category.
+This kind of approach encounters some challenges that               From Table 1, the number of female respondents were
+include;                                                         slightly higher (50.64%) than men. The majorities (61%)
+   Time-consuming: The registration process takes about
+                                                                 of TMPs are holding primary school education while only
+120 days or more after the submission of application due
+                                                                 one practitioner is holding university education and the
+to postage and payment procedures leading to delay of
+                                                                 majority (78 %) are aged between 35 and above 60.
+the registration process.
+
+Copyright © 2019 MECS                                 I.J. Information Technology and Computer Science, 2019, 11, 34-43
+             Stakeholders’ Attitude on the Use of ICT Tools for Sustainable Propagation of Indigenous Knowledge in                       37
+                            Tanzania: A Case of Traditional Medical Knowledge of Medicinal Plants
+
+
+
+Furthermore, the majority of researchers are male (75%)                         Table 2. Demographic characteristics for researchers
+and 91.67% of all researchers have university education                                                    Respon
+                                                                              Demographic features                      Percentage (%)
+while 8.33% have a vocational college education (Table                                                      dents
+2). Most researchers (43.33) were between 18 and 34                                          Male            45                75
+years of age.                                                               Gender
+                                                                                           Female            15               25
+          Table 1. Demographic characteristics for TMPs                                     18-34            26              43.33
+                                                                                            35-44            18               30
+    Demographic features       Respondents      Percentage (%)
+                                                                                            45-60            14              23.33
+                   Male            77               49.36
+    Gender                                                                                   61+              2              3.33
+                  Female           79               50.64
+                                                                                          University         55              91.67
+                 under 18           4                2.56
+                                                                           Education      Vocational
+                   18-34           30               19.23                                                     5               8.33
+                                                                                           college
+    Age (in        35-44           52               33.33
+     years)        45-60           40               25.64              D. Existing preservation methods for TMK in Tanzania.
+                  61 and
+                   above
+                                    30               19.23                Fig. 1 indicate preservation methods used by TMP and
+                Non formal                                             the relevant education levels. The majority Seventy five
+                                    34               21.79             percent (75%) of all TMPs respondents were using
+                 education
+                  Primary
+                                    96               61.54
+                                                                       storytelling as the main method for preserving and
+                 education                                             sharing their knowledge. Other methods such as manual
+   Education    Secondary
+                                    19               12.18             and electronic text documents were found to be used by
+                 education
+                Vocational
+                                                                       15.59% and 0.64% of knowledge keepers respectively.
+                                    16                3.85             Some TMPs (8.77%) were using both storytelling,
+                  college
+                University           1                0.64             manual and electronic text documents simultaneously.
+
+
+
+
+                         Fig.1. TMK preservation methods used by TMPs with relevant education levels in Tanzania
+
+E. Sustainability of the existing methods for TMK                      table 3. All respondents who were practicing storytelling
+preservation in Tanzania                                               (48.08%) indicated that it was not sustainable in the
+   Sustainability of the methods currently used by TMPs                management of TMK.
+in preserving TMK related information are indicated in
+
+
+
+
+Copyright © 2019 MECS                                        I.J. Information Technology and Computer Science, 2019, 11, 34-43
+38          Stakeholders’ Attitude on the Use of ICT Tools for Sustainable Propagation of Indigenous Knowledge in
+                           Tanzania: A Case of Traditional Medical Knowledge of Medicinal Plants
+
+
+
+
+                                           Table 3. Sustainability of TMK preservation methods
+
+                                                   Is the preservation methods used sustainable for all generations?
+                Preservation methods        strongly                                             Strongly          Slightly
+                                                           slightly agree        neutral
+                                              agree                                              disagree          disagree
+                    e-text doc.            0.64%
+                 manual text doc.          1.28%               4.97%             3.21%             0.64%            4.49%
+                   Storytelling            7.05%                16%              3.85%            12.18%           35.90%
+             Storytelling, e-text doc                          0.64%
+              Storytelling, manual
+                                                                                                                    0.64%
+               text doc., e-text doc
+             Storytelling, manual txt
+                                           0.64%               0.64%             1.28%              0.64%           1.28%
+                       doc.
+
+                                                                         phones, computers and tablets. Fig. 3 indicate that,
+F. Extinction of TMK in Tanzania
+                                                                         69.87% of all TMPs were aware of the existence of
+   Fig. 2 indicate the opinions collected from the TMPs                  technological devices for accessing internet. More than
+on the loss of TMK in the local communities in Tanzania.                 half (12.82%) of the total respondents (21.79%) with
+Eighty six percent (86%) of all the TMPs indicated that                  informal education, were unaware of technological
+there has been a gradual extinction of TMK under the                     devices while respondents with formal were aware of
+passage of generations.                                                  existing technological devices. These findings indicate
+                                                                         that there is a relationship between education level and
+                                                                         technological awareness Table 4 indicates internet usage
+                                                                         for TMPs and researchers. It was also revealed that all
+                                                                         researchers (100%) were able to access internet, while
+                                                                         41.67% of all TMPs access internet either daily, weekly
+                                                                         or several times a day or week and 58.33% have never
+                                                                         accessed the internet.
+
+
+
+
+        Fig.2. Respondents’ opinions on TMK extinction
+
+
+G.     Respondents awareness of the existence of
+technological device and internet usage
+  A survey was also conducted for TMPs to assess the
+awareness of technological devices such as mobile                                 Fig.3. TMPs Opinions on the awareness of existence of
+                                                                                                 technological devices
+
+                                          Table 4. Internet accessibility by TMPs and researchers
+
+                   Respondents Category                 Internet accessibility             Respondents      Percentage (%)
+                                                                never                      91               58.33
+                                                              everyday                     28               17.95
+                        Practitioners                   several times a week               14               8.97
+                                                         several times a day               6                3.85
+                                                       once per month or less              12               7.69
+                                                           once per week                   5                3.21
+                                                              everyday                     24               40
+                        Researchers                     several times a week               16               26.67
+                                                         several times a day               18               30
+                                                           once per week                   2                3.33
+
+
+
+
+Copyright © 2019 MECS                                       I.J. Information Technology and Computer Science, 2019, 11, 34-43
+               Stakeholders’ Attitude on the Use of ICT Tools for Sustainable Propagation of Indigenous Knowledge in                39
+                              Tanzania: A Case of Traditional Medical Knowledge of Medicinal Plants
+
+
+
+                                                                           H. Devices used for internet access by TMPs and
+                                                                           researchers
+                                                                              Fig 4. Indicates the type of devices used by TMPs and
+                                                                           researchers who were able to access the internet from
+                                                                           Table 5. The majorities (62.4%) were accessing the
+                                                                           internet using either desktop computers, laptop computers,
+                                                                           smartphone, tablet or combination of both devices.
+                                                                           I. TRM stakeholder’s ICT attitude
+                                                                              From Table.5, respondents in both category i.e. TMPs
+                                                                           and researchers gave their opinions on their attitude for
+                                                                           using technology as an alternative method in maintaining
+                                                                           their knowledge. The majorities (80.55%) of all
+                                                                           respondents reported that there are benefits in the use of
+   Fig.4. Type of devices used by respondents to access the internet       ICT in managing TMK.
+
+                                               Table 5. Respondent’s ICT attitude in TRM practices
+
+                                                                                   Respon-dents      Percen-tage (%)
+                           There are benefits using ICT tools in the practice of
+                                                                                         174               80.5
+                           traditional medicine
+                           There is a need for developing a digital system for
+                                                                                         161               74.5
+                           TMK management in Tanzania
+                           Automation of TMPs registration and management is
+                                                                                         114               73.34
+                           crucial
+                           Integrating herbaria activities under common digital
+                           system in can maintain data accessibility and                  52               86.6
+                           consistency
+
+
+   A good number of TMPs and researchers respondents                       expect improvement on dissemination and accessibility of
+(74.54%) were positive and ready over the use and                          TMK while 77.31% anticipate enhancement of the
+development of a digital repository in Tanzania to                         process of documentation and preservation. Moreover,
+manage TMK.                                                                79.16% of respondents believed that there will be an
+   About 93.34% of ethnobotanical researchers and TMPs                     improvement in TMPs registration and management.
+indicated the need for incorporating a module for
+automating TMPs registration while 86.6% of all the
+researchers were positive on the idea of integrating the                                             V. DISCUSSION
+herbaria activities within a single digital repository in
+Tanzania.                                                                     This study revealed that TMPs in Tanzania rely on the
+                                                                           use of word of mouth (storytelling) as the major method
+  Table 6. Respondents’ opinions on the expectation toward the use of      of preserving TMK. It was also observed that there is an
+                          digital systems                                  association between educational level and the methods
+                                                                           used to preserve TMK. Respondents with primary and
+                                   Respondent
+    Respondents expectation              s
+                                                                           non-formal education seem to be using storytelling as the
+                                                    Percentage (%)         main method for preserving and transferring their
+      from digital systems         (Researcher
+                                   s and TMPs)                             knowledge while those with secondary education level
+                                                                           and above, use storytelling together with either manual or
+    Optimize TMK extinction             178              82.41
+                                                                           electronic text documents. Previous studies had also
+                                                                           indicated storytelling as the main method of preserving
+  Improve TMK dissemination             149              68.98
+                                                                           TMK by indigenous people [37,38].
+                                                                              The study also found out that, storytelling which was
+   Improve TMPs Registration            171              79.16
+                                                                           the main means of preserving indigenous knowledge, was
+                                                                           not sustainable in maintaining cultural heritage. This is in
+   Improve TMK preservation             167              77.31
+                                                                           line with previous studies that had indicated that
+                                                                           storytelling doesn’t guarantee successful documentation
+J. TMK stakeholders’ expectation from the practice of
+                                                                           of TMK [1,39,40].The greater number of TMPs (86.53%)
+digital systems
+                                                                           indicated that they are experiencing gradual loss of TMK
+  Out of the 216 TMK stakeholders who responded,                           over generations. Some knowledge about medicinal
+82.41% believe that the extinction of TMK will be                          plants has been totally lost due to ageing and death of the
+optimized if digital systems will be implemented and                       generation that owned the knowledge. Studies have also
+used (Table 6). More than half of all respondents (68.98%)                 reported complete loss of TMK caused by aging and
+
+Copyright © 2019 MECS                                            I.J. Information Technology and Computer Science, 2019, 11, 34-43
+40           Stakeholders’ Attitude on the Use of ICT Tools for Sustainable Propagation of Indigenous Knowledge in
+                            Tanzania: A Case of Traditional Medical Knowledge of Medicinal Plants
+
+
+
+deaths of those who owned the knowledge [39,41].                    systems in implementing traditional medical practices in
+   The study found out that there is massive increase in            Tanzania such as automation of TMP registration and
+the use of technological devices i.e. smartphones,                  integration herbaria activities. Additionally, respondents
+computers and the internet in Tanzania [42]. According to           believed that development and deployment of digital
+Tanzania Communication Regulatory Authority (TCRA)                  systems will be beneficial for maintaining their cultural
+report of 2017, 42% of the population of Tanzania were              practices. Previous studies also argued that ICT can play
+able to access internet [43,44] which correlates to the             a potential role in the process of capturing documenting,
+findings in Table 3 of this study. All researcher                   storing and retrieving of TMK [15].
+respondents (100%) were able to access internet. Greater               More respondents had a number of expectations
+number of TMPs are also aware of the existence of                   towards the use of digital systems such as the
+technological devices such as mobile phones, computers              improvement of TMPs registration done by TAHPC,
+and tablets. These findings imply that it will be possible          TMK accessibility, and minimization of TMK extinction.
+to implement and access web-mobile application for                  Previous study on digitization of TMK reported that ICT
+managing TMK among stakeholders in Tanzania.                        has advantage and it can be adopted to protect countries’
+   Indeed, traditional medical practitioners are helping            cultural heritage and TMK can be best preserved through
+Tanzanian societies, however, according to the                      digitization [23,45,46].
+government policy, their services are to be regulated to
+ensure health safety of the people. TAHPC rely on the
+use of papers and spreadsheets in the whole process of                              VI. THE DESIGNED SOLUTION
+TMPs authorization. Apparently, the existing system is
+facing challenges when granting official license and                A. A Conceptual framework
+approval. Herbaria which is working on preserving
+botanical plant species e.g. including those with                     Based on the findings, an ICT model for the solution of
+medicinal purpose, for further reference and study. The             TMK management, stakeholders and herbaria activities in
+process is manual, making the generated information                 Tanzania was developed as shown in Fig. 5. The model is
+difficult to access by the intended people.                         an architectural framework which demonstrates the
+   It was found that development of a digital repository            process of TMK documentation, management of TMPs
+for TMK in Tanzania is desirable. A number of                       and integration of herbaria activities under a single
+stakeholders of TRM i.e. ethnobotanical researchers and             database server described in seven parts.
+TMPs, indicated their need and readiness to use digital
+
+
+
+
+                         Fig.5. A Conceptual framework for TMK and its stakeholder’s management in Tanzania
+
+   Part I: is the interaction between knowledge sources             knowledge sources and submit it to the database server.
+and the knowledge engineers. Knowledge engineers                    In addition, curators approve all uploaded data after
+capture TMK data from knowledge sources.                            scientific identification to be available to the public.
+   Part II: is the interaction between TMK engineers with              Part IV: is the interaction between traditional medical
+the database server. Knowledge engineer submit the                  practitioners with the system. TMPs request and apply for
+collected data from knowledge sources to the database               registration through the application serve, view
+server through the application server.                              registration status and add TMK data
+   Part III: is the interaction between curators, knowledge            Part V: is the interaction between the TAHPC
+sources and the database server. Curator from the                   registrars and the system. The registrar interact with the
+herbarium in Tanzania, receives data about TMK from                 systems to register and approve TMPs.
+
+
+Copyright © 2019 MECS                                   I.J. Information Technology and Computer Science, 2019, 11, 34-43
+             Stakeholders’ Attitude on the Use of ICT Tools for Sustainable Propagation of Indigenous Knowledge in             41
+                            Tanzania: A Case of Traditional Medical Knowledge of Medicinal Plants
+
+
+
+  Part VI: is the interaction between TMK stakeholders               administrator with the database server through the
+and the system, where they will be able to view TMK                  application server. The administrator control and manage
+available in the public domain and share feedback to the             all activities on web-mobile application and the database
+system.                                                              server
+  Part VII: is the interaction between the systems
+
+
+
+
+                 Fig.6. A Context Diagram for a Proposed Solution for TMK Management and its Stakeholders in Tanzania
+
+                                                                     knowledge.
+B. Data flow for the proposed and designed solution
+                                                                        Considering the eagerness and positive attitude of
+   In engineering, a data flow diagram (Level 0) is a tool           stakeholders, internet accessibility and the relevant
+that illustrates the flow of data for the system through the         technological devices used, a web-mobile application can
+interaction with external entities [47]. It is sometimes             be the way forward for TMK management and its
+referred to as a context diagram and well understandable             stakeholders in Tanzania.
+by both technical and nontechnical stakeholders. Fig.6
+below depicts the interaction between the TMK
+management information system (TMK-MIS) and the                                    VIII. LIMITATIONS OF THE STUDY
+external entities. TMK-MIS presents an overview of how
+                                                                        Only traditional medical practitioners who were
+information flow between TMK-MIS and its external
+                                                                     practicing medicinal plants and ethnobotanical
+entities i.e. TMPs, researchers, curators, TAHPC registrar,
+                                                                     researchers were interviewed and only TMK that are in
+the public and other stakeholders.
+                                                                     the public domain were used as the case study.
+
+                                                                                          ACKNOWLEDGEMENT
+                    VII. CONCLUSION
+                                                                        I would like to render my sincere gratitude to Dr.
+   Herein, we show the current approaches used by TMPs
+                                                                     David Nyakundi, Dr. Elaine O. Nsoesie and Mr. Chrian
+to manage TMK, participant’s opinions on the awareness
+                                                                     Mkombozi Marciale for their tireless supports and advice
+of technological devices for accessing the internet,
+                                                                     to accomplish this work. I also wish to thank ITM, NHT,
+internet accessibility and attitude on ICT and TRM
+                                                                     TPRI and the herbarium of the University of Dar es
+practices in Tanzania. We also examined the usefulness
+                                                                     Salaam for their cooperation during data collection. This
+of digital systems in documenting TMK to make it
+                                                                     study was fully funded by the African development bank
+available and more accessible for all generations. In fact,
+                                                                     (AfDB).
+suitable innovation for healthcare system can be derived
+from TMK if preserved.
+   The findings also show that there is a challenge in -                                       REFERENCES
+vanishing of TMK of indigenous people and the whole                  [1]   Anyaoku EN, Nwafor-Orizu OE, Eneh EA. Collection
+community. TMPs and researchers who participated in                        and Preservation of Traditional Medical Knowledge:
+the study indicated that valuable herb remedies                            Roles for Medical Libraries in Nigeria. J Libr Inf Sci.
+knowledge that could be used over generations for                          2015;3(1):33–43.
+primary health care has been lost due to inability of                [2]   Hidayat E, Sensuse DI, Sucahyo YG, Noprisson H.
+                                                                           Development of Mobile Application for Documenting
+current approaches in perpetually holding such                             Traditional Knowledge in Indonesia. 2016.
+
+Copyright © 2019 MECS                                    I.J. Information Technology and Computer Science, 2019, 11, 34-43
+42             Stakeholders’ Attitude on the Use of ICT Tools for Sustainable Propagation of Indigenous Knowledge in
+                              Tanzania: A Case of Traditional Medical Knowledge of Medicinal Plants
+
+
+
+[3]    Yuan H, Ma Q, Ye L, Piao G. The traditional medicine                Plants. 2016;3(1):27–9.
+       and modern medicine from natural products. Molecules.          [23] Sharma AK. Indigenous Knowledge Communication in
+       2016;21(5).                                                         the 21 St Century. 2014;128–35.
+[4]    MoHCDEC. THE UNITED REPUBLIC OF TANZANIA                       [24] Kasilo OM, Trapsida J-M. Regulation of Traditional
+       The National Health Policy 2017 Sixth Draft Version For             Medicine in the WHO African Region. African Heal
+       External Consultations with Ministries, Departments and             Monit. 2013;(14):25–31.
+       Agencies.        2017;(October).       Available      from:    [25] Koumpouros Y, Birbas K, Kapodestrian N. 7 (2013),i.
+       http://www.tzdpg.or.tz/fileadmin/documents/dpg_internal/            2013;7.
+       dpg_working_groups_clusters/cluster_2/health/JAHSR_2           [26] Hunter J. The role of information technologies in
+       017/8.The_Nat_Health_Policy_2017_6th__24_October__                  indigenous knowledge management. Aust Acad Res Libr.
+       2017.pdf                                                            2005;36(2):109–24.
+[5]    Stanifer JW, Patel UD, Karia F, Thielman N, Maro V,            [27] Ghosh P, Palbag S. TKDL : AN ANSWER TO
+       Shimbi D, et al. The determinants of traditional medicine           BIOPIRACY IN INDIA. 2017;5(11).
+       use in northern Tanzania: A mixed-methods study. PLoS          [28] AIMS. Tanzania Biodiversity Information Management
+       One. 2015;10(4):1–17.                                               Tool (BIMT): access data delineating areas of high
+[6]    Wassie SM, Aragie LL, Taye BW, Mekonnen LB.                         biodiversity conservation priority in Tanzania. 2016;
+       Knowledge, Attitude, and Utilization of Traditional                 Available from: http://aims.fao.org/activity/blog/tanzania-
+       Medicine among the Communities of Merawi Town,                      biodiversity-information-management-tool-bimt-access-
+       Northwest Ethiopia: A Cross-Sectional Study. Evidence-              data-delineating-areas
+       Based Complement Altern Med. 2015;2015:1–7.                    [29] Nadkarni A, Rajam S. Capitalising the Benefits of
+[7]    Haouari E, Makaou SE, Jnah M, Haddaouy A. A survey                  Traditional Knowledge Digital Library (TKDL) in Favour
+       of medicinal plants used by herbalists in Taza (Northern            of Indigenous Communities. NUJS L Rev. 2016;9:183–
+       Morocco) to manage various ailments. J Mater Environ                216.
+       Sci J Mater Environ Sci. 2018;9(6):1875–88.                    [30] Xue R, Fang Z, Zhang M, Yi Z, Wen C, Shi T. TCMID :
+[8]    Mahomoodally MF. Traditional medicines in Africa: An                traditional Chinese medicine integrative database for herb
+       appraisal of ten potent African medicinal plants.                   molecular mechanism analysis. 2013;41(November
+       Evidence-based         Complement          Altern     Med.          2012):1089–95.
+       2013;2013(June).                                               [31] Mangare CF, Li J. A Survey on Indigenous Knowledge
+[9]    WIPO. Intellectual Property and Traditional medical                 Systems Databases for African Traditional Medicines.
+       knowledge. 2016;(134):1–4.                                          2018;(May):9–15.
+[10]   Kayombo E, Mahunnah R, Uiso F. Prospects and                   [32] Moshi MJ, Otieno DF, Mbabazi PK, Weisheit A.
+       Challenges of Medicinal Plants Conservation and                     Ethnomedicine of the Kagera Region, north western
+       Traditional Medicine in Tanzania Edmund. 2013;1(3):1–8.             Tanzania. Part 2: The medicinal plants used in Katoro
+[11]   Shakya AK. Medicinal plants : Future source of new                  Ward, Bukoba District. J Ethnobiol Ethnomed.
+       drugs. Int J Herb Med. 2016;4(4):59–64.                             2010;6(1):19.
+[12]   WHOAFRO. Health Monitor. 2012;2016.                            [33] York N, Garden B. Plants Used in Traditional Medicine
+[13]   Abbott R. Documenting Traditional Medical Knowledge.                by Hayas of the Kagera Region , Tanzania Author ( s ): S .
+       World Intellect Prop Organ [Internet]. 2014;(March):48.             C . Chhabra and R . L . A . Mahunnah Published by :
+       Available                                             from:         Springer on behalf of New York Botanical Garden Press
+       http://www.wipo.int/export/sites/www/tk/en/resources/pdf            Stable URL : http://www.jstor.org/stable/4255597 . PLA.
+       /medical_tk.pdf                                                     2014;48(2):121–9.
+[14]   Nakata M, Hamacher D, Warren J, Byrne A, Pagnucco M,           [34] Zhuang H, Vedvyas I, Dole R. Tutorial: OpenRefine.
+       Harley R, et al. Using Modern Technologies to Capture               2011;
+       and Share Indigenous Astronomical Knowledge. Aust              [35] Venables WN, Smith DM. An Introduction to R. 2019;0.
+       Acad Res Libr. 2014;45(2):101–10.                              [36] Sood A, Sinha N, Dewjee S, Zhao W. Tableau Tutorial
+[15]   Du Y, Guo L, Xue D. TKDL: A new tool in protecting                  User      Documentation.     2018;     Available       from:
+       and managing traditional knowledge of China. Proc -                 https://casci.umd.edu/wp-
+       2013 6th Int Conf Intell Networks Intell Syst ICINIS 2013.          content/uploads/2013/12/Tableau-Tutorial.pdf
+       2013;204–7.                                                    [37] Slade J, Yoong P. the Types of Indigenous Knowledge To
+[16]   Vissers J, Bosch F Van Den, Bogaerts A, Cocquyt C,                  Be Retained for Young New Zealand Based Samoans : a
+       Degreef J, Diagre D, et al. Scientific user requirements for        Samoan Grandparents ’ Perspective. 2014;
+       a herbarium data portal. 2017;57:37–57.                        [38] Chiwanza K, Musingafi MCC, Mupa P. Challenges in
+[17]   URT. the Traditional and Alternatne Medicines Act, 2002.            Preserving Indigenous Knowledge Systems : Learning
+       2002;                                                               From Past Experiences. 2013;3(2):19–26.
+[18]   MUHAS. Institute of Traditional Medicine [Internet].           [39] Owiny SA, Mehta K, Maretzki AN. The use of social
+       2017 [cited 2018 Jun 28]. Available from:                           media technologies to create, preserve, and disseminate
+       https://www.muhas.ac.tz/index.php/academics/muhas-                  indigenous knowledge and skills to communities in East
+       institutes/110-itm                                                  Africa. Int J Commun. 2014;8(1):234–47.
+[19]   JSTOR. National Herbarium of Tanzania [Internet]. 2018.        [40] Devi S, Thapa N. Preservation of the Traditional
+       Available from: Hearing                                             Knowledge of Tribal Population in India. 2015 4th Int
+[20]   Adebayo JO. Documentation and Dissemination of                      Symp Emerg Trends Technol Libr Inf Serv. 2015;99–103.
+       Indigenous Knowledge By Library Personnel in Selected          [41] Dlamini PN. Use of Information and Communication
+       Research Institutes in Nigeria. 2017;                               Technologies Tools to Capture, Store, and Disseminate
+[21]   Cueva M, Kuhnley R, Revels LJ, Cueva K, Dignan M,                   Indigenous Knowledge. 2017;(1995):225–47. Available
+       Lanier AP. Bridging storytelling traditions with digital            from:                                    http://services.igi-
+       technology. Int J Circumpolar Health. 2013;72(SUPPL.1).             global.com/resolvedoi/resolve.aspx?doi=10.4018/978-1-
+[22]   Rao NS. ICT Applications in Medicinal and Aromatic                  5225-0833-5.ch010
+
+
+Copyright © 2019 MECS                                      I.J. Information Technology and Computer Science, 2019, 11, 34-43
+                         Stakeholders’ Attitude on the Use of ICT Tools for Sustainable Propagation of Indigenous Knowledge in            43
+                                        Tanzania: A Case of Traditional Medical Knowledge of Medicinal Plants
+
+
+
+   [42] Mwammenywa IA, Kaijage SF. Towards Enhancing                         water borne diseases have been established. He has also
+        Access of HIV/AIDS Healthcare Information in Tanzania:               researched on the different insecticidal plants and insecticidal
+        Is a Mobile Application Platform a Way Forward? Int J                microorganism for management of Insect pest. He has also
+        Inf Technol Comput Sci. 2018;10(7):31–8.                             being engaged in a number of research projects and a
+   [43] Obulutsa G. Tanzania internet users hit 23 million; 82               consultancy. Dr. Chacha research focus is on Natural product,
+        percent go online via phones: regulator [Internet]. 2018.            Bioprospecting, green Chemistry and Phytochemistry. He has
+        Available     from:    https://www.reuters.com/article/us-           published about 30 articles in scientific journals.
+        tanzania-telecoms/tanzania-internet-users-hit-23-million-
+        82-percent-go-online-via-phones-regulator-
+        idUSKCN1G715F                                                                             Dr. Mussa Ally Dida is a Lecturer at
+   [44] TCRA. Tanzania Internet Users [Internet]. 2017.                                           Nelson Mandela African Institution of
+        Available                                            from:                                Science and Technology (NM-AIST). He
+        https://www.tanzaniainvest.com/telecoms/tanzania-                                         acquired his B.Sc. in Computer
+        mobile-phone-subscribers-records-steady-growth-of-25-                                     Engineering and Information Technology
+        in-2015                                                                                   from University of Dar es Salaam (UDSM),
+   [45] Plockey FD. The Role of Ghana Public Libraries in the                                     M.Sc. in Telecommunication Engineering
+        Digitization of Indigenous Knowledge : Issues and                                         from University of Dodoma (UDOM) 2008
+        Prospects. J Pan African Stud [Internet]. 2014;6(10):20–             and 2011 respectively and a Ph.D. in Information and
+        36.                    Available                     from:           Communication Engineering from Beijing Institute of
+        http://www.jpanafrican.org/docs/vol6no10/6.10-4-                     Technology (BIT), Beijing, China in 2017. His research
+        Plockey.pdf                                                          interests include signals and communication systems analysis,
+   [46] Sraku-Lartey M, Acquah SB, Samar SB, Djagbletey GD.                  modeling and optimization, online system development and
+        Digitization of indigenous knowledge on forest foods and             currently working in farmers’ extension support system and
+        medicines. IFLA J. 2017;43(2):187–97.                                private school enrollment and communication systems.
+   [47] Fallis A. Building management tools/approaches for
+        building tools/system modeling tools. J Chem Inf Model.
+        2013;53(9):1689–99.
+                                                                             How to cite this paper: Irene Evarist Beebwa, Janeth Marwa,
+                                                                             Musa Chacha, Mussa Ally Dida, "Stakeholders’ Attitude on the
+                                                                             Use of ICT Tools for Sustainable Propagation of Indigenous
+                                                                             Knowledge in Tanzania: A Case of Traditional Medical
+   Authors’ Profiles
+                                                                             Knowledge of Medicinal Plants", International Journal of
+                                                                             Information Technology and Computer Science(IJITCS),
+                      Irene Evarist Beebwa is a MSc. candidate
+                                                                             Vol.11, No.11, pp.34-43, 2019. DOI: 10.5815/ijitcs.2019.11.04
+                      in Information and Communication Science
+                      and engineering, specializing in Information
+                      Technology Systems Development and
+                      Management (ITSDM) at Nelson Mandela
+                      African Institution of Science and
+                      Technology (NM-AIST) in Arusha Tanzania.
+                      Her     interest   is    Information     and
+   Communication Technologies for development (ICT4D),
+   Internet governance, Data Science and Open Science.
+
+
+                     Janeth Marwa, completed her PhD in
+                     Organizational          Development       and
+                     transformation from CEBU              Doctors
+                     University, Philippines (2011). Currently,
+                     she is a lecturer s at Nelson Mandela African
+                     Institution of Science and Technology (NM-
+                     AIST). Her research interests is in
+                     Organizational         learning,  innovation
+   leadership, knowledge management and Entrepreneurship.
+
+
+                      Musa Chacha completed his Ph.D. degree
+                      in Chemistry from university of Botswana.
+                      He is a current the senior lecturer and head
+                      of sustainable, biodiversity and ecosystem
+                      management at Nelson Mandela African
+                      Institution of Science and Technology.
+                      Initial, he worked as of indigenous
+                      knowledge on the use of plants for the
+   management of insects transmitting vector borne diseases and
+   plants used for the management of diseases including
+   waterborne diseases. Plant extracts and pure compounds
+   inhibiting the growth of pathogens causing vector borne and
+
+   Copyright © 2019 MECS                                          I.J. Information Technology and Computer Science, 2019, 11, 34-43
+
+
+View publication stats
+

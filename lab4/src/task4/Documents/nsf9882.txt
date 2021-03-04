@@ -1,0 +1,2289 @@
+Information Technology:
+Its Impact on Undergraduate Education in Science,
+Mathematics, Engineering, and Technology
+Report on an NSF Workshop
+
+
+
+
+National Science Foundation
+Directorate for Education and Human Resources
+Division of Undergraduate Education
+
+
+
+
+            NATIONAL SCIENCE FOUNDATION
+            NSF 98-82
+      T he National Science Foundation promotes and advances scientific progress
+in the United States by competitively awarding grants for research and education in
+the sciences, mathematics, and engineering.
+
+     To get the latest information about program deadlines, to download copies of
+NSF publications, and to access abstracts of awards, visit the NSF Web site at:
+
+                           http://www.nsf.gov
+
+
+  Location:                                                     4201 Wilson Blvd.
+                                                              Arlington, VA 22230
+
+
+  For General Information (NSF Information Center):                 (703) 306-1234
+
+
+  TDD (for the hearing-impaired):                                   (703) 306-0090
+
+
+  To Order Publications or Forms:
+
+      Send an e-mail to:                                             pubs@nsf.gov
+
+      or telephone:                                                 (301) 947-2722
+
+
+  To Locate NSF Employees:                                          (703) 306-1234
+Any opinions, findings, conclusions, or recommendations expressed in this report are those
+of the participants, and do not necessarily represent the official views, opinions, or policy of
+the National Science Foundation.
+                                          Foreword
+The National Science Foundation (NSF)'s Directorate for Education and Human Resources
+(EHR) is responsible for providing national leadership and support for improving the quality
+and accessibility of science, mathematics, engineering, and technology (SME&T) education,
+kindergarten through graduate school. In a nation  indeed a global economy
+ increasingly based on information as its common currency, the provision of appropriate
+information technology in addition to well prepared teachers, instructors and facilitators of
+such powerful tools, must become a vital part of the entire educational continuum as we step
+into the next century.
+
+In order to be effective, the use of technology in education must involve not only the provision
+of equipment such as computer hardware and software, but also the human aspects of essential
+content, engaging presentation, effective pedagogy, appropriate evaluation, and widespread
+dissemination. Communication and computing provide dynamic tools, placing nearly
+continuous demands on financial reserves and human resources as equipment and professional
+training are revised and upgraded. The NSF-hosted workshop presented in these proceedings
+addressed these and other issues in order to define unique perspectives, concerns, and desirable
+benefits of educational technology to a broad spectrum of constituents.
+
+The notion of widespread, uniform access to information technology is not a trivial problem.
+As more adults, paraprofessionals, and part-time students utilize the classroom or laboratory to
+seek skills in the use of generic or specialized technology, we see that the traditional purviews
+of academe now extend deep into the entire community. Regardless of the rapidity or
+direction of change offered by exciting and revolutionary new technologies, the true challenge
+for developing guiding principles for their appropriate implementation lies in the inclusion of
+all students at all types of academic institutions, with secure and tangible links to the public and
+private sectors. Again, while access for all, coherence in underlying infrastructure, and
+compliance between the skills taught in school and those necessary in the workplace are
+fundamental to this discussion, it is the collective effort of our human capital that will ensure
+these powerful tools do not instead widen the gulf between the haves and the have-nots. As this
+vast endeavor is begun, the cross-divisional and multidisciplinary activities will encourage
+projects that create effective learning environments with the broadest possible access to them.
+
+
+
+                                            Luther S. Williams
+                                            Assistant Director
+                                            Directorate for Education and Human Resources
+Contents
+
+
+Foreword                                                                i
+
+Executive Summary                                                      v
+
+Introduction                                                           1
+
+I: The Discussion Begins                                               7
+
+II: The 1996 Information Technology Workshop                           11
+    Opening Remarks and the Charge by NSF                              11
+    Workshop Agenda                                                    12
+    Workshop Structure, Exchange of Ideas, and Constituents            13
+    Breakout Session I: Perspectives of the Constituencies             14
+    Breakout Session II: Evaluation and Dissemination of Information   18
+                          Technology
+    Breakout Session III: Thematic Discussion                          22
+    Breakout Session IV: Future Directions and Recommendations         25
+
+III: Follow-up to the Workshop                                         31
+
+IV: Recommendations                                                    39
+
+Appendix: Workshop Participants                                        43
+
+
+
+
+                                       iii
+Executive Summary
+In April, 1996, the National Science Foundation convened a workshop for faculty,
+students, academic administrators, publishers, and industry professionals to discuss the
+use of information technology in higher education. The purpose of the meeting was: 1) to
+identify prevailing themes and issues in the use of information technology and begin to
+establish a common vocabulary for discussion; 2) to derive a general consensus on
+effective and ineffective attributes and examples of information technology; and 3) to
+initiate discussion on the role each stakeholder might play in a national effort to use such
+technologies to enrich the educational experience of all undergraduates.
+
+During the pre-meeting listserv discussion, participants called for a concise definition of
+“information technology,” as applied to teaching and learning. Access for all and
+examples of effective and ineffective attributes of information technology applications
+were also proposed as issues in need of further discussion, as was the true costs of
+using information technology on a large-scale.
+
+In breakout group discussion during the three-day meeting, information technology (IT)
+was used as an umbrella term to represent communication and computing tools, while
+educational technology was used to denote the application of IT tools to teaching and
+learning. Accordingly, educational technology could further be differentiated into
+instructional technology (tools based in the delivery of educational material), and
+learning technology, which is centered in the experience of the student. Collectively,
+these technologies have the ability to provide access to world-wide resources; facilitate
+the accumulation and presentation of data; and enable communication, interaction, and
+collaboration among students and instructors to improve the practice of teaching and the
+experience of learning.
+
+Workshop participants identified effective information technology applications as those
+that engage students with the material, illustrate complex systems or relationships, and
+encourage interaction with other individuals or teams. Ultimately, the technology tools
+should become transparent as they engage the user with the material, enabling
+immersion in the learning process on an individual basis or as part of a community.
+Ineffective applications of information technology include those: that assume advanced
+levels of technical expertise in the user, in which technology is intrusive or displaces
+content, that are unreliable or difficult to maintain, or that merely provide high-tech
+alternatives to traditional materials such as textbooks or blackboards.
+
+Effective modes of learning include those in which the expectations and goals of the
+instructor are clearly articulated, and the learning experience is centered in the
+experience of the student. Inquiry should be non-linear, guided by the interests of the
+user, and offer flexibility in the path of inquiry and the depth of investigation.
+
+Throughout the workshop, common areas of concern were: appropriate faculty
+development, determining both qualitative and quantitative measures of the effectiveness
+of learning and teaching in environments rich in educational technology tools, wide
+dissemination of effective practices, recognition of successful innovation using
+information technology in education, identifying the cost(s) of the information technology
+infrastructure, and defining the outcome(s) and challenge(s) of implementing small-scale
+applications of educational technology on a larger scale.
+
+
+                                              v
+In addition to making “technology products” widely available to faculty, appropriate
+technical support and training on the use of the product should also be available, such as
+through teaching/learning resource centers. Most faculty will not be inspired to use
+information technology if it requires tutelage from first principles or duplicates the
+process of product development. Student participants in the workshop were also
+frustrated by the assumption of technical expertise when using information technology.
+Clearly, an appropriate balance must be found between “the human element” and the
+technological enhancement of effective pedagogy. Effective practices will also develop
+intellect and work skills that will serve graduates well beyond their academic studies
+(e.g., teamwork skills, effective communication, critical thinking, motivation). However,
+most workshop participants conceded that before these benefits can be fully realized,
+much more research is required on the learning process itself, including long-term
+longitudinal studies on the effects of technology-enhanced programs.
+
+While many mechanisms for disseminating “best practices” in the use of information
+technology currently exist (e.g., journals, conferences, professional societies), there
+was a renewed call to change an academic culture that views research on education
+and the use of education technology as incidental or secondary to more traditional
+avenues of research. Innovative use of information technology and successful research
+on educational practices should be equally included within the professional recognition of
+faculty, not as a peripheral and unglamorous task for the most enthusiastic and inspired.
+Peer review and other means should be used to provide a measure of quality control and
+recognition. The best exemplars must be promoted widely, and beyond traditional
+disciplinary or institutional boundaries.
+
+Colleges and universities must recognize that, increasingly, the influence and demands of
+their respective information technology ventures extend beyond the campus to include
+remote or distance learners, part-time students, collaborations with industry and
+consortia of other institutions. If the construction of a unified information technology
+infrastructure is to be cost-effective and responsive to the needs of all its users, the
+technology developed and implemented must demonstrate definable benefits to higher
+education. Specific education technology tools must also, as appropriate, be applicable
+across many disciplines or course levels, must operate reliably across many platforms,
+and be maintainable as the underlying technology changes.
+
+Second-stage implementation funding of quality efforts, standardization of access, and a
+careful consideration of the benefits and pitfalls of prior attempts at similar outcomes will
+all help to ensure that the direction taken represents a unified effort with a minimum of
+backtracking or reinvention. Whatever the form or content of the national information
+technology infrastructure, the recognition and support of the National Science Foundation
+was seen as critical in identifying, coordinating, and representing impartially the various
+stakeholders involved.
+
+
+
+
+                                              vi
+                                          Introduction
+
+    The past decade has witnessed spectacular improvements in the computational
+    capabilities of calculators and computers, and more recently, stunning advances in their
+    communication capabilities. The marriage of these two functional modes has produced
+    powerful information technology tools that have important implications for undergraduate
+    education in science, mathematics, engineering, and technology (SME&T).
+
+      •   First, these tools can enable students to simulate, visualize, model, and experiment
+          with complex, real-world scientific problems, thus promoting exploratory and
+          inquiry-based modes of learning.
+
+      •   Second, information technologyand within this broader designation, educational,
+          instructional, or learning technologies, as applicablecan enable collaboration,
+          interactive learning, and new pedagogical approaches that can lead to changes in
+          the way students and faculty interact.
+
+      •   Third, the rapid pace of change in information technology is increasingly impacting
+          the creation, publication, and dissemination of educational materials.
+
+      •   Fourth, there is a need to establish the true costs and implications of the
+          widespread use of educational technology, as a distinct-yet-related component of
+          the larger, national infrastructure of information technology.1
+
+      •   Fifth, the use of information technology can, if it is made a high priority, increase
+          access to high quality SME&T education.
+
+      •   Sixth, information technology can facilitate connections across disciplinary,
+          institutional, geographical, and cultural boundaries.
+
+    Taken together, the computational and communication capabilities of information
+    technology offer great promise for supporting continual improvements in all aspects of
+    undergraduate education. They also underscore the need for credible research into the
+    practical benefits and limitations of teaching and learning in settings enhanced by
+    information technology.
+
+
+
+1
+  A recent and comprehensive discussion of the national information infrastructure (NII) is
+provided in The Unpredictable Certainty: Information Infrastructure Through 2000 (National
+Academy Press, Washington DC, 1996). The current workshop was convened to discuss
+implications specific to the application of information technology to education, and the
+ramifications for the education community. A distinction is therefore made to differentiate
+educational, instructional, or learning technology as components of information technology.
+
+
+                                                   1
+The existence of these powerful tools and their associated infrastructure has also led to
+questions that challenge the spatial and temporal boundariesindeed the very form and
+purposethat have traditionally defined undergraduate teaching and learning. Information
+technology now offers the possibility for learning and teaching to take place in new
+settings and to inspire and facilitate lifelong education.
+
+Against this backdrop it is also recognized that the backgrounds of faculty vary more
+widely than in the past, particularly in terms of exposure to and competency with
+information technology. The ways in which faculty conduct their classes and prepare
+material for classrooms and laboratories are changing. Students are increasingly
+expected and encouraged to bring new experiences and skills to the undergraduate
+classroom, especially as a result of changes in the practices of the K-12 community.
+Higher education must play an integral part in extending and enhancing the opportunities
+offered by the use of information technology in this complex and dynamic educational
+landscape.
+
+To help provide guidance to the National Science Foundation (NSF) on issues of concern
+to the undergraduate community regarding the use of information technology and the
+possibilities it holds for enabling improvements in the undergraduate enterprise, a meeting
+was convened by NSF’s Division of Undergraduate Education (DUE) on April 18-20,
+1996, entitled Information Technology: A Workshop on its Impact on Teaching and
+Learning in Undergraduate Science, Mathematics, Engineering, and Technology
+Education. This meeting brought together approximately thirty-five participants
+representing a cross-section of the broader undergraduate educational community,
+including faculty, students, academic administrators, publishers, and representatives
+from the information technology industry. The primary purposes of the workshop were:
+
+   •   to identify examples of effective uses of information technology and education
+       technology;
+   •   to consider the impact of using information technology on various parts of the
+       undergraduate enterprise;
+   •   to investigate issues of dissemination and of evaluation that arise with the use of
+       information technology; and
+   •   to speculate on and help NSF anticipate the impact of future developments.
+
+
+                                Workshop Organization
+
+Prior to the meeting, participants communicated with each other in an open forum via
+electronic mail. This listserv enabled attendees to calibrate their vocabulary and
+experience the use of information technology, and to identify overarching themes and
+common issues in advance of the meeting. This exchange is summarized in Section I of
+these proceedings. The workshop itself was organized around a series of concurrent
+small group discussions. The format of the workshop and the questions used to facilitate
+
+
+
+
+                                              2
+    discussion are summarized in Section II.2 Finally, the outcomes of these discussions and
+    recommendations for a follow-up to this process are summarized in Sections III and IV.
+
+    The overall workshop structure is diagrammed in Figure 1 on page 13. In the first of four
+    breakout sessions, participants gathered in groups representing their current or principal
+    affiliation (e.g., a student group, three faculty groups, a publisher group and an academic
+    administrator/IT professional group) to engage in discussion guided by two questions:
+
+      1. What comprises information technology and what are some general categories
+         for organizing its components?
+      2. In each of these categories, what is an example of “an effective use" of
+         information technology?
+    This session was followed by discussions on evaluation and dissemination criteria for
+    information technology. Questions considered during this segment were:
+
+      1. What assumptions about the modes of learning or teaching underlie what is
+         thought of as an effective use of information technology?
+      2. What criteria are, or should be, used when evaluating the impact on learning or
+         teaching of a proposed information technology tool?
+      3. What criteria are, or should be, available to assess the degree to which
+         information technology enables students to determine what and how they learn?
+      4. What research questions3 or issues are implied by the above questions?
+      5. What criteria should be emphasized when evaluating a dissemination
+         mechanism that proposes to exploit information technology in some way? Do
+         these criteria change as new technology and tools are developed? If so, in what
+         way?
+      6. Are there new publication and/or dissemination paradigms afforded by the use of
+         information technology, and if so, what criteria should be used to evaluate their
+         effectiveness?
+    Based on reports from this second session, themes for further discussion were
+    identified by the participants, who organized themselves into a third set of concurrent
+    breakout groups that focused on the following topics:
+
+      •   Faculty development for the use of information technology;
+      •   The consequences of using information technologymeasurement, assessment,
+          and standards;
+      •   Sustaining communities of information technology developers and users;
+      •   Non-traditional paradigms in teaching and learning fostered by information
+          technology; and
+
+2
+  The discussion questions provided at the workshop have been nominally edited for presentation
+in these proceedings, to reflect the clarification and revision of verbiage and issues resulting from
+the group discussion.
+3
+   For example, research into the effectiveness of learning facilitated by information or
+educational technology, evaluation questions, etc.
+
+
+                                                  3
+  •   Dissemination of teaching and learning models enhanced by information
+      technology.
+
+During the last breakout session, participants focused their attention on future directions
+and recommendations, with a goal of developing a set of "needs for the undergraduate
+community" pertaining to the use of information technology. The following tasks and
+questions were posed to help facilitate the discussion:
+
+  •   Identify four or five important needs and/or issues to be addressed by or
+      impacting on the various constituencies in the undergraduate enterprise, given
+      the current state of information technology.
+  •   Identify four or five important needs and/or issues to be addressed by or
+      impacting on the various constituencies in the undergraduate enterprise, given
+      possible future directions of information technology.
+  •   What research needs to be done to give validity to appropriate uses of
+      information technology?
+  •   What are the implications of widespread use of current information technology on
+      an institution's infrastructure, both human and financial?
+  •   What will be the implications of the possible future directions of information
+      technology?
+
+This discussion continued via the listserv for several months following the workshop and
+we have tried as far as possible to synthesize and include these follow-up
+considerations in these proceedings. On behalf of the National Science Foundation, we
+wish to thank the workshop participants and the administrative staff for supporting this
+effort, and for helping to craft these recommendations for further courses of action.
+
+The rapid and seemingly ubiquitous increase in “the role of technology” in the halls of
+higher education has raised many justifiable concerns – will technology displace
+essential person-to-person and face-to-face interaction? – will technology intrude on
+content? – is the rush to embrace tomorrow’s technology preventing us from analyzing
+and refining our use of today’s technology? – will time and dollars be spent on
+technology at the expense of less glamorous but more fundamental components of the
+educational enterprise? This workshop was convened to discuss the coherent,
+thoughtful, and responsible use of information technology tools together with other tools
+in the classroom. Our ultimate purpose is to assure and enhance the educational
+experience of students.
+
+Lee L. Zia
+Michael C. Mulder
+Information Technology Workshop Organizing Committee
+NSF Division of Undergraduate Education
+April, 1997
+Arlington, VA
+
+
+
+
+                                             4
+5
+I: The Discussion Begins
+Two weeks prior to the meeting, a listserv was established to gain an understanding of
+the concerns of the invited constituents and their respective interests in the content of
+the upcoming workshop. It also served to reveal differences in vocabulary and thus
+facilitate discussion among the diverse assemblage of stakeholders.
+
+Participants were asked to provide 2-3 major issues they would like to see discussed at
+the workshop. This section summarizes the more notable developments of the pre-
+workshop discussion in order to 1) place in context the agenda of the resulting
+workshop; and 2) present the issues of principal concern or “preconceptions” on the
+use of information technology in undergraduate education from the perspective of the
+various and distinct stakeholders prior to meeting to discuss a national perspective. The
+discussion was subsequently organized into several common themes, which serve as
+headings for the following subsections.
+
+                                  Definition of Terms
+A concise definition of information technology was sought by many participants.
+Recognizing the breadth of materials and concepts suggested by such an “umbrella”
+term, information technology was taken to represent the confluence of
+telecommunication, video, and computing technology or rather technologies which
+support a diversity of applications (e.g., microcomputer-based specialty software
+applications, video, multimedia, the Internet, World Wide Web, etc.). Alternately, the term
+educational technology was proposed, and offered to mean “the systematic application
+of human and technological resources in teaching and learning.” Within educational
+technology, tools might further be subdivided into instructional technology and learning
+technology, depending upon whether their use is centered in the delivery of material or
+its comprehension. For many workshop participants, learning technology was a
+preferred term, connoting as it does education centered in the students’ experience. For
+the ensuing discussion, it was typically “educational technology” to which the
+correspondents referred, although the term was often used interchangeably with the
+more generic “information technology.”
+
+                                     Access for All
+There was a call for discussion about whether information technology can clearly
+improve the access of students to a quality education experience, or whether less-than-
+universal access will heighten the current disparity in facilities and connectivity. A “fair
+use” policy should be articulated to enable the maximum use of information technology
+for teaching and learning (i.e., educational technology, from the above definitions).
+
+                         Benefits to Teaching and Learning
+The benefits to teaching and learning related to the use of information technology at the
+undergraduate level should be identified. Once identified, strategies for implementing their
+maximum effect should be addressed. Are any new modes of teaching/learning
+particularly facilitated by information technology? At least one listserv participant called
+for more research into the demonstrable effects of using information technology to
+
+
+
+
+                                              6
+    facilitate learning. Further, what effect is the World Wide Web and the assorted campus
+    intranets having on today’s institutional culture?4
+
+                                   Experience and Expertise
+    How can faculty be engaged and encouraged to use information technology, and once
+    so inspired, to use it properly and to the fullest potential? Who should be responsible for
+    educating students and faculty in the use of educational technology, and in what
+    context? For their part, students should be inspired to become producers of information,
+    not simply consumers or interpreters of the efforts of others.               As with any
+    teaching/learning device, information technology tools can be used in different ways by
+    different people in different contexts. They can be misused or used improperly,
+    propagating the same ineffective practices in new ways. How can we ascertain true
+    interaction in the student’s learning experience, and whether the application of
+    information technology is serving to educate and inspire, not simply entrance.
+    Conversely, the effective use of information technology not only enhances the quality of
+    the educational experience, but may also aspire to “level the playing field” between
+    institutions as well as between professors and students. Beyond academe, there is an
+    increased need for partnerships between colleges and universities and the business
+    community. Industrial growth can be limited by an insufficient supply of “technically
+    savvy, professionally agile” graduates; conversely, institutions often lack the funds and
+    facilities to provide their faculty and students with hands-on experience with leading-
+    edge technology in the latest industry applications.
+
+                         Infrastructure for Information Technology
+    At the nexus of the infrastructure issue was the question of how to establish and
+    maintain a system that efficiently meets the current requirements of an institution or
+    institutions, can be broadly implemented, and will be flexible and accommodating to the
+    technologies of the future. Who shall be responsible for developing information
+    technology tools (e.g., authoring systems) so as to optimize the cost/benefit of using
+    information technology in teaching? Are academic institutions assumed to be the nucleus
+    of this “new education”? What preparation, training, facilities will be needed to assist
+    departments and faculty to make the best use of information technology? In many cases,
+    entire curricula may need to be redesigned, from those that rely on passive (e.g., lecture
+    style) formats to those employing active, hands-on methods. Installation and upgrading
+    (of facilities, computers, peripherals, network connections, software) also requires firm
+    commitments to educational technology by the institutions themselves not only
+    financially, but in consideration of the time required to install and maintain these devices.
+    How will the use of such technologies modify the notion of a “university” and how might
+    the tripartite role of computerscomputation, communication, and collaborationredefine
+    learning environments? If the promise of the Internet includes the “virtual” university,
+    how can we ensure that the quality of teaching and learning is improved as the mode of
+    education is transferred from a central classroom to individual remote locations?
+    Undergirding the entire discussion of “structure” were issues familiar to non-educational
+    applications of computer technology, namely cost, authentication, access and security.
+
+                         Information Technology in the Classroom
+
+    “Using information technology changes the timing of information flow in a class,” noted
+    one participant, citing the example of a question or issue that could be presented at the
+4
+  The boon of electronic mail and World Wide Web browsers were specifically named by the
+listserv correspondents as information technology devices with an immediate and demonstrable
+benefit to the educational community.
+
+
+                                                  7
+end of one class, then discussed via e-mail or bulletin board before the next class,
+enabling the use of class time in new or different ways. A counterpoint to this is
+unreliable or temperamental technologysuch as a teleconference or particular
+softwarethat fails to perform when needed, and consumes class time with technical
+problems. Additionally, a call for e-mail responses to a given issue may produce more
+spontaneous replies, but this input is rarely as thoughtful and well constructed as
+traditional writing assignments. As other examples, graphing calculators, animation
+software, and video can all be effective for illustrating and engaging students to abstract
+or complex processes, but the understanding of those processes is not necessarily
+revealed on later exams or in group discussion. The assumption that the enthusiastic
+use of “educational” technology correlates to improved retention and conceptualization is
+not always valid.
+
+                Dissemination and Rewards for Successful Efforts
+There was a call for making more effective use of the World Wide Web for disseminating
+materials, including those products developed with NSF support. In a related discussion,
+there was a call for proper rewards for those who develop quality materials and
+concepts that become adopted widely. As with successful practices not based in
+technology, there is also a need for increased collaboration and sharing of ideas,
+nationally as well as internationally. The notion that successful efforts should be
+disseminated is a popular one; the real issue is how such dissemination is to occur.
+
+                              Roles and Responsibilities
+Of Institutions and AdministratorsMany instructors are already extremely
+knowledgeable in the potential and use of information technology in the classroom, and
+as with any “labor of love,” are willing to commit the time and resources required to
+achieve the desired benefits; this level of comfort and enthusiasm is far from wide-
+spread on campus, and many listserv correspondents suggested the need for a
+commitment by administrators to support technology in education, and reward those
+faculty who effectively implement such tools. Specific rewards mentioned included:
+hiring/promotion, tenure qualification, funding, and administrative encouragement each
+contingent upon clear evidence that use of the technology provides an educational
+experience that enhances and extends the use of traditional textbooks and lectures.
+
+Of Instructors It is the purview of instructors to ascertain how information technology
+can be used by instructors to maximize the benefit of the students. Is information
+technology seen as an inevitable replacement for traditional instruction methods, or a tool
+used primarily to facilitate understanding of complex or intangible subjects? Instructors
+must not allow their principal role in the classroom to become little more than a monitor of
+workstations, providing assistance in interpreting the output of educational machines.
+
+
+Of StudentsIn consideration of the rate of change in information technology, how can
+students be instructed on the use of today’s currently available tools and also engaged in
+the design, creation, and application of the next set of such technologies? Increasingly,
+students will need to apply evaluative and critical thinking skills to select useful tools and
+quality content from the ever-increasing deluge of “data” purveyed to them.
+
+Of SocietyHow will the widespread use of information technology in undergraduate
+education be understood and accepted more broadly in the social, political, and ethical
+context of society at large? How will the new generations of “knowledge workers” from
+a technology-based curriculum be viewed by those (faculty, employers, parents) who
+
+
+                                               8
+    presume a college graduate should have a thorough tutelage in “fundamental content” in
+    addition to current and relevant technology skills for the workplace?
+
+    The volume and variety of commentary in the pre-meeting exchange presented
+    workshop organizers with a formidable task: producing a short (but representative) list
+    of issues addressing the most critical concerns and issues for detailed discussion.
+    Finally, however broad-based or point-specific the conclusions and recommendations on
+    the use of information technology in undergraduate education intend to be, the caveats
+    accompanying them are not without historical precedent. As Steve Ehrmann5 suggested:
+
+            “It’s useful to think about the impact of previous technological innovation
+            on the education of their day (e.g., the impact of writing on the oral
+            education of Socrates’ day; the impact of the invention of the campus on
+            education that had depended on individual tutors.) You don’t need to be a
+            historian to see just how wonderful and destructive those earlier
+            innovations were. The issues they raised are similar in many ways to the
+            issues raised by this newest round of technology: some people gained
+            access while others lost, power was transferred from some people to
+            others, some intellectual abilities were emphasized while others were de-
+            emphasized, some faculty jobs were threatened while others were
+            created, the nature of “content” itself changed, etc. …”
+
+
+
+
+5
+ Then with the Annenberg/CPB Projects, currently with the American Association for Higher
+Education.
+
+
+
+
+                                                 9
+II: The 1996 Information Technology Workshop
+The workshop was convened on Thursday, April 18, 1996, at the National Science
+Foundation (Arlington, VA) and opened with exhibits and demonstrations by several
+participants (see Appended list).
+
+                    Opening Remarks and the Charge from NSF
+
+This meeting will continue the discussion already begun on the use of information
+technology in the educational experience of undergraduate students. What is really
+meant by “information technology”? What are the unique needs, concerns, and desired
+outcomes required of information technology from educators and students? What are
+the costs, benefits, and necessary requirements involved in wide-scale, long-term
+implementation of information technology in our colleges and universities? How will such
+advances change the quality of the students’ experience, not only while on campus, but
+as they move on to become employees, parents, educators, business leaders,
+politicians, and the future leaders of this country. Finally, how can NSF best serve this
+community to ensure that its programs and activities adequately represent the collective
+interest, as represented by its allocation of resources and the direction of future
+programs and initiatives?
+
+These are among the questions to be considered over the next few days. At the end of
+the process, we hope this exchange helps all of us craft some tangible
+recommendations for “next steps” and future discussions on this subject.
+
+                        Description of the Breakout Groups
+
+Workshop participants were assigned to one of six working groups, which met over four
+thematic breakout sessions. Each group was charged with preparing and presenting a
+summary of the group’s deliberation. For three of the sessions, this discussion was
+based on a set of guiding questions provided by the workshop organizing committee; in
+the fourth session, items of particular concern to the group were discussed. A group
+leader then presented the breakout group’s findings to all participants during the plenary
+sessions.
+
+• The following sections summarize the outcomes and recommendations of free-
+   ranging, multifaceted discussion directed by the groups themselves. For clarity in
+   presentation for these proceedings, the groups’ comments and conclusions have
+   been combined and organized into the resulting common, overriding themes. The
+   subheadings and division are therefore those of the participants, not an itemized list
+   prepared by the workshop organizers.
+
+
+
+
+                                            10
+                         Information Technology:
+          A Workshop on its Impact on Teaching and Learning in
+Undergraduate Science, Mathematics, Engineering, and Technology Education
+
+                                April 18-20, 1996
+                          National Science Foundation
+                                 Arlington, VA
+
+                              Workshop Agenda
+
+                               Thursday, April 18
+
+5:30 - 6:30 PM    Reception.
+6:30 -7:30 PM     Demonstrations/Exhibits.
+7:30 - 8:00 PM    Welcoming Remarks and the charge from NSF.
+8:00 - 9:15 PM    Breakout Session I:
+                  Background-specific working groups for initial discussion and group
+                  “calibration” on important categories of information technology use.
+
+                                 Friday, April 19
+
+8:00 - 8:45 AM    Plenary Session
+                  Reports from Thursday evening breakouts
+9:00 - 11:15 AM   Breakout Session II:
+                  Groups meet to consider initial set of questions/themes. Evaluation
+                  of effective uses of Information technology for teaching and learning
+                  and evaluation of effective uses of information technology for
+                  disseminating material and information.
+11:30 AM -        Plenary Session
+noon              Groups report on preliminary recommendations and criteria, and
+                  identify 2-3 themes for further discussion in the afternoon session.
+1:15 - 3:30 PM    Breakout Session III:
+                  New “thematic” groups convene
+3:30 - 4:00 PM    Plenary Session
+                  Summary reports from thematic working groups
+4:00 - 5:30 PM    Further discussion by thematic groups, initial development of
+                  recommendations.
+
+                                Saturday, April 20
+
+9:00 - 9:15 AM    General Announcements
+9:15 - 11:30 AM   Breakout Session IV:
+                  Breakout Session II groups reconvene to consider future directions
+                  for information technology and develop recommendations.
+2:00 - 3:30 PM    Plenary Session
+                  Final summary reports and discussion.
+
+
+
+
+                                         11
+         Figure 1: Workshop Structure, Exchange of Ideas, and Constituents
+
+  Day 1
+  Breakout Session I - “Birds of a Feather” Discussion
+
+                                                                                       Administrators
+                     Faculty            Faculty         Faculty      Publishers
+   Students                                                                                & IT
+                       #1                 #2              #3
+                                                                                       Professionals
+
+
+
+
+ Day 2
+ Breakout Session II* - Thematic “Drive” Discussion (diverse composition)
+                                                                            Review of
+        Overlying         Evaluation         Research     New/Revised
+                                                                            Effective
+       Assumptions         Criteria           Issues       Paradigms
+                                                                            Practices
+                   • What are effective uses of IT in teaching and learning?
+                   • What are effective means of information dissemination using IT?
+
+
+                                   Plenary Session/Review Discussion
+
+
+
+Breakout Session III - Further Thematic Discussion (diverse composition)
+
+    Faculty       Defining           Sustaining a       Standards    IT Influence on     Dissemination
+ Development     Outcomes          Community of IT         for          Learning         of IT-enhanced
+  for using IT   of using IT       Users/Developers     Reviewers      Paradigms            education
+
+                                   • Development of Preliminary Recommendations
+
+
+
+                                    Plenary Session/Review Discussion
+
+
+  Day 3
+  Breakout Session IV* - Future Directions
+   Stages of     Critical Issues        Current     The Needs of                         Campuses
+                                                                      Faculty
+   Systemic       in the use of         Issues        Academic                           and the IT
+                                                                    Development
+    Reform              IT             in IT use     Institutions                      infrastructure
+                               • Reconsideration of Individual Assumptions/Perspective
+                               • Draft of Recommendations
+
+      * Composition and membership of groups in Sessions II and IV was the same.
+
+
+
+
+                                               12
+                                   Breakout Session I:
+                        Perspectives of the Constituencies
+                                    Thursday, April 18 (PM)
+
+Overview
+
+This initial “birds of a feather” session brought together participants with similar perspectives in
+the use of information technology to build on the pre-workshop electronic correspondence and
+identify some basic categories for organizing and classifying the use of information technology
+relative to teaching and learning. A specific intent was to define a common vocabulary that
+could be carried forward in the subsequent workshop discussion.
+
+
+Guiding Questions
+
+•   What comprises information technology and what are some organizing categories?
+
+•   Within these categories, what is an example of “effective use” of the technology?
+
+
+Outcome of the Discussion
+
+Defining Information Technology
+
+•   Information technology broadly includes the computing infrastructure, the communication
+    infrastructure, and by extension of these, the institutional infrastructure (e.g., multi-campus
+    consortia) and the instructional infrastructure (a range of courses from small classes
+    taught by one faculty member to large, team taught or distance learning courses).
+
+•   Educational technology includes the application of information technology to assist in the
+    delivery of information within the educational system.
+
+•   Within the designation of educational technology, learning technology specifies applications
+    centered in the experience of the student, while instructional technology is centered in the
+    delivery of material by the instructor.
+
+•   Categories derived to organize or differentiate the above should be based on the function
+    of the technology, its intended user, and the goal of its use.
+
+•   Other considerations include the process of the tool (directed/open-ended), mechanism of
+    delivery (synchronous/ asynchronous), and medium for carrying information.
+
+
+
+    Note: The generic “information technology” is used throughout these proceedings,
+    however as applicable to the workshop discussion, it should be considered equivalent to
+    “educational technology,” as defined above. Learning and instructional technology are
+    mentioned only relative to specific tools or applications.
+
+Information Technology is Used to Enable
+
+
+
+                                                 13
+•   Communication, interaction, and collaboration.
+
+•   Computation, visualization, simulation, and data modeling.
+
+•   Instruction, tutoring, and mentoring.
+
+•   Gathering and filtering of data, consolidation of information, and derivation of knowledge.
+
+•   Combinations of the above instantiated as multimedia, multimodal applications.
+
+Information Technology has the Ability to
+
+•   Provide access to world-wide resources.
+
+•   Facilitate the accumulation, generation, and presentation of data.
+
+•   Provide tools for analysis and modeling of more or deeper and more realistic examples in a
+    short time.
+
+•   Enable inquiry and extend the human capability to visualize, organize, and analyze data.
+
+•   Provide immediate feedback to the student, either from the technology itself or the
+    facilitator/instructor.
+
+Effective Use of Information Technology is Characterized by Applications that
+
+•   Stimulate students and engage them with the material, such as role playing simulations.
+
+•   Illustrate the workings of complex systems by exploring cause-and-effect relationships, or
+    demonstrate microscopic, molecular, or hypothetical scenarios.
+
+•   Encourage collaboration with other individuals, teams, or institutions to coordinate a group
+    effort while exposing students to different ideas and perspectives (e.g., electronic mail for
+    communicating with classmates or instructors).
+
+•   Foster development of critical thinking skills, visualization, conceptualization, integration of
+    disparate data and resolution of patterns within data.
+
+•   Utilize the World Wide Web for research, advertising, and posting material.
+
+The above are possibly best used to extend, supplement, or re-enforce more traditional
+presentation formats, not to replace them. A basic pedagogical principle carries across all
+levels of technology: involving students in the process and design of exploration in all fields.
+
+Other examples of effective use include: tutor/mentor applications, modeling, electronic
+publishing, independent and non-linear processes, and global access to information.
+
+“Effectiveness” is determined by how the application defines and achieves the intended
+outcomes of its use, the ease with which its use is facilitated, and by extension, a minimum of
+learning or set-up requirements by the user. However, the increased use of technology does
+not necessarily equate to more effective teaching.
+
+
+
+
+                                                  14
+Ineffective Use of Information Technology is Characterized by Applications that
+
+•   Assume or require advanced levels of technical expertise, or are vague or counter-intuitive
+    to the user.
+
+•   Are unreliable or require continuous, extensive, or unreasonably precise maintenance.
+
+•   Provide only “high tech alternatives” to traditional materials such as textbooks or
+    blackboards
+
+•   “Promote interaction,” but deliver one-way or broadcast presentation of material.
+
+Similar effective and ineffective attributes could be applied to the implementation of
+applications.
+
+Suggested Indicators of Effectiveness
+
+•   Intuition/satisfaction of the instructor.
+
+•   Student evaluations.
+
+•   Reduced attrition/failure.
+
+•   Increased grades and test scores.
+
+•   Revelation and correction of misconceptions.
+
+•   Students “turned on” to the material, not to the technology for its own sake.
+
+•   Retention of fundamental/essential material.
+
+•   Increased opportunity for exchanging feedback between instructors and students.
+
+Additional Issues Raised
+
+• How do we evaluate and support the development of lifelong learning, especially in light of
+  the potential of the World Wide Web to enable “anytime and anywhere” access. For
+  example, more attention should be paid to “just in time learning” and the role of colleges (if
+  any) in providing it.
+
+• Campuses are increasingly using resources off-campus and serving students who are off-
+  campus. Many issues need to be addressed by campuses, for example, broadband net
+  access in the surrounding community, redefining what their students do while on campus,
+  and what those same students do when studying off campus.
+
+• Community colleges typically have few students living on campus so broadband Internet
+  access in the community will become more important for working adult learners than for
+  students living in residential institutions. Without this broadband access, information
+  technology uses will tend to be restricted. Student ownership of computers (or the lack
+  thereof) are similarly more important to community colleges and comparable commuter
+  institutions since students cannot afford to spend much time on campus. These are
+
+
+
+
+                                                   15
+   perhaps half of all undergraduates, so, as information technology use increases, serious
+   equity problems may well emerge.
+
+• Smaller colleges, facing increasing information technology costs and other costs, will face
+  pressure to specialize their offerings and use information technology to collaborate with
+  other, sometimes distant institutions to collectively offer a broad curriculum to their students.
+
+• Large institutions will need to expand their markets. Well-known institutions will face
+  increased, net-based demand (worldwide) for their services. Fixed costs can be more
+  easily amortized with larger numbers of students.
+
+• Institutions will have increased opportunities to employ high quality, part-time staff at off-site
+  locations.
+
+• Administrators need to be convinced of the positive benefits of using information technology
+  in higher education. Tangible and practical plans for uniting the effort, training, and
+  pedagogical missions across entire institutions must be found, and demonstrated.
+
+• New technologies should employ new techniques that best utilize them. Information
+  technology should not be considered as a “one size fits all” panacea.
+
+• Overarching challenges include those of curricular coherence, quality, and control.
+
+
+
+
+                                                 16
+                                  Breakout Session II:
+       Evaluation and Dissemination of Information Technology
+                                     Friday, April 19 (AM)
+
+Overview
+
+Workshop participants from a wide variety of constituencies in the use of information
+technology met to discuss the notion of effectiveness and dissemination of best practices. Of
+particular interest were the mechanisms by which information technology resources can be
+critically reviewed, then easily adopted and implemented elsewhere. The context of this
+evaluation should extend beyond defining “what works” to a critical assessment of which
+information technology resources are in need of further development, and how these
+successes can be used in the construction of a national infrastructure for the use of
+information technology in education, and potential governance of its use.
+
+
+Guiding Questions
+
+•   What assumptions about the modes of learning or teaching underlie what is thought of as
+    an effective use of information technology?
+
+•   What criteria are, or should be, used when evaluating the impact on learning or teaching
+    of a given information technology tool?
+
+•   What criteria are, or should be, available to assess the degree to which student
+    determination of their own learning process is enabled by information technology?
+
+•   What research questions or issues are implied by the above questions?
+
+•   What criteria should be kept in mind when evaluating a dissemination mechanism that
+    proposes to exploit information technology in some way? Do these criteria change in the
+    face of possible future directions that information technology might take? If so, in what
+    way?
+
+•   Are there new publication/dissemination paradigms afforded by the use of information
+    technology? If so, what criteria should be used to evaluate their effectiveness?
+
+
+Outcome of the Discussion
+
+Characteristics of Effective Modes of Learning
+
+•   The experience is centered in the student and relevant to his/her experience and
+    expectations.
+
+•   The expectations/goals of the instructor are articulated clearly and rewarded appropriately.
+
+•   Collaboration and effective communication is needed between students and each other,
+    their instructors, and their teaching assistants.
+
+•   While the individual is independent and self-reliant, work should be collaborative and team-
+    based, with unique and balanced contributions by all members of the group.
+
+
+                                                17
+•   Inquiry is non-linear, guided by the interests of the user. However, frequent testing and
+    assessment of the student’s progress should also be included.
+
+•   The material should provide a choice of representations, cognizant of a variety of learning
+    styles. Such things might include how the material is depicted, the level of background
+    knowledge assumed, or the depth of possible inquiry. This is one way in which “high level”
+    topics can be included in “lower level” courses.
+
+•   The experience should inspire further or life-long inquiry.
+
+•   Authentic learning and social interaction are included as part of the process.
+
+•   Although several participants felt that fundamental or essential topics should be delivered
+    and understood before being supplemented or enhanced with information technology, the
+    use of information technology as a means of enhancing the primary learning experience
+    was also viewed as an area with great potential.
+
+Identification of Effective Learning Materials
+
+•   The identification and rejection of bad products is much more obvious than differentiating
+    between good and very good products.
+
+•   Web site “traffic,” number of product downloads, content and volume of feedback to the
+    author can all provide indications of a product’s merits.
+
+•   The technology is appropriate and applicable to the problem or concept being addressed.
+
+•   The ease of use, compatibility, expendability, adaptability, and authoring/development
+    support of the technology should also be considered.
+
+Methods of Classifying Effective Learning Materials
+
+•   The desired outcome of exposure needs to be defined and evaluated. If desirable skills
+    include problem-solving abilities, teamwork skills, communication skills, etc., these aspects
+    must be what is evaluated, as by standardized tests.
+
+•   The problem, process, and outcome of the procedure is clearly presented.
+
+•   It is probably acceptable that not all products are peer reviewed, but where review occurs,
+    the process is reliable and consistent.
+
+•   Is the technology cost-effective? Does it add value to the educational experience? Is the
+    assessment of learning consistent with the approach and presentation of the material?
+
+•   It is difficult evaluating the true effectiveness of any teaching method until a satisfactory
+    definition of learning is implemented.
+
+•   Can the expectations and experiences using information technology at different
+    types/levels of institution be expected to differ, as it does for traditional teaching methods?
+    Is any learning tool equally effective in a wide range of settings, or like other pedagogical
+    methods, does its effectiveness depend not only on product design, but on the efficacy of
+    the instructor, the context of the presentation, and the learning style(s) of the individual
+
+
+
+                                                  18
+    student.
+
+Participatory Design in Innovation
+
+•   The students should be considered not only as “end users,” but also as developers, field
+    testers, and evaluators/reviewers.
+
+•   Developers and purveyors of information technology should never lose sight of the
+    excitement of discovery and revelation on the part of the student.
+
+•   The technology should be transparent relative to presentation of the material. The user
+    cannot be expected to learn computer skills in lieu of the subject matter.
+
+•   Publishers need to redefine their traditional role, become more involved in the development
+    of products, and in the project cycle.
+
+Innovation Must be Developed and Sustained
+
+•   Interest in information technology is currently experiencing an upsurge of public support
+    and interest, however this will be short-lived unless the technology can deliver
+    demonstrable results in a cost-effective and productive manner.
+
+•   “Celebrate what resonates.” Successful innovation needs to be passed to a larger
+    community, for example, via professional societies to their members.
+
+•   Would-be innovators should first be well-familiar with previous efforts in their area of
+    interest.
+
+•   As the next generation of faculty, graduate students have an important role in the process
+    and should be included as developers, educators, testers, and disseminators.
+
+•   User friendly “tool kits” that allow the translation of various materials onto a common
+    platform would be a valuable asset to the academic community.
+
+•   Collaboration that fosters partnerships and links together similar or complementary initiatives
+    should be encouraged.
+
+•   While such features as “engaging the student” and “inspiring life-long learning” are
+    considered desirable, there exists little in the way of longitudinal studies to evaluate this
+    kind of impact for programs using information technology.
+
+Guidelines for Effective Dissemination
+
+•   Be wary of catch-all solutions leaving the issue of dissemination to one technology, or
+    waiting for “market forces” to drive adoption and implementation.
+
+•   Ensure that appropriate faculty training is included at testing sites.
+
+•   Encourage presentation, as appropriate, to professional organizations, conferences, and
+    workshops. The dissemination process and partners should be identified in the early
+    stages of “product” development.
+
+
+
+                                                  19
+•   The World Wide Web is an effective mechanism for dissemination for such things as
+    images, text material, and technical support. Conversely, most software is still “too fragile”
+    for Web distribution.
+
+•   Provide feedback to the authors/developers over the Web. While the Web offers instant
+    and comparatively inexpensive publication of materials, too many products are allowed to
+    become “stale” or out-of-date due to a lack of maintenance or revision of the content.
+
+•   Web-based products should be modular in design, and available to be monitored or
+    reviewed. Further, will the peer review process slow the process significantly, or will it
+    focus attention on the quality work being done while weeding out the “junk.” Could a
+    newsgroup consisting of experienced users provide a more timely and relevant review
+    than a single recognized adjudicating body?
+
+
+
+
+                                                 20
+                                 Breakout Session III:
+                                 Thematic Discussion
+                                     Friday, April 19 (PM)
+Overview
+
+The theme of this breakout session was identified by the participants themselves in the course
+of the discussion.
+
+Guiding Questions
+•   Two-to-three important issues and/or questions were identified by each group the previous
+    day, for further discussion at this session. These issues are summarized below.
+
+Outcome of the Discussion
+
+General Issues in the Use of Information Technology
+
+•   There is more research needed on how people learn, certainly from information technology,
+    but also from each other, and how these systems really compare to the traditional methods
+    that some argue are inadequate.
+
+•   Increased research is required into the effectiveness of information technology in the
+    classroom.
+
+•   How is information technology-enhanced learning different than other learning programs?
+    And, if such enhancements are demonstrably better, how can these benefits be
+    communicated to other faculty, institutions, and the potential employers of undergraduates?
+
+•   Any set of prescriptive recommendations will depend upon the intended ‘user group,’ and
+    the breadth of that groupas across an institution, a particular discipline, or as a
+    requirement for a given course.
+
+•   A three-to-four-year process in implementation and dissemination may be too slow to make
+    the best use of whatever information technology is available.
+
+•   A cadre of developers and users must be sustained, and coordinated between institutions.
+    Publishers should help to find and define an “author pool.”
+
+•   For innovations to “survive,” it will require a more concerted effort by professional
+    societies, journals, and the support of agencies such as the National Science Foundation.
+
+•   Performance, quality control, and standards for information technology developers deserve
+    further attention.
+
+•   The specific economic benefits and profitability of information technology-enhanced
+    teaching and learning have to be presented to faculty, academic institutions, and industry
+    alike.
+
+
+
+
+                                                21
+Local Implications for Institutions
+
+•   Outcomes must be defined, including measurement, assessment, and standards for
+    effectiveness and competency. This competency must be evaluated both in terms of
+    generic improvements in learning facilitated by technology, as well as specific skills in the
+    use of technology (e.g., database design, statistical analyses, systems administration).
+
+•   These outcomes should be consistent and coordinated between all stakeholders in the
+    production of graduates competent in the use of information technology.
+
+•   If faculty are encouraged to adopt or adapt information technology tools, the institution must
+    allow faculty time/leave for training, research, support, and follow-up activities.
+
+•   The new or unique teaching and learning paradigms inherent in the use of information
+    technology must be recognized and addressed. Restructuring of the institution both locally
+    and globally is implicit in such considerations.
+
+Global Implications for Institutions
+•   How can the “learning curve” of institutions that have successfully and widely implemented
+    information technology be communicated and emulated by other institutions?
+•   Best practices in information technology-enhanced teaching and learning must be
+    disseminated, as well as details on the lessons learned from implementation of ineffective
+    practices.
+•   Evaluation of information technology must include not only the educational content of the
+    materials, but its effectiveness at various types of test sites and over the long term, as
+    determined in longitudinal studies.
+•   With the proper encouragement, boundaries between institutions and courses will lessen.
+    Access to primary sources of effective information technology-enhanced material, as in a
+    national “library” with a common user interface, would greatly facilitate and expedite this
+    convergence.
+•   NSF endorsement or recognition of the successful integration of learning technologies into
+    the curriculum will be an effective catalyst for change on campus. Funding efforts to
+    communities may be more effective than to large, individual projects.
+
+
+Faculty Development
+
+•   Information technology must be made more accessible to faculty, and facilitated not only by
+    proximity and ease of use, but also by professionally recognizing its use, and supporting or
+    rewarding these efforts accordingly.
+
+•   There is a need for information technology that assists faculty, such as authoring or
+    communication applications.
+
+•   Support for faculty development beyond individuals to departments, colleges, and whole
+    institutions is also required.
+
+Implications for Students
+
+•   More students, and a more diverse representation of all students, need to be prepared in
+
+
+
+                                                 22
+    the use of information technology. This preparation necessarily includes exposure to
+    modes of learning enhanced by technology, as well as specific skills to be used in further
+    study and in the workplace.
+
+•   Student access and exposure to information technology has benefits that extend well
+    beyond the classroom.
+
+•   Benefits and desirable skills resulting from an information technology-enhanced education
+    should include: the ability to address complex problems, communication, teamwork, critical
+    thinking, motivation, professional intuition, and a desire for inquiry.
+
+•   The success of a given application of information technology should be evaluated not only
+    on the degree to which the student is engaged by the technology, but also in the
+    learning/work skills it develops, notably such things as problem-solving, teamwork, and a
+    desire for life-long learning.
+
+•   Industry needs to be more consistent and longer-term in the base of general technology
+    skills they expect graduates to possess, as well as specific skills in the use of information
+    technology, if relevant.
+
+Issues for “Effective Dissemination”
+
+•   For an information technology tool to truly be widely implemented, a common, cross-platform
+    user interface must be defined and implemented. Single- or specialized-use Information
+    technology should be examined especially critically.
+
+•   Products that are under-used, employ a different language, are user-unfriendly, or
+    ineffective obviously exist. Rather than hiding these shortcomings, make them known and
+    propose how it could be improved.
+
+•   Dissemination should be a consideration of information technology products from the outset.
+    Promising proposals should incorporate projects ideas for effective dissemination, and
+    prepare for a long-term commitment.
+
+•   Publishers should be involved sooner in the product cycle, but should not be expected to
+    fund the entire process. Recognition/funding by NSF of quality products could initiate a
+    partnership with publishers early in the development.
+
+•   Dissemination can include such low-tech methods as word-of-mouth, Web broadcast, and
+    “freeware,” but proper support and instruction on the use of the product is also necessary
+    if it is to be adopted and implemented easily and without repetition of steps.
+
+•   Support for successful innovation should include second-stage implementation grants.
+
+
+
+
+                                                 23
+                                  Breakout Session IV:
+                   Future Directions and Recommendations
+                                    Saturday, April 20 (AM)
+Overview
+
+In the second generic breakout session, participants were given the additional charge, to
+develop a set of “goals for the undergraduate community” with regard to the use of information
+technology, perhaps targeting its various constituencies (e.g., students, faculty,
+industry/business, campus administrators). These goals would be developed under the
+assumption that they would present areas or opportunities for NSF to exercise leadership in the
+use of information technology to improve teaching and learning in science, mathematics,
+engineering, and technology.
+
+
+Guiding Questions
+
+•   Identify 4 or 5 important needs/issues to be addressed by or impacting the various
+    constituencies in the undergraduate enterprise, given the current state of information
+    technology.
+
+•   Identify 4 or 5 important needs/issues to be addressed by or impacting on the various
+    constituencies in the undergraduate enterprise, given the possible future directions of
+    information technology.
+
+•   What research is needs to be done to give validity to what might be termed an
+    “appropriate” use of information technology?
+
+•   What are the implications of widespread use current information technology on an
+    institution’s infrastructure, both human and capital? What will be the implications inherent
+    in the possible future directions of information technology?
+
+Outcomes of the Discussion
+
+Research Efforts Should
+
+•   Determine which components of the learning process are enhanced by the application of
+    and information technology tool.
+
+•   Identify the potentially negative aspects or impact of using information technology in
+    learning.
+
+•   Determine how information technology may change certain learning styles, or foster new
+    ones.
+
+•   Study existing successful models and determine what makes them successful.
+
+•   Study information technology products potentially adaptable to a variety of learning styles.
+
+•   Determine the impact of information technology on student assessment.
+
+
+                                                24
+•   Compile and categorize these results.
+
+Evaluation Efforts
+
+•   Must be open to unexpected outcomes, and consider both the positive and negative
+    implications of using information technology for teaching and learning.
+
+•   Should begin early in the product cycle, with test sites, pilot programs, prototypes, and
+    mock-ups.
+
+•   Can be created by continuing feedback on appropriately designed products.
+
+
+                         Table 1: Information Technology on Campus
+
+                                Infrastructure/           Access/Usage                  Required
+                                  Equipment                                        Staff/User Support
+ Communication             •   Telephone              • Electronic addresses     • Telecommunication
+                           •   Voicemail              • List servers               s
+                           •   Electronic mail        • Website URL
+                           •   Videoconferencing
+ Instruction/Research      • Network Connections      • Electronic                Models and training
+                           • Display Capabilities       homework                in:
+                                                      • Electronic                • Equipment
+                                                        collaboration             • Software
+                                                      • State-of-the-art labs     • Graphical/technical
+                                                      • Plug-in classrooms
+                                                      • Paperless courses
+ Administration            • Faculty/Physical         • Course Descriptions      Coordination
+                             Plant                    • Research                 • Across Departments
+                                                        Opportunities            • Among Institutions
+                                                      • Records
+ Libraries/                • File Servers             • Search/Retrieval         • Electronic journals
+ Research Collections      • High-level               • Office, classroom,       • Electronic
+                             connections                and public/off-site        references
+                           • Virtual sites              access
+The discussion identified the minimum currently-available technology that should be available to all
+undergraduates throughout the country, suggesting the future developments to be built upon this structure.
+Answering machines, e-mail, and list servers can facilitate communication among students and between
+students and faculty. Access to the World Wide Web allows enhanced potential for research and permits an
+economical venue for posting class materials. Faculty have access to presentation/graphics software, A/V
+projectors and screens, and support/training for such things as Web authoring and telecommunications.
+Laboratory presentations present the best (most effective) examples of demonstrations, while “plug-in
+classrooms” allow full connectivity to workstations and laptop computers. Remote access from dormitories,
+public facilities, and home is also assumed.
+
+
+
+
+                                                    25
+To Facilitate Widespread Impact of Information Technology
+
+•   The response time of faculty and institutions to changes in tools and applications must be
+    reduced.
+
+•   The need for up-to-date technology should not assume increased equipment costs.
+
+•   Duplication of equipment and resources must be reduced.
+
+•   Access must be dependable, and consistent among providers.
+
+•   Departments and programs must become integrated.
+
+•   The roles and responsibilities of faculty, students, and administration must be redefined.
+
+•   More collaboration is necessary between academic institutions and industry.
+
+•   Prevailing social, ethical, and professional attitudes of all constituents need to be revised to
+    consider the use of information technology in education.
+
+Issues for Education-Based Constituencies to Consider in the Use of Current Information
+Technology
+
+•   Support for the development of classes/laboratories that engage and interact with students.
+
+•   Faculty enhancement and student development in the use of information technology through
+    training/learning centers and educational support technicians.
+
+•   Authoring/development tools that facilitate translation of materials more easily, and support
+    for the use of these tools.
+
+•   Guided, organized, and intuitive access to information.
+
+•   Inequity of access to information technology-based learning.
+
+•   The true costs of information technology and who bears these costs.
+
+•   Small colleges will face pressure to specialize their offerings, and network these to partner
+    institutions.
+
+•   How will quality be maintained as prestige institutions face disproportionate demand for
+    their services?
+
+•   How will institutions respond to the opportunity to hire distance faculty, and will this lead to
+    increased faculty employment, an increase in part-time or as-needed assignments, or a
+    concentration of employment of those faculty most in demand?
+
+•   All institutions will be challenged in terms of lowering the boundaries between courses,
+    curricula, and institutions, control and accountability.
+
+•   Access to information technology must be broad-based, extending off campus. Commuter
+
+
+                                                  26
+    institutions will face more rapid and substantive changes than residential campuses.
+
+•   The expectations and process of learning off-campus versus on-campus must be
+    addressed.
+
+Issues for Education-Based Constituencies to Consider in the Use of Future Information
+Technology
+
+•   Cost of the future information technology infrastructure.
+
+•   The role/mission of the university.
+
+•   The role of the professor to that of a leader/coach in a dialogue or problem solving
+    exercise, more cognizant of societal needs and those of the workplace.
+
+•   Universal and equal access to learning, and how this will affect the leadership of the United
+    States in education and research.
+
+•   Information technology as a facilitator for interdisciplinary integration and communication.
+
+Faculty Development in Information Technology
+
+•   Information technology increases the variety of needs for training, including: the use of
+    information technology itself, applications, teaching techniques, evaluation of available
+    materials, indexing, and the training of graduate students.
+
+•   This development requires multiple sources of support, including individual faculty,
+    departments, institutions, professional societies, industry, government, and foundations.
+
+•   Faculty development must be long-lived via communities of support.
+
+•   Innovators must aspire to, and be rewarded for, increased efforts for dissemination of
+    effective technology to commercial publishers and via professional societies.
+
+•   The change in culture and infrastructure required can only succeed through long-lived
+    support groups and communities that span institutional and disciplinary boundaries.
+
+•   Wherever possible, the training should include hands-on use and application of the
+    technology being discussed don’t lecture about the evils of a lecture!
+
+•   Beyond the innovators and those willing to implement information technology (with or
+    without proper support), there will invariably be a certain class of faculty who will resist
+    any kind of change.
+
+Courseware
+
+•   The costs of information technology (and non-information technology) courseware must be
+    reduced.
+
+•   If costs cannot be reduced (as by smaller/cheaper books, Web-based “freeware”), can the
+    use of texts and software be extended beyond a single course or laboratory by a more
+
+
+                                                 27
+    seamless or sequence-based curriculum?
+
+•   What is the potential for server-based shareware, databases, etc., either between
+    classmates or institutions? What is the potential for using the employee education model of
+    the corporate community, or having them share/subsidize the cost of producing graduates
+    with the skills they most desire?
+
+•   Industry and academe should communicate and collaborate on which forms of information
+    technology are used, and at what level of proficiency the student is expected to perform.
+    These expectations should be realized in the use of compatible platforms and a more
+    coherent transition in the use of information technology between school and the workplace.
+
+Issues of Coordination Among Stakeholders
+
+•   User groups, faculty, institutions, publishers, employers, professional societies, and
+    funding agencies are all involved, and equally responsible for, the evaluation, appropriate
+    use, and implementation of information technology in support of learning.
+
+•   If institution-wide reform is a desired outcome, the parameters for proposals and their
+    review must be considerate of more disparate collaborations, as with schools/colleges
+    outside the SME&T ranks (business, the humanities), and shared fiscal responsibility with
+    industry and the community.
+
+•   Tele/videoconferencing and access to the World Wide Web provide good examples of
+    such coordination with contemporary technology.
+
+•   With the promise of distance learning, and the presence of students on campus
+    increasingly part-time, the influence and access to information technology must extend
+    beyond the academic institution into the community.
+
+•   The reform process might be described as a four-stage process: Initiation, which for
+    information technology included the innovators and visionaries of the 1960’s and 70’s;
+    Contagion, or the promotion of information technology as “a good idea” through the 1980’s
+    and 90’s; Coordination, where the use of information technology becomes standardized
+    and widely available; and Integration, where the cost becomes nominal and access to the
+    technology becomes assumed, even commonplace.
+
+Other Issues Related to the Use of Information Technology
+
+•   The balance between the use of technology and “the human element” of pedagogy must
+    continually be considered, and determined relative to the true effectiveness of teaching
+    and learning.
+
+•   Will information technology ultimately enhance integration between disciplines,
+    departments, institutions, and reduce the amount of inequity in the access to higher
+    education; or
+
+•   Will it amplify existing disparities, and create increased competition?
+
+•   How can the benefits of information technology be increased while reducing the costs of
+    using it? Is subsidized R&D required? Models for affordable technology should be
+
+
+
+                                                 28
+    presented widely.
+
+•   While the use and perceived need for information technology is soaring, the requisite
+    budgets for support and maintenance are not keeping pace, and the problem is becoming a
+    crisis.
+
+•   The information technology infrastructure is not free. The funding and competition for funds
+    is a certainty; the direction of this financing is less certain. Profitability and cost-
+    effectiveness do not assume a reduction in staff and other human resources.
+
+
+
+
+                                               29
+III: Follow-up to the Workshop
+                        The Post-Workshop Listserv Discussion
+Within days of the workshop, participants resumed their correspondence on the listserv,
+based on the major issues and themes arising from the discussion. Among these were:
+     •   the need for faculty development, both for users and creators of information
+         technology resources;
+     •   the increased need for a human and capital infrastructure associated with
+         information technology and their associated costs;
+     •   evaluation of the use of information technology; and
+     •   the need for more research on the learning process as well as learning
+         technologies.
+
+NSF organizers provided “seed questions” for the discussion, including
+     1. Given these issues (above), what subsets of the various constituent types
+        representing the undergraduate enterprise ought to be included in this
+        discussion, and how might these partners work together effectively?
+     2. What are the different scales (both temporal and administrative) for possible
+        solutions?
+
+Defining Information Technology in Higher EducationPace University’s Jeanine Meyer
+broadly divided information technology into discipline-specific tools, general productivity
+tools, and instruments for pedagogy. With discipline-specific tools (e.g., engineering, data
+modeling, and “bench science” programming) the issue of faculty development then
+becomes more discipline-specific, and dissemination/training/evaluation could be facilitated
+and coordinated by professional societies. A caveat to this designation is not to make this
+pipeline too discipline-specific. Often a given technology is equally, if not more, effective in
+an entirely different realm than its “intended” one.
+
+General productivity tools (e.g., e-mail, listservs, presentation software) are widely
+available, but still require proper technical support and instruction to be widely adopted.
+Much of this kind of technology includes “business” software, which has experienced its
+own learning curve in being disseminated and implemented in the business community
+collaboration between industry and academe could do much to reduce the amount of
+“reinventing the wheel” to be done. Instruments for pedagogy, for their part, could be
+evaluated by research on learning and disseminated/supported through national and state
+teaching associations and accreditation boards.          Except for the discipline-specific
+technology, it is essential that the provision, training, and implementation of information
+technology extends beyond SME&T faculty to include all educators at all types of learning
+centers.
+
+Faculty DevelopmentIf faculty are expected to adopt information technology in their
+teaching, then the added value of using the information technology must be clearly evident,
+and easily facilitated. One problem, a correspondent offered, is that too much information
+technology fails to provide a “manual for delivery” to assist the faculty using it, which
+provides user insights into applications of the technology and its inherent strengths and
+weaknesses. While dissemination of effective products was a major concern, it was also
+recognized that access to the technology far exceeds proper training on its use, caveats
+
+
+                                                 30
+on its limitations, and other details that can reduce time-consuming frustrations involved in
+implementation of the product. The purpose of faculty training should not be only technical
+competence (though this is an assumed side-effect), but rather how to extract the greatest
+results from the available resources.
+
+Departments and institutions, for their part, require a major reassessment in how they
+recognize innovation using information technology if they expect faculty to adopt the
+technology into their teaching. One participant drew the analogy that, if access to the
+technology is the “carrot” to initiate a change in practice, the pressure to keep up with other
+faculty efforts serves as a “stick.” Or, as Skidmore College’s Robert DeSieno observed:
+
+     “… For most faculty, working in their discipline is challenging and time-
+     consuming. Engaging digital technology is rarely as simple as using the
+     telephone. Modern software is sophisticated, complex, expansive, and
+     detailed in its requirements for useful application to substantive disciplinary
+     problems. In my view, it is this interaction of disciplinary substance with digital
+     technology that justifies consideration of this technology in education. But
+     building the link is difficult, requiring mastery of detail that is time consuming,
+     and worse, constantly changing as the marketplace drives the innovation in
+     software.”
+
+Faculty development activities should have improved student learning as their primary
+mission, focusing on new or effective, established teaching/learning processes enabled by
+the use of information technology tools, rather than creating high-tech versions of the same
+bad practices. As one publisher of educational software remarked, “we are asked ‘how do
+I change my course’ much more often than ‘how do I work this thing.’” One participant
+remarked, “some of the most effective uses of information technology have been ones in
+which faculty in diverse disciplines are collaborating in, or at least communicating about,
+their work in information technology. Projects involving writing across the curriculum are
+good examples, as are combined science/humanities courses.”
+
+In talking candidly with their colleagues, educators have at their disposal a means to greatly
+reduce the trial-and-error aspects of using information technology regardless of the amount
+of technical support and training provided by either the institution or the information
+technology manufacturers. Tool kits of user-friendly authoring/design applications that allow
+educators to easily package their own materials in a manner more engaging or illustrative to
+the student were proposed as a necessary and useful item for wise dissemination. Finally,
+there was a call for graduate students to be included in faculty development activities,
+serving to enhance and nurture the next cohort of educators.
+
+InfrastructureThe World Wide Web was lauded as a mechanism for delivering the
+materials to a diverse population. However, the benefits of this delivery is contingent upon
+an accompanying training and support system for end-users. For there to be continued and
+more substantive “community action” on the use of information technology, a greater focus
+of effort is requiredwhether it be in a particular discipline, a given area of technology, or
+in response to an established national need for such development and implementation.
+
+While institutions and faculty have a paramount role in the use and application of the
+technology, professional societies and associations were suggested as extremely
+important organizations required to coordinate evaluation and dissemination, particularly
+within a particular discipline. There was also a call for more research into the actual or
+realized costs for various information technology scenarios to assist institutions in their
+planning and budgeting. In turn, institutions could do much more to assist their distance
+
+
+
+                                                 31
+learning constituents by providing integrated access of things such as record keeping,
+articulation of credits, and billing. Government sponsorship at the state and federal level
+was also viewed as essential to providing coherence and credibility to the large-scale,
+national implementation of these technologies. Several participants specified the involvement
+of NSF as essential to coordinating this task - not only as a guiding hand or federal policy
+maker, but also in “adding respectability” to local efforts while serving to coordinate a
+system of nation-wide dissemination.
+
+DisseminationOne participant divided the community addressing educational applications
+of information technology into two camps: inventors and users. The inventors “are at best a
+fragmented community,” and this intrinsic lack of communication can seriously impede the
+dissemination of good ideas. Beyond its invention, innovations in the use of information
+technology in education are not generally regarded as research at all, but rather, as course
+development, service, or faculty development. There is little incentive for faculty to invest
+time in the study and implementation of information technology to improve teaching unless
+these activities are given equal credibility and potential for reward and recognition as any
+other form of professional research. For their part, the user community needs to be
+enabled, as by providing more comprehensive trainingthe role of the users should not
+have to replicate or supplant that of the inventors.
+
+To assist in the dissemination of information technology materials, the concept of a peer
+reviewed, electronic journal was proposed. A good journal, many felt, would benefit
+educators who want to improve their teaching capability, but do not want to become
+experts in the technology (i.e., “become reinventors”). The Journal of Geological Education
+and the Journal of Chemical Education are examples of discipline-based publications
+which have long featured discussions about information technology applications and
+improved pedagogy. Others titles submitted included: Interactive Learning Environments,
+Cognition and Instruction, Machine Mediated Learning, Human Communication Research,
+the Journal of the Learning Sciences, the Journal of Educational Multimedia and
+Hypermedia, Computers & Education, the Journal of Educational Computing Research, the
+Journal of AI and Education, and the Journal of Science Education and Technology.
+Certainly there are countless more publications, bulletin boards, and conferences which
+could claim a mission of disseminating information about information technology in education.
+But, as with so much of the material available to potential users, it is unlikely that any more
+than the most interested among them would have the time and inclination to stray beyond
+their discipline to discover and research these products. Encouragingly, more professional
+conferences are making room for presentations about teaching and pedagogy, and in turn,
+these sessions increasingly present issues and results on the use of information
+technology. However, this still misses the sector of educators who have limited time or
+inclination to “keep current,” especially outside their own discipline.6 The sense of
+“preaching to the choir” that these sources of information suggest may be one reason that
+their effect is not more noticeable in the broader community. Again, the lack of recognition
+for producing or researching such materials was cited as the main reason for their limited
+group of followers. The Journal of Chemical Education, at least, has its information
+technology/education contributions indexed in the Chemical Abstracts, hence these kinds of
+publications receive the same credit as any other research paper.
+
+While the community is calling for such means of effective dissemination of information
+technology, NSF and other funding sources must appreciate that there are very real start-
+up costs to such ventures. Similar concepts have been suggestedand attempted with
+
+6
+  As one participant remarked, those faculty most in need of seminars about teaching more
+effectively are usually those who least feel they need such professional development.
+
+
+                                                32
+varying degrees of successwith numerous storage media (floppy disks, videotape/disks,
+CD-ROM), and we would do well to learn from the successes and failures of these
+attempts.
+
+Evaluation of the TechnologyQuality and standards for acceptable educational
+technologies were major considerations in the post-workshop discussion, and the
+development of appropriate review criteria was suggested as a theme for subsequent
+workshops. The users of information technology in education should communicate “what
+works” to their professional societies and collaborate more closely with for-profit publishers
+to assist in the dissemination of their work.
+
+Correspondents agreed that the educational experience of the student should incorporate
+more learning tools (both technology- and non-technology-based) that are open-ended,
+inquiry-based, group/teamwork-oriented, and relevant to professional career requirements.
+While information technology was viewed as a powerful and promising means to
+accomplish most, if not all, these goals, the best method to review and evaluate the
+technology was less clear. More detailed information is needed on the most recent
+generation of educational learning technology, including whether specific products are
+commercially viable, educationally effective, or uniquely valuable in some way that would
+suggest further development of upgrades and related applications.
+
+     “’Distance education’ in the past has typically meant broadcasting video of
+     lectures, but that’s not really what an undergraduate education is all about.
+     Universities also offer the opportunity for dialogue, for community, for sharing
+     of resources, for new experiences. Current information technologies allow
+     for a kind of heightened interaction (compared to video), and if high-prestige
+     universities were offering this kind of interaction, then I certainly think the
+     competition would be stiff. Who wouldn’t want to attend a chat session with
+     a Nobel prize winner, with relevant papers, digital videos of lectures, and
+     other resources on-line and linked-in? But on the other hand, it’s still very
+     expensive to offer this kind of interactivity … It’s hard to keep up with the
+     discussions, post new and relevant materials, connect the virtual to the real
+     world lectures and assignments, etc.”
+                                             Mark Guzdial
+                                             Georgia Institute of Technology
+
+
+Such evaluative information could in turn be used to assist state and national policy on the
+implementation of information technology in support of better SME&T education. Moreover,
+the technology should be evaluated over a range of situations and circumstances. As with
+any instructional resource, some educators will make better use of it than others, and some
+applications will benefit certain learning environments more than others.
+
+      “State and national decision makers need a set of indicators, too: about the
+     needs for change, the readiness (carrying capacity) of their states or
+     regions for certain uses of technology, the current process of using
+     technology, and the outcomes of the new educational strategies that the
+     education is supporting. For example, regarding carrying capacity, they
+     would need to know the degree and character of current technology use
+     by both students (current and potential) and educators; when use reaches
+     certain thresholds, it ought to be much easier to implement new strategies
+     than if one tries to do that prematurely. Another example relates to
+     software: decision-makers currently have little information about the market
+
+
+
+                                                33
+     viability of certain types of coursewarethus they don’t know if it’s
+     appropriate (or useless or counterproductive) to try to fund pilot grants, to
+     fund upgrades, to fund marketing, to fund staff development ... The market’s
+     logic is not necessarily education’s logic: right now, by letting the
+     “unhindered” market decide the fate of different families of courseware,
+     we’re also letting the courseware market decide local educational strategy.
+     If we knew more about the dynamics of the market, we could decide
+     whether and how to use regulatory and funding policy.”
+                                             Steve Ehrmann
+                                             The Annenberg/CPB Projects
+
+Rate of ChangeAcademe is generally viewed as slow to change, and reluctant (or at
+least constrained, for a variety of reasons) to adopt new methods and technologies. The
+professoriate and their support personnel is a large community to coordinate, and any type
+of significant faculty development may take at least five to seven years to implement. The
+most optimistic discussion produced a vision of technological amplification, wherein
+innovation builds on innovation, adoption fosters further innovation, and community
+platforms build on aggregations of innovators. Yet such notions ultimately require long-term
+commitments of resources, with evolution occurring at a pace slow enough to allow
+monitoring and constructive evaluation along the way. Events need to be aligned with the
+academic calendar, and take advantage of intervals of lesser academic activity, when
+faculty have the most time to participate.
+
+Student Participants’ Views on Information Technology following the Workshop
+
+Like their faculty counterparts, students identified the greatest benefits of information
+technology not as the provision or demand of technical skills, but as a means of retrieving
+information easily and reliably. Secondly, information technology that provides practical
+skills (critical thinking, finding patterns, understanding complex processes) to assist the
+student in their later lives was also considered effective. Students found information
+technology materials useful as supplements to the traditional texts and lecture, and of great
+benefit to self-guided exploration. Included within effective self-guided inquiry was the
+provision of a range of depth and complexity in the presentation, to accommodate a variety
+of comfort levels with the material. The potential to offer a wrong answer in comparative
+anonymity to a show-of-hands or in-class answer was also considered a benefit of some
+forms of information technology. While some students are comfortable, experienced, and
+adept in using computers, the majority still claim not to be, and there can be a perception in
+“high-tech” curricula presentation that grades are assigned on the basis of computer skills,
+not understanding of the subject matter.
+
+The information technology students were most familiar with included software and video
+products. Access to the World Wide Web is another popular, though less prevalent, form of
+information technology. Instructors were seen as valuable in explaining the non-intuitive or
+shortcut aspects of the technology, which might not be obvious to novice users. But at the
+same time, many instructors were perceived as being uncomfortable with explaining how to
+use the technology and assuming a baseline or background understanding of these
+“common” technologies. Many instructors, the students said, presume a certain degree of
+technical ability (e.g., using the e-mail system, accessing the Internet), and the less
+experienced students learn to use the technology from trial-and-error, other students, or
+computer center technical support staff.
+
+Although electronic mail has been widely lauded as a facilitator of “immediate”
+student/instructor communication, at least one student found e-mail exchanges to be a
+
+
+
+                                                34
+depersonalized alternative to the classroom experience. Students who felt less confident of
+their ability to write down a question somewhat expectedly still prefer to ask questions
+anonymously in class than to present it in writing, signed with their e-mail address. Related
+to the issue of “assumed knowledge,” an instructor who encourages class
+correspondence via e-mail but provides no instruction on how to log-on and use the system
+is not engaging students unfamiliar with the process. Instead, s/he may be perceived as
+favoring some students while disadvantaging others. Among students comfortable with e-
+mail correspondence, the technology was viewed as being much more immediate and
+offered “around the clock” access to the instructor, a tremendous advantage over the
+traditional office hours.
+
+Technology that allows interaction by the student, manipulating complex systems with
+“what if” scenarios was also considered useful. Discussion groups via e-mail,
+newsgroups, listservs, or teleconferencing were viewed as useful applications, but rote
+presentation of a lecture or other text materials using information technology was decidedly
+uninspiring. Students often find questions or comments among the postings that address
+their concerns or inspire new questions, and can benefit from browsing the material even if
+they have no specific concerns and do not participate directly. Not unlike class
+discussions, electronic groups can be dominated by a small number of enthusiastic
+participants, hence this “passive learning” aspect of electronic discussions may still benefit
+those members who prefer to “sit and watch.” Requiring all students to participate in a
+discussion group was also not seen as an effective way of generating quality discussion.
+A few students also expressed frustration in trying to present mathematical, chemical, or
+similar formulae via a medium which operates primarily in monochrome and ASCII text.
+
+Among other specific examples given, the use of video clips to engage, inspire, or immerse
+the student (as in an historical event) was also considered effective. Many students still
+prefer standard texts or watching a television monitor to watching video clips or reading
+from a computer screen. Access to the World Wide Web and word processing/printing
+facilities were considered beneficial7; regarding peripheral technology and software, user-
+friendliness was considered important. Reliability of the system is also an important
+criterionsystem crashes which confound a lecture or laboratory relying on the technology
+are still too common. The start-up or booting/rebooting of many technology products was
+also viewed as frustrating, too complicated, or a waste of instructional time.
+
+Overall, most students reported having experience with “low tech” applications such as e-
+mail, newsgroups, Web browsers, and videotape/disk, far fewer felt they had been
+exposed to “high-tech” information technology, perhaps a subjective designation given the
+rate of change in the industry, the disparity of resources among academic institutions, the
+chosen field of study, and the student’s personal experience. There is still a perceived
+predominance of techno-phobic or computer-inexperienced students that presents an
+uneven platform for presenting information using technology. However, on campuses
+where the use of computers had been expanded and encouraged, the number of students
+“lagging behind” was much less. Significantly, while most students considered information
+technology to be useful for engaging their interest or helping them conceptualize complex
+
+
+7
+ Cautiously beneficial, as such access may, however unintentionally, encourage clip-and-paste
+plagiarism in student assignments, and the use of URLs or other “fleeting references” may make
+source material especially difficult to reference at a later date.
+
+
+
+
+                                                35
+processes, there remained a strong sentiment that there is no substitute for personal
+interaction with a competent and enthusiastic teacher.
+
+
+
+
+                                           36
+37
+     IV: Recommendations
+     Overwhelmingly, the response to the question of “who should be responsible for
+     developing the use of information technology in the classroom” was everyone. This
+     includes: government, professional societies, faculty, teachers, librarians, students,
+     publishers, and designers/manufacturers of learning technology products. It was
+     particularly interesting to note that, by the end of the discussion, the term information
+     technology had been virtually replaced with learning technology, indicating the direction in
+     which these resources should be applied.8
+
+     This section summarizes the main observations and recommendations deriving from the
+     workshop, including the group’s recommendations to NSF for further action and activities
+     on this subject.
+
+                           Define the Use of Information Technology
+
+     Three areas were determined as fundamental and essential to the use of information
+     technology.
+     Need—
+
+     •   Address the needs and requirements of future or currently excluded
+         markets. The most important indicator may be one of needis the technology really
+         meeting the needs of its entire, and intended, audience? Barriers may include proximity
+         of the learners to the providers, schedule constraints, physical handicaps, assumed
+         baseline knowledge, cost/affordability, learning style, and native language.
+
+     •   Accentuate the teaching and learning attributes unique to information
+         technology and its use. Desirable attributes of information technology tools and
+         their use include: the ability to construct knowledge, consideration of disparate user
+         background knowledge, self-guided, goal identified, encouragement of communication
+         and collaboration, and peer instruction.
+
+     Scope—
+
+     •   Define the involvement of current users and predicted or probable future
+         users. There is a need to see what, exactly, the current use of information
+         technology is. Is there support for such systems? To what extent do the learners of
+         interest actually rely on the use of computers, video, and telecommunicationsnot only
+         in the classroom, but in their everyday lives.
+
+     •   Define the current and proposed role of information technology in the
+         classroom. Is information technology used at the level of a “luxury,” a “tool,” or a
+         “necessary resource”?
+
+
+
+
+8
+ We are reminded here of the folly in being too clinical in our approach. “Shouldn’t a mission to
+provide ‘student-centered education,’” as one correspondent observed, “be as self-obvious as ‘diner-
+centered restaurants’ or ‘passenger-centered airlines’”?
+
+
+                                                   38
+Efficacy—
+
+•   Consider, and be willing to adapt or revise, paradigms in teaching and
+    learning. Different approaches to education are possible, and we must consider at
+    what point the tools of one approach become the foundation of another.
+
+•   Define desirable outcomes, then design and utilize instructional learning in
+    a manner consistent with those outcomes. What are the outcomes noted by,
+    and expected of, the graduates of technology-enhanced curricula? Are they better
+    able to fill jobs based on their ability to use technology effectively in their work?
+
+                             Promote Faculty Development
+
+In order for all faculty at all types of institutions to adopt and broadly utilize information
+technology, it is necessary for faculty (as well as graduate students, teaching aides, and
+other complimentary instructors) to be recognized for their efforts in learning and
+implementing such technologies.
+
+•   Provide recognition and rewards. An emphasis on using information technology
+    (and teaching in general) should be viewed not as an additional requirement, but as a
+    shift in attitude in the most professionally rewarding use of the available time. All
+    attempts to utilize more engaging teaching methods should be recognized, and the most
+    effective of these should be rewarded on par with comparable gains in research.
+
+•   The outcome of faculty development should readily impact and improve the
+    learning experience of the student. Faculty development projects should have
+    improvements to pedagogy as their primary consideration, and focus on
+    teaching/learning processes unique to the use of information technology, rather than
+    creating high-tech versions of the self-same ineffective practices.
+
+•   Don’t require users to reinvent the wheel. The use of tested and reliable
+    components can simultaneously lower the development costs and increase the quality
+    of new curriculum material and resources. Authoring and development tools need to
+    be more user-friendly and better supported. The learning and adoption process should
+    not be a repeat of the original design process.
+
+                                Encourage Dissemination
+•   Recognize extant avenues for dissemination. While several mechanisms for
+    disseminating these ideas currently exist (e.g., journals, conferences), the
+    contributions of research in the use of information technology is not widely taken-up;
+    one significant reason for this is the lack of credibility ascribed to experimentation with
+    information technology, and research on effective pedagogy in general.
+
+•   Develop new forums that best illustrate and showcase noteworthy efforts.
+    In the short-term, an electronic journal of these kinds of instructional technology–peer-
+    reviewed and interdisciplinary in scope, could provide a nucleating agent for these
+    ideas.
+
+•   Implement adequate professional review. Professional societies should develop
+    the high quality journals (multimedia), conferences, and awards in information
+
+
+                                                39
+         technology applications to education. Quality standards need to be developed so that
+         each contribution can be judged consistently.
+
+                                   Implications for Institutions
+     •   Recognize innovation in the design and implementation of information
+         technology. Administrators and faculty need to recognize inventors and innovators,
+         and consider this work credible research. Methods of assessment need to be better
+         defined–as do quantitative evaluations of the learning process to assist in these
+         determinations of effectiveness.
+
+     •   Position the campus as part of the larger electronic community. In
+         implementing the information technology infrastructure on campus, the links to other
+         institutions and to part-time or distance learners off-campus must also be considered.
+
+                    Recommendations to the National Science Foundation
+     •   Continue to support and advise on this discussion. NSF should develop within
+         discipline centers a critical mass of expertise to help faculty at all institutions develop
+         and adopt information technology-based tools for improving learning. Included in this
+         mission should be increased support of research into the learning process itself, as
+         well as “technical support” that not only provides access to quality instructional
+         products, but also assists faculty in its implementation at their home institution.9
+
+     •   Promote systemic reform and multidisciplinary efforts. As part of the national
+         dissemination efforts, NSF might do well to publicize projects and technologies that are
+         more akin to “community building,” emphasizing the cross-fertilization of ideas resulting
+         from a common technological platform.
+
+     •   Support and recognize the use of technology in teaching and learning. NSF
+         should allocate funds and resources to support research in information technology
+         applications to education, and recognize/reward successful innovation with grants for
+         development and implementation.
+
+     •   Concentrate Foundation efforts. In general, NSF would do well to focus on
+
+         •   Training efforts should focus on faculty, but where appropriate, should extend
+             to graduate students and other faculty support personnel.
+
+         •   Accommodating diverse audiences by supporting projects that “target” or attract
+             more than one audience or group in the use of information technology.
+
+
+
+
+9
+ This “local performance,” mentioned one correspondent, tells little about how well the technology
+will behave and achieve elsewhere, but it “can at least flesh out the envelope of possibilities.”
+
+
+                                                     40
+•   Research the learning process through increased support of research into
+    empirical ways to test/measure the various teaching and learning modes, as well
+    as the comparative success of information technology in enhancing these
+    processes.
+
+•   Provide recognitionof the innovators and leaders in the effective use of
+    information technology.
+
+•   Provide guidance and reputability by coordinating, and funding if appropriate, a
+    mechanism for collating, reviewing, and promoting the dissemination of quality
+    information technology products, uses, and ideas.
+
+
+
+
+                                          41
+Appendix: Workshop Participants
+                     * Denotes Student Participant ** Denotes Exhibitor
+
+Diane Balestri        Princeton University                                       balestri@
+                      Dept. of Computing & Information                      princeton.edu
+                      Technology
+                      320 87 Prospect Avenue
+                      Princeton, NJ 08544
+Thomas F.             Brown University                                               tfb@
+Banchoff              Department of Mathematics                              cs.brown.edu
+                      Providence, RI 02912
+Linda J. Bettis       TAP Multimedia                                         tapmultime@
+                      P.O. Box 3338                                              aol.com
+                      Silver Spring, MD 20918
+Leslie Bondaryk **    PWS Publishing Company                              leslie.bondaryk@
+                      20 Park Plaza                                                pws.com
+                      Boston, VA 02116
+Jackie Campbell *     Howard University                                          mswift@
+                      Washington, DC                                       umd5.umd.edu
+Patrick J. Cooney     Millersville University                                pjcooney@
+                      Department of Physics                         marauder.millersv.edu
+                      P.O. Box 1002
+                      Millersville, PA 17551
+Robert DeSieno        Skidmore College                                            siena@
+                      Mathematics & Computer Science                         skidmore.edu
+                      Dept.
+                      Saratoga Springs, NY 12866
+Stephen C.            The Annenberg/CPB Projects                               ehrmann@
+Ehrmann               901 E Street NW                                             cpb.org
+                      Washington, DC 20004-2037
+Neil Evans **         Bellevue Community College                                nevans@
+                      NorthWest Center for Emerging                           bcc.ctc.edu
+                      Technologies
+                      3000 Landerholm Circle, SE
+                      Bellevue, WA 98007-6487
+Don Farish            Sonoma State University                                 don.farish@
+                      1801 East Cotati Avenue                                 sonoma.edu
+                      Rohnert Park, CA 94928
+Kenneth E. Foote      University of Texas at Austin                               k.foote@
+                      Office of the Vice President for                     mail.utexas.edu
+                      Research and Geography
+                      P.O. Box 7996
+                      Austin, TX 78712-1111
+
+
+
+
+                                                  42
+Louis Fox          University of Washington                            lfox@
+                   Office of Undergraduate Education        u.washington.edu
+                   Box 351209
+                   Seattle, WA 98195-1209
+Geri Gay           Cornell University                                gkg1@
+                   Ithaca, NY 14853                              cornell.edu
+Marc Goldberg *    George Washington University                      spiffy@
+                   Washington, DC                              seas.gwu.edu
+Mark Guzdial       Georgia Institute of Technology                 guzdial@
+                   College of Computing                       cc.gatech.edu
+                   801 Atlantic Drive
+                   Atlanta, GA 30332-0280
+Martha Haehl       Maple Woods Community College                     haehl@
+                   Department of Mathematics                kcmetro.cc.mo.us
+                   2601 N.E. Barry Road
+                   Kansas City, MO 64156
+Tom Head           Virginia Tech University                      tom.head@
+                   Department of Media Services                       vt.edu
+                   102 Old Security Building
+                   Blacksburg, VA 24061-0232
+Barbara Holland    John Wiley & Sons Publishing                  bholland@
+                   Company                                       jwiley.com
+                   College Division
+                   605 Third Avenue
+                   New York, NY 10158
+Herman Hughes      Michigan State University                       hughes@
+                   Dept. of Computer Science                    cps.msu.edu
+                   5066 Blue Haven Drive
+                   East Lansing MI 48823
+Jane Humphries     Blackwell Scientific                              janeh@
+                   238 Main Street                              blacksci.com
+                   Cambridge, MA 02142
+John Jungck        Beloit College                                  jungck@
+                   Department of Biology                          beloit.edu
+                   Beloit, WI 53511-5595
+Kenneth R. Laker   University of Pennsylvania                        laker@
+                   Dept. of Electrical Engineering      pender.ee.upenn.edu
+                   200 South 33 rd Street
+                   Philadelphia, PA 19104-6314
+Michal Liddel *    University of Maryland                           spiro@
+                   Bethesda, MD                                wam.umd.edu
+Jeanine Meyer      Pace University                                  meyer@
+                   Department of Information Services   pacevm.dac.pace.ed
+                   227 Grove Street                                       u
+                   Mt. Kisco, NY 10549
+
+
+
+
+                                              43
+John W. Moore          University of Wisconsin-Madison                     JWMoore@
+                       Department of Chemistry                           macc.wisc.edu
+                       1101 University Avenue
+                       Madison, WI 53706-1396
+Brendan Muramatsu      University of California at Berkeley
+**                     Berkeley, CA
+
+Robert M. Panoff **    The Shodor Education Foundation,                        rpanoff@
+                       Inc.                                                   shodor.org
+                       628 Gary Street
+                       Durham, NC 27703
+Chip Price             Addison Wesley Interactive                                chipp@
+                       One Jacob Way                                             aw.com
+                       Reading, MA 01867
+Martin Ramirez         University of California at Berkeley                  mramirez@
+                       Engineering Systems Research                            cris.com
+                       Center
+                       Etcheverry Hall 3112
+                       Berkeley, CA 94720-1750
+Robert Ritchie         Hewlett-Packard Company                                  ritchie@
+                       1501 Page Mill Road, MS 3L                            hpl.hp.com
+                       Palo Alto, CA 94304
+Larry Ronk *           SAIC, Inc.                                                  lronk@
+                                                                  skipper.arltrg.SAIC.co
+                                                                                        m
+Clare Sager *          University of Maryland                                crsager@
+                       College Park, MD                                   wam.umd.edu
+
+Philip Sandberg        Dakota State University                              sandberp@
+                       College of Natural Sciences                    columbia.dsu.edu
+                       122 Science Center
+                       Madison, SD 57042-1799
+Jeana Scheirer *       American University                                    js7048a@
+                       Washington, DC                             email.cas.american.e
+                                                                                     du
+Sean Simmen *          American University                                       sean@
+                       Washington, DC                                     american.edu
+Steven Wolf            California State University - Stanislaus                 swolf@
+                       Dept. of Biology                               chem.csustan.edu
+                       Turlock, CA 95382
+Beverly Park Wolf **   University of Massachusetts                                bev@
+                       Computer Science Department                         cs.umass.edu
+                       5 Maplewood Drive
+                       Amherst, MA 01002
+Mark A. Yoder          Rose-Hulman Institute of Technology                mark.a.yoder@
+                       Dept. of Electrical and Computer                 rose-hulman.edu
+                       Engineering
+                       5500 Wabash Avenue
+                       Terre Haute, IN 47803
+
+
+
+
+                                                 44
+Dean Zollman   Kansas State University     dzollman@
+               Department of Physics      phys.ksu.edu
+               Cardwell Hall
+               Manhattan, KS 66506-2601
+
+
+
+
+                                     45
+                          Notices from the National Science Foundation
+
+
+
+
+        The Foundation provides awards for research in the sciences and engineering. The
+awardee is wholly responsible for the conduct of such research and preparation of the results for
+publication. The Foundation, therefore, does not assume responsibility for the research findings
+or their interpretation.
+
+        The Foundation welcomes proposals from all qualified scientists and engineers, and
+strongly encourages women, minorities, and persons with disabilities to compete fully in any of
+the research and related programs described here. In accordance with federal statutes, regulations,
+and NSF policies, no person on grounds of race, color, age, sex, national origin, or disability shall
+be excluded from participation in, denied the benefits of, or be subject to discrimination under
+any program or activity receiving financial assistance from the National Science Foundation.
+
+        Facilitation Awards for Scientists and Engineers with Disabilities (FASED) provide
+funding for special assistance or equipment to enable persons with disabilities (investigators and
+other staff, including student research assistants) to work on an NSF project. See the program
+announcement or contact the program coordinator at (703) 306-1636.
+
+       The National Science Foundation has TDD (Telephonic Device for the Deaf) capability,
+which enables individuals with hearing impairment to communicate with the Foundation about
+NSF programs, employment, or general information. To access NSF TDD dial (703) 306-0090;
+for FRS, 1-800-877-8339.
+
+Catalogue of Federal Domestic Assistance: CFDA #47.076, Education and Human Resources
+  NATIONAL SCIENCE FOUNDATION
+          ARLINGTON, VA 22230
+
+         OFFICIAL BUSINESS
+   PENALTY FOR PRIVATE USE $300
+RETURN THIS COVER SHEET TO ROOM P35 IF YOU
+DO NOT WISH TO RECEIVE THIS MATERIAL, OR IF A
+CHANGE OF ADDRESS IS NEEDED. INDICATE THE
+CHANGES, INCLUDING ZIP CODE, ON THE LABEL (DO
+NOT REMOVE LABEL).
+
+
+
+
+                                                NSF 98-82
+                                                    (new)
+

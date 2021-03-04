@@ -1,0 +1,451 @@
+STRANDS AND STANDARDS
+INTRODUCTION TO INFORMATION
+TECHNOLOGY
+
+
+
+
+Course Description
+The Intro to IT course is for students interested in pursuing a career in the field of Information
+Technology. Students will be introduced to the different aspects of information technology to
+determine where their interests. Students will complete assignments and projects in IT careers,
+digital media, hardware & operating systems, communications & networks, software
+development, databases, and new & emerging technologies.
+ Intended Grade Level                              9-12
+ Units of Credit                                   0.5
+ Core Code                                         35.02.00.00.005
+ Concurrent Enrollment Core Code                   35.02.00.13.005
+ Prerequisite                                      Digital Literacy
+ Skill Certification Test Number                   801
+ Test Weight                                       0.5
+ License Type                                      CTE and/or Secondary Education 6-12
+ Required Endorsement(s)
+ Endorsement 1                                     Introduction to Information Technology, or
+ Endorsement 2                                     A+ (Computer Repair/Maintenance)
+
+
+
+           " Learning that works for Utah
+                                                                           ADA Compliant: July 2018
+                                          INTRODUCTION TO INFORMATION TECHNOLOGY
+
+STRAND 1
+Introduction to Information Technology-Students will develop an understanding of current
+issues related to Information Technology.
+Standard 1
+Students are introduced to the importance of ethics and ethical behavior.
+      • Understand and follow an Acceptable Use Policy (AUP).
+      • Explain the difference between legal and ethical.
+      • Explain how some online behaviors can be harmful personally and to a business.
+           (Pornography, social networking, gaming, pirating software, illegal hacking, etc.)
+      • Follow copyright and fair use guidelines.
+Standard 2
+Understand the importance of information privacy and security.
+      • Viruses, spoofing, phishing, cookies, spam, etc.
+      • Explain kinds of anti-virus software and how they work.
+
+Standard 3
+Identify the skills needed by employers to be an effective and valued employee.
+        • List employable skills: passion, teamwork, communication, collaboration, friendly,
+            asks questions, meets deadlines, self-motivated, desire to learn new things, creative,
+            problem solver, basic office suite skills, etc.
+        • Model employable skills in the classroom.
+Standard 4
+Understand the levels of education needed to be successful in a specific area of Information
+Technology.
+      • Understand IT industry certifications, education, boot camps, and work experience.
+      • Explain how certifications, education, boot camps, and work experience can affect
+          employability.
+Standard 5
+Participate in an IT interest survey.
+        • Identify different areas and careers in IT.
+        • Identify areas of strength and weakness based on an IT interest survey.
+Standard 6
+Identify the organizational structure of a business and the role that Information Technology
+plays in the success of business.
+        • Identify different IT careers in business (CEO, CIO, System Analysts, tech support,
+            etc.)
+
+
+
+
+2|Page                                                                            July 2018
+                                          INTRODUCTION TO INFORMATION TECHNOLOGY
+
+Standard 7
+Identify trends in the world of information technology.
+        • Discuss the pros and cons of cell phones, texting and driving.
+        • Discuss the use of portable digital devices.
+        • Discuss the use of wearable devices.
+        • Identify the values and problems with social networking.
+        • Explore the impact of cloud computing.
+        • Explore the impact of new Web technologies.
+Performance Skills
+       •   Demonstrated ethical behavior
+       •   Completed an on-line IT interest survey
+
+STRAND 2
+Digital Media Assets-Students will complete projects and assignments in the area of Digital
+Media.
+Standard 1
+Understand the different types of media included in a multimedia and Web projects.
+      • Understand and use text
+      • Understand and use graphics
+      • Understand and use audio
+      • Understand and use video
+      • Understand and use animation
+Standard 2
+Utilize fonts in interactive projects.
+         • Change a font family, size, and color.
+         • Identify serif and san serif fonts.
+Standard 3
+Obtain, create, and edit digital 2D graphics.
+       • Obtain 2D graphics from clipart or photo collections.
+       • Scan photos and/or take photos with a digital camera.
+       • Use software to draw and edit bitmap and vector drawings.
+       • Understand and identify bitmap and vector graphic formats.
+Standard 4
+Obtain, create, and edit digital audio.
+       • Capture digital audio from a microphone, midi, or imported file.
+       • Obtain digital audio from royalty free sources. (Soundzabound, youtube music, etc .)
+       • Record, edit, and export digital audio.
+       • Understand the use and importance of audio in digital media productions.
+       • Understand and identify different audio formats. (WAV, mp3, wma, m4a, etc.)
+
+3|Page                                                                         July 2018
+                                         INTRODUCTION TO INFORMATION TECHNOLOGY
+
+       •   Publish audio in a project.
+Standard 5
+Obtain, create, and/or edit digital video.
+       • Edit or render a digital video from photos or video clips.
+       • Understand and identify different video formats & codecs. (mov, wmv, mp4, webm,
+           ogg, etc.)
+       • Use or embed video in a document or presentation.
+       • Publish video project or in a project.
+Standard 6
+Create, edit, and utilize 2D animations.
+       • Draw a flip book with at least 10 pages.
+       • Create and edit a digital frame (cel) animation.
+       • Create and edit a path or tween animation.
+Standard 7
+Utilize a design model or process to plan and implement to interactive or a Web project.
+        • Describe the project and the problem it addresses.
+        • Address the needs of the audience or customer.
+        • Plan the organization for the project and design the screen layouts.
+        • Storyboard the plan.
+        • Write a proposal for the project.
+Standard 8
+Use software to create and implement an interactive or Web project from a plan. (Software
+used could include: PowerPoint, Presentations, Google Presentations, Microsoft Sway,
+LucidPress, Prezi, etc.)
+       • Include in the project: audio, animation, graphics and navigation links for user input.
+       • Create or prepare assets for the project.
+       • Build the project.
+       • Evaluated the project by testing and debugging it.
+       • Publish or distribute the project.
+Standard 9
+Create web pages using a GUI HTML editor.
+       • Include a main page with links to other pages,
+       • Include a page with semantic structure: header, nav, main, aside, and footer.
+       • Include a page with bullets or a numbered list.
+       • Include photos or graphics in at least one page.
+       • Use CSS to change fonts, colors, layout, etc.
+
+
+
+
+4|Page                                                                           July 2018
+                                         INTRODUCTION TO INFORMATION TECHNOLOGY
+
+Standard 10
+Explore to careers and educational options in digital media and Web development.
+       • Understand different career options in digital media and web development.
+       • Identify different specialties or team members that can be involved in a project.
+           Web: Front-end developer, backend developer, or full stack developer. Digital
+           Media: Graphic Designer (UX/UI), Animator, Audio engineer, Game Designer, and
+           videographer.
+Performance Skills
+       •   Created original digital graphics through scanning, editing, and illustration
+       •   Created original digital audio through capture and narration
+       •   Created an interactive multimedia project using a design model that includes audio,
+           animation, graphics and links
+       •   Created a web page using an HTML editing program
+
+STRAND 3
+Information Support & Services-The student will complete projects and assignments in the
+area of Information Support and Services.
+Standard 1
+Understand the input/output, processing and storage of data in a personal computer system.
+      • Identify and label the five parts of computer system. (input, output, storage,
+         memory, processing)
+      • Explain the function of each of the parts of a computer system.
+      • List examples of each of the parts of the computer system.
+Standard 2
+Understand different kinds of computing devices.
+      • Desktops, laptops, phones, tablets, Internet of Things (IoT), etc.
+      • Understand how hardware components function on a computer.
+      • Explain the function of firmware as a computer component.
+      • Explain the function of software on a computer.
+Standard 3
+Understand the purpose and function of power on a computer.
+      • Identify storage and input/output devices.
+      • Understand hardware: parts, functions, handling, safety, assembly, and
+         troubleshooting.
+      • List basic hardware components. (motherboard, hard drive, memory, processor,
+         power supply, expansion slot, etc.)
+      • Describe functions of basic components of a computer system. (Processor,
+         Motherboard, RAM/ROM, Hard Drive, Input/Output Adaptors and Removable
+         Storage Devices.)
+
+
+5|Page                                                                          July 2018
+                                         INTRODUCTION TO INFORMATION TECHNOLOGY
+
+       •   Demonstrate proper handling and safety considerations for hardware components,
+           including ESD or static electricity & devices that hold a high voltage when powered
+           off such as a monitor or laser printer.
+       •   Assemble and disassemble parts of a computer system.
+       •   Follow the basic troubleshooting steps for solving problems with a personal
+           computer system. (1. Identify the problem, 2. Establish an idea of probable cause, 3.
+           Test your idea, 4. Plan of action to implement the solution, 5. Verify solution
+           worked, 6. Document your findings, actions, and outcomes.)
+Standard 4
+Understand the basic functions of a computer operating system.
+      • Identify different common OS’s, (Windows, Mac OS, Linux, Android, iOS, etc.)
+      • List the functions of an operating system. (Controls hardware, controls software,
+         controls GUI, file-system.)
+      • Understand the difference be a GUI OS and the command line of an OS.
+      • Understand the history of OS’s on a personal computer.
+Standard 5
+Understand basic kinds and uses of application software.
+      • Identify the uses of application software (word processor, spreadsheet,
+         presentation, accounting, database, digital media editors, accounting, development,
+         etc.)
+      • Identify different sources and licensing of software. (commercial, open source,
+         freeware, shareware, creative commons, etc.)
+Standard 6
+Explore the use of software controlled hardware devices. (Raspberry Pi, Arduino, robotics,
+Internet of Things (IoT), etc.)
+Standard 7
+Understand careers and educational options in technical support field.
+      • Explore certifications in Information Support and Services.
+      • Explore educational opportunities in the IT Support area.
+Performance Skills
+       •   Demonstrated proper handling techniques of hardware components
+       •   Disassembled and rebuilt a computer system either individually, in teams or with the
+           instructor.
+
+
+
+
+6|Page                                                                           July 2018
+                                          INTRODUCTION TO INFORMATION TECHNOLOGY
+
+STRAND 4
+Networks & Communication-Students will complete projects and assignments in the area of
+Network Systems.
+Standard 1
+Understand the uses of computer networks in today’s society.
+      • Explore the impact of home, school, and business networks.
+      • Explore the impact of the Internet on society.
+Standard 2
+Identify functions & common network operating systems (NOS).
+        • Identify the functions of a NOS. (file storage, printing, security, etc.)
+        • Identify some common NOS’s. (Microsoft Server, Linux, Internet, etc.)
+Standard 3
+Understand networking in a local and remote environment.
+      • Examine the uses of a local network.
+      • Compare and contrast wired, wireless, and cell networks.
+       •   Explore remote communications through the use of webinars, collaborative tools, remote
+           desktop, etc.
+
+Standard 4
+Define the media transmission required for successful network communication.
+       • Understand how media, medium, message are related.
+       • Understand transfer rates and bit rates.
+
+Standard 5
+Identify and describe the communication devices and protocols required for successful
+networking.
+        • Identify & describe network connection devices. (Routers, switches, modem, cable
+           modem, DSL, MAC address, network interface card (NIC) etc.)
+        • Identify & describe network medium types. (twisted pair, unshielded twisted pair
+           (UTP), CAT 6, wireless, Bluetooth, fiber optic, cellular LTE, etc.)
+        • Describe how packets are used to send and receive data.
+        • Describe what is meant by network protocols.
+        • Identify common network protocols. (TCP/IP, FTP, HTTP, HTTPS, etc.)
+
+Standard 6
+Understand and describe how the Internet is a network system.
+Standard 7
+Explore Cloud computing and its impact on computing today. Including: online storage, Web
+apps, software as a service, etc.
+
+
+
+7|Page                                                                                July 2018
+                                           INTRODUCTION TO INFORMATION TECHNOLOGY
+
+Standard 8
+Understand the responsibilities of Digital Citizenship in today’s world.
+Standard 9
+Learn about careers and educational options in network administration.
+       • Explore certifications in Networking.
+       • Explore education and work experience that can lead to IT network careers.
+       • Identify network career opportunities. (Network Administrators, security, network
+          analysis, etc. and the roles of each).
+Performance Skills
+       •   Accessed and used network resources such as files and printers on the school’s LAN
+       •   Accessed Internet resources
+       •   Created a diagram of a LAN, WAN and MAN
+       •   Pinged a network
+
+STRAND 5
+Coding & Software Development-Students will complete projects and assignments in the area
+of Programming and Software Development.
+Standard 1
+Understand the uses of programming concepts in the development of software applications.
+      • Identify and describe kinds of developed software. (Generic, custom, etc.)
+      • Describe the source code of a program.
+      • Describe the difference between for interpreted and compiled languages.
+      • Identify basic kinds of programming. (spaghetti, modular, procedure, object oriented
+         programming (OOP), etc.)
+Standard 2
+Understand and use the basic structures and controls used in programming. (Sequence, Loops,
+Decisions/Conditions, Events, and Functions)
+Standard 3
+Understand the process to software/program design.
+      • Understand the concepts in “Computational Thinking”.
+      • Follow software design steps. (1. Describe the problem, 2. Develop an algorithm or
+         solutions, 3. Code the project, 4. Test & debug the project, 5. Provide internal &
+         external document.)
+      • Use walk through steps to see all the steps to describe a problem solution.
+      • Design a flowchart or step to solve a basic problem.
+      • Develop an algorithm to solve a simple problem.
+
+
+
+
+8|Page                                                                         July 2018
+                                        INTRODUCTION TO INFORMATION TECHNOLOGY
+
+Standard 4
+Create applications using a programming language. (MIT Scratch, C#, Python, AppLab,
+PencilCode, JavaScript, TouchDevelop, Java, Swift, etc.).
+       • Use a software design process to plan a software program.
+       • Understand and use good principles of design for the user experience (UX) and the
+          user interface (UI).
+       • Understand and use programming conventions. (indentation, capitalization, etc.)
+       • Understand and in a program use: variables, data types, constants, calculations,
+          operators, decisions, loops, functions, comments, etc.
+       • Design the screen layout for an app or a software program.
+       • Understand how GUI software development environments are used.
+       • Design and develop a software program that gets input, processes the data, and
+          displays output.
+       • Publish or share your project with others.
+
+Standard 5
+Create a web pages using HTML5 and Cascading Style Sheets (CSS) and JavaScript.
+       • Understand the basic parts of HTML syntax. (tags, attributes, values)
+       • Understand the W3C standards for HTML5 web pages.
+       • Understand how CSS is used for formatting web pages.
+       • Create web pages using a text editor, HTML5 standards, and CSS.
+       • Understand and use scripting to create interactive web pages.
+
+Standard 6
+Use Agile/Scrum for project management.
+       • Understand the terms associated with Scrum project management.
+       • Understand the roles in Scrum project management.
+       • Work on a team to develop a software project.
+
+Standard 7
+Students will be introduced to careers and educational options in computer programming and
+software development.
+       • Explore education and work experience that can lead to careers as a coder or
+          software developer.
+       • Identify Software Development career opportunities. (coder, programmer, system
+          analyst, STACK developer, Web developer, etc.).
+Performance Skills
+       •   Created an application using a programming language
+       •   Created a web page using HTML code with Java Script
+
+
+
+
+9|Page                                                                        July 2018
+                                           INTRODUCTION TO INFORMATION TECHNOLOGY
+
+STRAND 6
+Databases, Big Data, GIS-Students will understand the basic concepts of databases, their use,
+and development
+Standard 1
+Understand how databases are used in society
+      • Identity several databases that they may be part of. (school SIS, bank, SSN, IRS, state
+         driver’s license, etc.)
+      • Identify several databases that can be accessed on the Internet. (search engines,
+         white pages, Facebook, real estate listings, eBay, etc.)
+      • Understand crowd sourcing to collect data.
+Standard 2
+Understand database concepts to create and use a database.
+      • Understand basic vocabulary associated with a database. (flat file, record, field,
+         table, search, query, select, sort, report, etc.)
+      • Create a flat file database, enter, edit, and delete records.
+      • Search and sort the database.
+      • Create reports to extract information from the database.
+      • Explore basic SQL database commands.
+Standard 3
+Data visualization of big data
+       • Do analysis on data from public databases.
+       • Use GIS software to map data visually
+       • Analyze data to determine trends
+Performance Skills
+       •   Created a flat-file database
+       •   Performed a database query
+
+STRAND 7
+New & Emerging Technologies- Explore new technologies in the IT area
+Standard 1
+Create a work portfolio, an end-of-course project on an information technology topic, or an IT
+career.
+        • Plan the IT or career project so it could be cross curricular or used in another class if
+          possible.
+        • Plan the project as part of a team member. (2-3 team members)
+        • Make the project interactive. (Use web pages, presentation software, or
+          programming software.)
+        • Prepare to give an oral presentation about your project.
+
+
+10 | P a g e                                                                        July 2018
+                                             INTRODUCTION TO INFORMATION TECHNOLOGY
+
+Standard 2
+Explore the new trends in information technology. Like: TED talks, Twitter feeds, etc. that are
+focused on newer concepts not covered within this course: Cybersecurity, AR/VR, UX/UI,
+Quality Assurances, Cloud Computing, Artificial Intelligence, and how these are configured with
+or without the concepts explored within this course.
+Standard 3
+Optional: Participate in a work-based learning (WBL) activity.
+      • Listen to a guest speaker.
+      • Attend a field trip or tour an IT business.
+      • Participated in a job shadowing.
+      • Plan your own work-based learning activity.
+Performance Skills
+         •     Created end-of-course project on an IT topic or career (It is recommended that this
+               project be completed as a team project)
+         •     Optional: Attended a work-based learning activity
+Work Place Skills
+Communication, Problem Solving, Teamwork, Critical Thinking, Dependability, Accountability, Legal
+requirements/expectations
+
+Skill Certificate Test Points by Strand
+                                       Number of Test Points by Strand                           Total    Total
+      Name                     Test#
+                                       1   12 13 14 I s 16 17 18 19 I                      10    Points   Questions
+ Intro to IT                   80 1    15 1 11 1 13 1 11 1 12 1 6        I 1   I   I   I         69       67
+
+
+
+
+11 | P a g e                                                                                    July 2018
+
