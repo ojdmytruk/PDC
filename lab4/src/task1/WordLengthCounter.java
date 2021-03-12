@@ -18,7 +18,7 @@ public class WordLengthCounter {
 
     public static void main(String[] args) throws IOException {
         WordLengthCounter wordLengthCounter = new WordLengthCounter();
-        Folder folder = Folder.fromDirectory(new File("C:\\Users\\teraz\\OneDrive\\Рабочий стол\\PDC\\lab4\\src\\ForkJoinWordLength\\Documents"));
+        Folder folder = Folder.fromDirectory(new File("C:\\Users\\teraz\\OneDrive\\Рабочий стол\\PDC\\lab4\\src\\task1\\Documents"));
         double[] res = wordLengthCounter.countWordLengthOnSingleThread(folder);
         int recMin = Collections.min(minValuesGlobal);
         double recAvg = wordLengthCounter.countWordLengthOnSingleThread(folder)[1] / 7;
@@ -36,7 +36,7 @@ public class WordLengthCounter {
         System.out.format("%10s%5d%5d%32f%32f", "Recursive", recMin, recMax, recAvg, recTime);
         System.out.println();
         System.out.format("%10s%5d%5d%32f%32f", "ForkJoin", (int) pMin, (int) pMax, pAvg, parTime);
-        System.out.println();
+//        System.out.println();
         System.out.println("Speed up: " + recTime/parTime);
         System.out.println("Words recursive: " + (int) wordLengthCounter.countWordLengthOnSingleThread(folder)[3]);
         System.out.println("Words fork/join: " + (int) wordLengthCounter.countWordLengthInParallel(folder)[3]);

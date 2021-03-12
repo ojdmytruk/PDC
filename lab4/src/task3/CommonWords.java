@@ -15,9 +15,7 @@ public class CommonWords {
         CommonWords words = new CommonWords();
         Folder folder = Folder.fromDirectory(new File("C:\\Users\\teraz\\OneDrive\\Рабочий стол\\PDC\\lab4\\src\\task4\\Documents"));
         ArrayList<String> uniqueWords = words.uniqueWords(folder);
-//        for (String commonWord: uniqueWords){
-//            System.out.println(commonWord);
-//        }
+
         ArrayList<String> nonCommonWords = words.nonCommonWords(folder, uniqueWords);
         ArrayList<String> commonWords = words.commonWords(uniqueWords, nonCommonWords);
         System.out.println("Common words:");
@@ -74,7 +72,7 @@ public class CommonWords {
 
         @Override
         protected ArrayList<String> compute() {
-            ArrayList<String> commonWords = new ArrayList<>();
+            Set<String> uniqueWords = new HashSet<>();
             LinkedList<RecursiveTask<ArrayList<String>>> forks = new LinkedList<>();
             for (Folder subFolder : folder.getSubFolders()) {
                 FolderHashTask task = new FolderHashTask(subFolder);
@@ -87,17 +85,16 @@ public class CommonWords {
                 task.fork();
             }
             for (RecursiveTask<ArrayList<String>> task : forks) {
-                commonWords.addAll(task.join());
+                uniqueWords.addAll(task.join());
             }
-            commonWords = (ArrayList<String>) commonWords.stream().distinct().collect(Collectors.toList());
-            Collections.sort(commonWords);
-            return commonWords;
+
+            return new ArrayList<>(){{ addAll(uniqueWords); }};
         }
     }
 
-    public ArrayList<String> findNonCommon(Document document, ArrayList<String> otherDocWords){
+    public ArrayList<String> findNonCommon(Document document, ArrayList<String> uniqueWords){
         ArrayList<String> nonCommonWords = new ArrayList<>();
-        for(String word: otherDocWords)
+        for(String word: uniqueWords)
         {
             if(!getWordsFromFile(document).contains(word.toLowerCase(Locale.ROOT)))
             {

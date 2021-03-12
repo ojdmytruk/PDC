@@ -37,7 +37,10 @@ public class RateTask extends RecursiveAction {
             for (String tutor: tutorNames){
                 RateTask task = new RateTask(journal, tutor);
                 tasks.add(task);
+
+//                task.fork();
             }
+            //invokeAll(tasks);
         }
         else {
             rateStudents(tutorName);
