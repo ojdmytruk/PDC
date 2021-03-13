@@ -34,7 +34,7 @@ public class Model implements Callable<Statistics>{
     }
 
     @Override
-    public Statistics call() throws Exception {
+    public Statistics call() {
         Statistics statistics = new Statistics(this);
         process.setModel(this);
         create.setModel(this);
@@ -48,9 +48,11 @@ public class Model implements Callable<Statistics>{
             channelPool.execute(channel);
         }
         channelPool.shutdown();
+
         while (!channelPool.isTerminated()){
 
         }
+        //statistics.printStatistics();
         return statistics;
     }
 }

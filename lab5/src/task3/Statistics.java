@@ -56,7 +56,7 @@ public class Statistics{
             tCurrent = tNext;
             tNext = System.currentTimeMillis();
             time += (tNext - tCurrent);
-            avgQueueCount += ((tNext - tCurrent) * model.processQueue.size()); //сколько времени простояла в очереди * на размер очереди
+            avgQueueCount += ((tNext - tCurrent) * model.processQueue.size());
             avgQueue = avgQueueCount / (double) time;
         } finally {
             lock.unlock();

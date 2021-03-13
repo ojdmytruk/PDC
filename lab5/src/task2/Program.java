@@ -14,27 +14,14 @@ public class Program {
         Create create = new Create(0.1, 0.0, "Uniform");
         Process process = new Process(0.6, 0.0, "Uniform", 2, 1);
 
-        ExecutorService modelPool = Executors.newFixedThreadPool(5);
+        ExecutorService modelPool = Executors.newSingleThreadExecutor();
         ArrayList<Model> tasks = new ArrayList<>();
-        List<Future<Statistics>> statisticsList = new ArrayList<>();
+        List<Future<Statistics>> statisticsList;
         for (int i=0; i<5; i++){
-            tasks.add(new Model(process, create, 10000.0));
+            tasks.add(new Model(process, create, 1000.0));
         }
         statisticsList = modelPool.invokeAll(tasks);
-//        try {
-//            for (int i=0; i<5; i++){
-//                tasks.add(new Model(process, create, 10000.0));
-//            }
-//            for (Model task: tasks){
-//                statisticsList.add(modelPool.submit(task));
-//            }
-//
-//            //statisticsList = modelPool.invokeAll(tasks);
-//        } finally {
-//            modelPool.shutdown();
-//        }
-
-
+        modelPool.shutdown();
         System.out.println("\n--------------------Statistic result--------------------");
 
         for (int i = 0; i < statisticsList.size(); i++) {
@@ -44,12 +31,12 @@ public class Program {
                 avgFailureProbability += statistics.getFailureProbability();
                 avgQueueLength += statistics.getAvgQueue();
                 System.out.println("EXPERIMENT " + (i+1) + ": Failure probability = " + statistics.getFailureProbability()
-                + "% ; Average queue length = " + statistics.getAvgQueue());
+                        + "% ; Average queue length = " + statistics.getAvgQueue());
             } catch (InterruptedException | ExecutionException e) {
                 e.printStackTrace();
             }
         }
-        modelPool.shutdown();
+
         avgFailureProbability /= statisticsList.size();
         avgQueueLength /= statisticsList.size();
 
@@ -58,5 +45,4 @@ public class Program {
         System.out.println("Average queue length: " + avgQueueLength);
 
     }
-
 }
