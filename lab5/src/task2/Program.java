@@ -18,7 +18,7 @@ public class Program {
         ArrayList<Model> tasks = new ArrayList<>();
         List<Future<Statistics>> statisticsList;
         for (int i=0; i<5; i++){
-            tasks.add(new Model(process, create, 1000.0));
+            tasks.add(new Model(process, create, 10000.0));
         }
         statisticsList = modelPool.invokeAll(tasks);
         modelPool.shutdown();

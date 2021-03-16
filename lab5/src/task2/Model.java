@@ -9,7 +9,6 @@ public class Model implements Callable<Statistics>{
     public BlockingQueue<Task> processQueue;
     private double tCurrent;
     public double timeModeling;
-    public Dispose dispose = new Dispose();
     private Process process;
     private Create create;
     private ReentrantLock lock = new ReentrantLock();

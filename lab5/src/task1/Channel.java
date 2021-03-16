@@ -34,8 +34,8 @@ public class Channel implements Runnable {
             } catch (InterruptedException exception) {
                 exception.printStackTrace();
             }
+            statistics.incrementDisposed();
             System.out.println("Action in " + name + ", time=" + model.getTCurrent());
-            model.dispose.tasksCompleted++;
             delay = Distributions.delay(distribution, delayAvg, delayDev);
             model.incrementTCurrent(delay);
             try {

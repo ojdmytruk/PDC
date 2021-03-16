@@ -11,7 +11,6 @@ public class Model {
     public BlockingQueue<Task> processQueue;
     private double tCurrent;
     public double timeModeling;
-    public Dispose dispose = new Dispose();
     private Process process;
     private Create create;
     private ReentrantLock lock = new ReentrantLock();
@@ -23,7 +22,7 @@ public class Model {
         this.processQueue = new ArrayBlockingQueue<>(process.getQueueCapacity());
     }
 
-    public void simulation() throws InterruptedException {
+    public void simulation() {
         Statistics statistics = new Statistics(this);
         process.setModel(this);
         create.setModel(this);

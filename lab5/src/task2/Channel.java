@@ -32,7 +32,7 @@ public class Channel implements Runnable {
             } catch (InterruptedException exception) {
                 exception.printStackTrace();
             }
-            model.dispose.tasksCompleted++;
+            statistics.incrementDisposed();
             delay = Distributions.delay(distribution, delayAvg, delayDev);
             model.incrementTCurrent(delay);
             try {

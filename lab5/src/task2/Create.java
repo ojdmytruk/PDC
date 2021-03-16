@@ -19,7 +19,6 @@ public class Create implements Runnable{
         while (model.getTCurrent()<model.timeModeling){
             if (model.processQueue.offer(new Task())){
                 statistics.avgQueueCount();
-                statistics.incrementDisposed();
             }else {
                 statistics.incrementFailed();
             }

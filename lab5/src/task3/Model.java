@@ -9,7 +9,6 @@ public class Model {
     public BlockingQueue<Task> processQueue;
     private double tCurrent;
     public double timeModeling;
-    public Dispose dispose = new Dispose();
     private Process process;
     private Create create;
     private ReentrantLock lock = new ReentrantLock();
@@ -21,7 +20,7 @@ public class Model {
         this.processQueue = new ArrayBlockingQueue<>(process.getQueueCapacity());
     }
 
-    public void simulation() throws InterruptedException {
+    public void simulation() {
         Statistics statistics = new Statistics(this);
         process.setModel(this);
         create.setModel(this);
@@ -30,20 +29,15 @@ public class Model {
         ArrayList<Channel> channels = process.channels();
         ExecutorService channelPool = Executors.newFixedThreadPool(channels.size());
 
-        ExecutorService statisticsPool = Executors.newFixedThreadPool(1);
-//        final ScheduledFuture<?> beepHandler =
-//                statisticsPool.scheduleAtFixedRate(new Statistics(this), 1, 2, TimeUnit.NANOSECONDS);
+        ExecutorService statisticsPool = Executors.newSingleThreadExecutor();
         Thread creator = new Thread(create);
         creator.start();
-//        Thread stat = new Thread(new Statistics(this));
-//        stat.start();
 
         for (Channel channel: channels){
             channelPool.execute(channel);
         }
 
         channelPool.shutdown();
-//        statisticsPool.scheduleAtFixedRate(new GetStatistics(statistics), 2, 100, TimeUnit.SECONDS);
 
         while (!channelPool.isTerminated()){
             statisticsPool.execute(new GetStatistics(statistics));
