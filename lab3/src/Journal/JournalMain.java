@@ -21,9 +21,9 @@ public class JournalMain {
         Journal journal = new Journal(groups);
 
         Thread lecturer = new Thread(new RateThread(journal, "Lecturer"));
-        Thread as1 = new Thread(new RateThread(journal, "As1"));
-        Thread as2 = new Thread(new RateThread(journal, "As2"));
-        Thread as3 = new Thread(new RateThread(journal, "As3"));
+        Thread as1 = new Thread(new RateThread(journal, "As1", 0));
+        Thread as2 = new Thread(new RateThread(journal, "As2", 1));
+        Thread as3 = new Thread(new RateThread(journal, "As3", 2));
 
         lecturer.start();
         as1.start();
