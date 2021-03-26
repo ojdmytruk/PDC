@@ -20,7 +20,7 @@ public class lab7 {
     
     public static void main(String[] args) {
         MPI.Init(args);
-        CollectiveMultiplication(args, true, 100);
+        CollectiveMultiplication(args, false, 2500);
         MPI.Finalize();
 //        int[] matrixSizes = {200, 400, 600, 800, 1000};
 //        double[] serialResults = new double[matrixSizes.length];
@@ -101,7 +101,7 @@ public class lab7 {
             }
             if (printResult)
                 printResult(c, _matrixesSize[0]);
-//            System.out.println(totalTime);
+            System.out.println(totalTime);
         }       
         
     }    
